@@ -1,0 +1,9925 @@
+{
+ "duration": 709.48,
+ "words": [
+  {
+   "text": "For",
+   "start": 0.0,
+   "end": 0.44
+  },
+  {
+   "text": "years,",
+   "start": 0.44,
+   "end": 0.84
+  },
+  {
+   "text": "running",
+   "start": 1.36,
+   "end": 1.42
+  },
+  {
+   "text": "AI",
+   "start": 1.42,
+   "end": 1.82
+  },
+  {
+   "text": "at",
+   "start": 1.82,
+   "end": 2.04
+  },
+  {
+   "text": "home",
+   "start": 2.04,
+   "end": 2.42
+  },
+  {
+   "text": "came",
+   "start": 2.42,
+   "end": 2.74
+  },
+  {
+   "text": "with",
+   "start": 2.74,
+   "end": 2.98
+  },
+  {
+   "text": "one",
+   "start": 2.98,
+   "end": 3.32
+  },
+  {
+   "text": "unwritten",
+   "start": 3.32,
+   "end": 3.88
+  },
+  {
+   "text": "rule:",
+   "start": 3.88,
+   "end": 4.34
+  },
+  {
+   "text": "big",
+   "start": 4.96,
+   "end": 5.06
+  },
+  {
+   "text": "model,",
+   "start": 5.06,
+   "end": 5.38
+  },
+  {
+   "text": "big",
+   "start": 5.92,
+   "end": 6.08
+  },
+  {
+   "text": "GPU.",
+   "start": 6.08,
+   "end": 6.54
+  },
+  {
+   "text": "A",
+   "start": 7.68,
+   "end": 7.88
+  },
+  {
+   "text": "seven-billion-parameter",
+   "start": 7.88,
+   "end": 8.96
+  },
+  {
+   "text": "model?",
+   "start": 8.96,
+   "end": 9.28
+  },
+  {
+   "text": "Sure,",
+   "start": 9.78,
+   "end": 9.98
+  },
+  {
+   "text": "almost",
+   "start": 10.54,
+   "end": 10.74
+  },
+  {
+   "text": "any",
+   "start": 10.74,
+   "end": 11.12
+  },
+  {
+   "text": "decent",
+   "start": 11.12,
+   "end": 11.5
+  },
+  {
+   "text": "machine",
+   "start": 11.5,
+   "end": 11.82
+  },
+  {
+   "text": "can",
+   "start": 11.82,
+   "end": 12.08
+  },
+  {
+   "text": "run",
+   "start": 12.08,
+   "end": 12.24
+  },
+  {
+   "text": "that.",
+   "start": 12.24,
+   "end": 12.54
+  },
+  {
+   "text": "Fourteen",
+   "start": 13.16,
+   "end": 13.58
+  },
+  {
+   "text": "billion?",
+   "start": 13.58,
+   "end": 13.82
+  },
+  {
+   "text": "We",
+   "start": 14.32,
+   "end": 14.66
+  },
+  {
+   "text": "start",
+   "start": 14.66,
+   "end": 14.94
+  },
+  {
+   "text": "checking",
+   "start": 14.94,
+   "end": 15.28
+  },
+  {
+   "text": "specs.",
+   "start": 15.28,
+   "end": 15.56
+  },
+  {
+   "text": "Seventy",
+   "start": 16.28,
+   "end": 16.8
+  },
+  {
+   "text": "billion?",
+   "start": 16.8,
+   "end": 17.04
+  },
+  {
+   "text": "Now",
+   "start": 17.82,
+   "end": 18.14
+  },
+  {
+   "text": "we\u2019re",
+   "start": 18.14,
+   "end": 18.36
+  },
+  {
+   "text": "spending",
+   "start": 18.36,
+   "end": 18.62
+  },
+  {
+   "text": "real",
+   "start": 18.62,
+   "end": 18.92
+  },
+  {
+   "text": "money.",
+   "start": 18.92,
+   "end": 19.3
+  },
+  {
+   "text": "And",
+   "start": 19.98,
+   "end": 20.12
+  },
+  {
+   "text": "a",
+   "start": 20.12,
+   "end": 20.22
+  },
+  {
+   "text": "model",
+   "start": 20.22,
+   "end": 20.42
+  },
+  {
+   "text": "with",
+   "start": 20.42,
+   "end": 20.66
+  },
+  {
+   "text": "over",
+   "start": 20.66,
+   "end": 20.9
+  },
+  {
+   "text": "a",
+   "start": 20.9,
+   "end": 20.96
+  },
+  {
+   "text": "hundred",
+   "start": 20.96,
+   "end": 21.36
+  },
+  {
+   "text": "billion",
+   "start": 21.36,
+   "end": 21.76
+  },
+  {
+   "text": "parameters?",
+   "start": 21.76,
+   "end": 22.32
+  },
+  {
+   "text": "That",
+   "start": 22.88,
+   "end": 23.18
+  },
+  {
+   "text": "lived",
+   "start": 23.18,
+   "end": 23.32
+  },
+  {
+   "text": "in",
+   "start": 23.32,
+   "end": 23.48
+  },
+  {
+   "text": "a",
+   "start": 23.48,
+   "end": 23.62
+  },
+  {
+   "text": "data",
+   "start": 23.62,
+   "end": 23.82
+  },
+  {
+   "text": "center.",
+   "start": 23.82,
+   "end": 24.18
+  },
+  {
+   "text": "Everyone",
+   "start": 24.84,
+   "end": 25.2
+  },
+  {
+   "text": "knew",
+   "start": 25.2,
+   "end": 25.48
+  },
+  {
+   "text": "it.",
+   "start": 25.48,
+   "end": 25.86
+  },
+  {
+   "text": "Then",
+   "start": 26.56,
+   "end": 27.2
+  },
+  {
+   "text": "people",
+   "start": 27.36,
+   "end": 27.64
+  },
+  {
+   "text": "on",
+   "start": 27.64,
+   "end": 27.86
+  },
+  {
+   "text": "Reddit",
+   "start": 27.86,
+   "end": 28.08
+  },
+  {
+   "text": "started",
+   "start": 28.08,
+   "end": 28.52
+  },
+  {
+   "text": "posting",
+   "start": 28.52,
+   "end": 28.92
+  },
+  {
+   "text": "their",
+   "start": 28.92,
+   "end": 29.2
+  },
+  {
+   "text": "speeds,",
+   "start": 29.2,
+   "end": 29.62
+  },
+  {
+   "text": "and",
+   "start": 30.22,
+   "end": 30.36
+  },
+  {
+   "text": "they",
+   "start": 30.36,
+   "end": 30.46
+  },
+  {
+   "text": "were",
+   "start": 30.46,
+   "end": 30.66
+  },
+  {
+   "text": "way",
+   "start": 30.66,
+   "end": 30.88
+  },
+  {
+   "text": "higher",
+   "start": 30.88,
+   "end": 31.3
+  },
+  {
+   "text": "than",
+   "start": 31.3,
+   "end": 31.52
+  },
+  {
+   "text": "anyone",
+   "start": 31.52,
+   "end": 32.0
+  },
+  {
+   "text": "expected.",
+   "start": 32.0,
+   "end": 32.5
+  },
+  {
+   "text": "A",
+   "start": 33.44,
+   "end": 33.56
+  },
+  {
+   "text": "hundred",
+   "start": 33.56,
+   "end": 33.8
+  },
+  {
+   "text": "and",
+   "start": 33.8,
+   "end": 34.04
+  },
+  {
+   "text": "twenty-five",
+   "start": 34.04,
+   "end": 34.78
+  },
+  {
+   "text": "billion",
+   "start": 34.78,
+   "end": 35.08
+  },
+  {
+   "text": "parameter",
+   "start": 35.08,
+   "end": 35.62
+  },
+  {
+   "text": "model,",
+   "start": 35.62,
+   "end": 36.02
+  },
+  {
+   "text": "running",
+   "start": 36.54,
+   "end": 36.72
+  },
+  {
+   "text": "on",
+   "start": 36.72,
+   "end": 36.92
+  },
+  {
+   "text": "a",
+   "start": 36.92,
+   "end": 37.08
+  },
+  {
+   "text": "regular",
+   "start": 37.08,
+   "end": 37.46
+  },
+  {
+   "text": "gaming",
+   "start": 37.46,
+   "end": 37.88
+  },
+  {
+   "text": "PC,",
+   "start": 37.88,
+   "end": 38.32
+  },
+  {
+   "text": "fast",
+   "start": 39.08,
+   "end": 39.3
+  },
+  {
+   "text": "enough",
+   "start": 39.3,
+   "end": 39.58
+  },
+  {
+   "text": "to",
+   "start": 39.58,
+   "end": 39.72
+  },
+  {
+   "text": "actually",
+   "start": 39.72,
+   "end": 40.04
+  },
+  {
+   "text": "chat",
+   "start": 40.04,
+   "end": 40.34
+  },
+  {
+   "text": "with.",
+   "start": 40.34,
+   "end": 40.66
+  },
+  {
+   "text": "One",
+   "start": 41.64,
+   "end": 41.9
+  },
+  {
+   "text": "person",
+   "start": 41.9,
+   "end": 42.2
+  },
+  {
+   "text": "with",
+   "start": 42.2,
+   "end": 42.42
+  },
+  {
+   "text": "two",
+   "start": 42.42,
+   "end": 42.68
+  },
+  {
+   "text": "R-T-X",
+   "start": 42.68,
+   "end": 43.2
+  },
+  {
+   "text": "thirty-ninety",
+   "start": 43.2,
+   "end": 43.94
+  },
+  {
+   "text": "GPUs",
+   "start": 43.94,
+   "end": 44.44
+  },
+  {
+   "text": "said",
+   "start": 44.44,
+   "end": 45.0
+  },
+  {
+   "text": "they",
+   "start": 45.0,
+   "end": 45.14
+  },
+  {
+   "text": "were",
+   "start": 45.14,
+   "end": 45.28
+  },
+  {
+   "text": "seeing",
+   "start": 45.28,
+   "end": 45.46
+  },
+  {
+   "text": "over",
+   "start": 45.46,
+   "end": 45.78
+  },
+  {
+   "text": "a",
+   "start": 45.78,
+   "end": 45.92
+  },
+  {
+   "text": "hundred",
+   "start": 45.92,
+   "end": 46.28
+  },
+  {
+   "text": "tokens",
+   "start": 46.28,
+   "end": 46.7
+  },
+  {
+   "text": "per",
+   "start": 46.7,
+   "end": 46.96
+  },
+  {
+   "text": "second.",
+   "start": 46.96,
+   "end": 47.3
+  },
+  {
+   "text": "Someone",
+   "start": 47.94,
+   "end": 48.18
+  },
+  {
+   "text": "with",
+   "start": 48.18,
+   "end": 48.32
+  },
+  {
+   "text": "an",
+   "start": 48.32,
+   "end": 48.42
+  },
+  {
+   "text": "R-T-X",
+   "start": 48.42,
+   "end": 48.94
+  },
+  {
+   "text": "forty-eighty",
+   "start": 48.94,
+   "end": 49.58
+  },
+  {
+   "text": "Super",
+   "start": 49.58,
+   "end": 49.92
+  },
+  {
+   "text": "said",
+   "start": 49.92,
+   "end": 50.3
+  },
+  {
+   "text": "forty",
+   "start": 50.3,
+   "end": 50.72
+  },
+  {
+   "text": "to",
+   "start": 50.72,
+   "end": 50.84
+  },
+  {
+   "text": "sixty.",
+   "start": 50.84,
+   "end": 51.24
+  },
+  {
+   "text": "A",
+   "start": 51.6,
+   "end": 51.82
+  },
+  {
+   "text": "forty-ninety",
+   "start": 51.82,
+   "end": 52.56
+  },
+  {
+   "text": "owner",
+   "start": 52.56,
+   "end": 52.86
+  },
+  {
+   "text": "said",
+   "start": 52.86,
+   "end": 53.12
+  },
+  {
+   "text": "more",
+   "start": 53.12,
+   "end": 53.34
+  },
+  {
+   "text": "than",
+   "start": 53.34,
+   "end": 53.48
+  },
+  {
+   "text": "a",
+   "start": 53.48,
+   "end": 53.668
+  },
+  {
+   "text": "hundred",
+   "start": 53.668,
+   "end": 54.327
+  },
+  {
+   "text": "and",
+   "start": 54.327,
+   "end": 54.609
+  },
+  {
+   "text": "forty.",
+   "start": 54.609,
+   "end": 55.08
+  },
+  {
+   "text": "So",
+   "start": 55.08,
+   "end": 55.64
+  },
+  {
+   "text": "what",
+   "start": 55.78,
+   "end": 56.1
+  },
+  {
+   "text": "changed?",
+   "start": 56.1,
+   "end": 56.46
+  },
+  {
+   "text": "The",
+   "start": 57.3,
+   "end": 57.5
+  },
+  {
+   "text": "GPUs",
+   "start": 57.5,
+   "end": 57.8
+  },
+  {
+   "text": "didn\u2019t",
+   "start": 57.8,
+   "end": 58.28
+  },
+  {
+   "text": "get",
+   "start": 58.28,
+   "end": 58.46
+  },
+  {
+   "text": "any",
+   "start": 58.46,
+   "end": 58.64
+  },
+  {
+   "text": "extra",
+   "start": 58.64,
+   "end": 58.98
+  },
+  {
+   "text": "memory.",
+   "start": 58.98,
+   "end": 59.4
+  },
+  {
+   "text": "The",
+   "start": 59.86,
+   "end": 60.1
+  },
+  {
+   "text": "software",
+   "start": 60.1,
+   "end": 60.44
+  },
+  {
+   "text": "just",
+   "start": 60.44,
+   "end": 60.72
+  },
+  {
+   "text": "got",
+   "start": 60.72,
+   "end": 60.9
+  },
+  {
+   "text": "much",
+   "start": 60.9,
+   "end": 61.24
+  },
+  {
+   "text": "smarter",
+   "start": 61.24,
+   "end": 61.66
+  },
+  {
+   "text": "about",
+   "start": 61.66,
+   "end": 61.98
+  },
+  {
+   "text": "using",
+   "start": 61.98,
+   "end": 62.38
+  },
+  {
+   "text": "the",
+   "start": 62.38,
+   "end": 62.62
+  },
+  {
+   "text": "memory",
+   "start": 62.62,
+   "end": 62.86
+  },
+  {
+   "text": "they",
+   "start": 62.86,
+   "end": 63.08
+  },
+  {
+   "text": "already",
+   "start": 63.08,
+   "end": 63.46
+  },
+  {
+   "text": "have.",
+   "start": 63.46,
+   "end": 63.98
+  },
+  {
+   "text": "The",
+   "start": 64.84,
+   "end": 65.1
+  },
+  {
+   "text": "project",
+   "start": 65.1,
+   "end": 65.4
+  },
+  {
+   "text": "is",
+   "start": 65.4,
+   "end": 65.64
+  },
+  {
+   "text": "called",
+   "start": 65.64,
+   "end": 65.88
+  },
+  {
+   "text": "Strata.",
+   "start": 65.88,
+   "end": 66.4
+  },
+  {
+   "text": "We\u2019ll",
+   "start": 67.2,
+   "end": 67.46
+  },
+  {
+   "text": "walk",
+   "start": 67.46,
+   "end": 67.6
+  },
+  {
+   "text": "through",
+   "start": 67.6,
+   "end": 67.82
+  },
+  {
+   "text": "how",
+   "start": 67.82,
+   "end": 68.02
+  },
+  {
+   "text": "it",
+   "start": 68.02,
+   "end": 68.14
+  },
+  {
+   "text": "works,",
+   "start": 68.14,
+   "end": 68.56
+  },
+  {
+   "text": "starting",
+   "start": 68.8,
+   "end": 69.02
+  },
+  {
+   "text": "with",
+   "start": 69.02,
+   "end": 69.26
+  },
+  {
+   "text": "the",
+   "start": 69.26,
+   "end": 69.46
+  },
+  {
+   "text": "problem",
+   "start": 69.46,
+   "end": 69.74
+  },
+  {
+   "text": "it\u2019s",
+   "start": 69.74,
+   "end": 70.0
+  },
+  {
+   "text": "trying",
+   "start": 70.0,
+   "end": 70.18
+  },
+  {
+   "text": "to",
+   "start": 70.18,
+   "end": 70.36
+  },
+  {
+   "text": "solve.",
+   "start": 70.36,
+   "end": 70.74
+  },
+  {
+   "text": "A",
+   "start": 71.52,
+   "end": 71.72
+  },
+  {
+   "text": "model",
+   "start": 71.72,
+   "end": 71.92
+  },
+  {
+   "text": "is",
+   "start": 71.92,
+   "end": 72.24
+  },
+  {
+   "text": "basically",
+   "start": 72.24,
+   "end": 72.62
+  },
+  {
+   "text": "a",
+   "start": 72.62,
+   "end": 72.92
+  },
+  {
+   "text": "giant",
+   "start": 72.92,
+   "end": 73.2
+  },
+  {
+   "text": "list",
+   "start": 73.2,
+   "end": 73.38
+  },
+  {
+   "text": "of",
+   "start": 73.38,
+   "end": 73.6
+  },
+  {
+   "text": "numbers.",
+   "start": 73.6,
+   "end": 73.9
+  },
+  {
+   "text": "We",
+   "start": 74.46,
+   "end": 74.54
+  },
+  {
+   "text": "call",
+   "start": 74.54,
+   "end": 74.68
+  },
+  {
+   "text": "them",
+   "start": 74.68,
+   "end": 74.88
+  },
+  {
+   "text": "parameters.",
+   "start": 74.88,
+   "end": 75.26
+  },
+  {
+   "text": "A",
+   "start": 75.26,
+   "end": 75.405
+  },
+  {
+   "text": "hundred",
+   "start": 75.405,
+   "end": 75.915
+  },
+  {
+   "text": "and",
+   "start": 75.915,
+   "end": 76.133
+  },
+  {
+   "text": "twenty-five",
+   "start": 76.133,
+   "end": 76.86
+  },
+  {
+   "text": "billion",
+   "start": 76.86,
+   "end": 77.46
+  },
+  {
+   "text": "parameter",
+   "start": 77.46,
+   "end": 77.96
+  },
+  {
+   "text": "model",
+   "start": 77.96,
+   "end": 78.28
+  },
+  {
+   "text": "has",
+   "start": 78.28,
+   "end": 78.56
+  },
+  {
+   "text": "a",
+   "start": 78.56,
+   "end": 78.624
+  },
+  {
+   "text": "hundred",
+   "start": 78.624,
+   "end": 78.846
+  },
+  {
+   "text": "and",
+   "start": 78.846,
+   "end": 78.942
+  },
+  {
+   "text": "twenty-five",
+   "start": 78.942,
+   "end": 79.26
+  },
+  {
+   "text": "billion",
+   "start": 79.26,
+   "end": 79.9
+  },
+  {
+   "text": "of",
+   "start": 79.9,
+   "end": 80.18
+  },
+  {
+   "text": "them,",
+   "start": 80.18,
+   "end": 80.38
+  },
+  {
+   "text": "and",
+   "start": 80.86,
+   "end": 81.08
+  },
+  {
+   "text": "to",
+   "start": 81.08,
+   "end": 81.18
+  },
+  {
+   "text": "run",
+   "start": 81.18,
+   "end": 81.36
+  },
+  {
+   "text": "the",
+   "start": 81.36,
+   "end": 81.5
+  },
+  {
+   "text": "model,",
+   "start": 81.5,
+   "end": 81.72
+  },
+  {
+   "text": "the",
+   "start": 82.02,
+   "end": 82.08
+  },
+  {
+   "text": "GPU",
+   "start": 82.08,
+   "end": 82.36
+  },
+  {
+   "text": "needs",
+   "start": 82.36,
+   "end": 82.72
+  },
+  {
+   "text": "fast",
+   "start": 82.72,
+   "end": 83.12
+  },
+  {
+   "text": "access",
+   "start": 83.12,
+   "end": 83.58
+  },
+  {
+   "text": "to",
+   "start": 83.58,
+   "end": 83.74
+  },
+  {
+   "text": "all",
+   "start": 83.74,
+   "end": 83.88
+  },
+  {
+   "text": "those",
+   "start": 83.88,
+   "end": 84.12
+  },
+  {
+   "text": "numbers.",
+   "start": 84.12,
+   "end": 84.36
+  },
+  {
+   "text": "The",
+   "start": 85.32,
+   "end": 85.5
+  },
+  {
+   "text": "GPU",
+   "start": 85.5,
+   "end": 85.74
+  },
+  {
+   "text": "keeps",
+   "start": 85.74,
+   "end": 86.12
+  },
+  {
+   "text": "them",
+   "start": 86.12,
+   "end": 86.3
+  },
+  {
+   "text": "in",
+   "start": 86.3,
+   "end": 86.46
+  },
+  {
+   "text": "its",
+   "start": 86.46,
+   "end": 86.58
+  },
+  {
+   "text": "own",
+   "start": 86.58,
+   "end": 86.8
+  },
+  {
+   "text": "memory,",
+   "start": 86.8,
+   "end": 87.18
+  },
+  {
+   "text": "called",
+   "start": 87.48,
+   "end": 87.56
+  },
+  {
+   "text": "V-RAM.",
+   "start": 87.56,
+   "end": 88.2
+  },
+  {
+   "text": "V-RAM",
+   "start": 88.8,
+   "end": 89.22
+  },
+  {
+   "text": "is",
+   "start": 89.22,
+   "end": 89.38
+  },
+  {
+   "text": "very",
+   "start": 89.38,
+   "end": 89.6
+  },
+  {
+   "text": "fast,",
+   "start": 89.6,
+   "end": 90.0
+  },
+  {
+   "text": "but",
+   "start": 90.22,
+   "end": 90.28
+  },
+  {
+   "text": "it\u2019s",
+   "start": 90.28,
+   "end": 90.5
+  },
+  {
+   "text": "small.",
+   "start": 90.5,
+   "end": 90.84
+  },
+  {
+   "text": "A",
+   "start": 91.76,
+   "end": 91.94
+  },
+  {
+   "text": "typical",
+   "start": 91.94,
+   "end": 92.24
+  },
+  {
+   "text": "gaming",
+   "start": 92.24,
+   "end": 92.54
+  },
+  {
+   "text": "GPU",
+   "start": 92.54,
+   "end": 93.04
+  },
+  {
+   "text": "has",
+   "start": 93.04,
+   "end": 93.32
+  },
+  {
+   "text": "twelve,",
+   "start": 93.32,
+   "end": 93.68
+  },
+  {
+   "text": "sixteen,",
+   "start": 93.9,
+   "end": 94.38
+  },
+  {
+   "text": "or",
+   "start": 94.38,
+   "end": 94.66
+  },
+  {
+   "text": "maybe",
+   "start": 94.66,
+   "end": 94.86
+  },
+  {
+   "text": "twenty-four",
+   "start": 94.86,
+   "end": 95.46
+  },
+  {
+   "text": "gigabytes.",
+   "start": 95.46,
+   "end": 95.96
+  },
+  {
+   "text": "Even",
+   "start": 96.78,
+   "end": 97.04
+  },
+  {
+   "text": "after",
+   "start": 97.04,
+   "end": 97.34
+  },
+  {
+   "text": "we",
+   "start": 97.34,
+   "end": 97.52
+  },
+  {
+   "text": "shrink",
+   "start": 97.52,
+   "end": 97.86
+  },
+  {
+   "text": "a",
+   "start": 97.86,
+   "end": 98.04
+  },
+  {
+   "text": "model",
+   "start": 98.04,
+   "end": 98.26
+  },
+  {
+   "text": "this",
+   "start": 98.26,
+   "end": 98.5
+  },
+  {
+   "text": "big,",
+   "start": 98.5,
+   "end": 98.84
+  },
+  {
+   "text": "it\u2019s",
+   "start": 98.96,
+   "end": 99.24
+  },
+  {
+   "text": "still",
+   "start": 99.24,
+   "end": 99.46
+  },
+  {
+   "text": "bigger",
+   "start": 99.46,
+   "end": 99.76
+  },
+  {
+   "text": "than",
+   "start": 99.76,
+   "end": 100.02
+  },
+  {
+   "text": "that.",
+   "start": 100.02,
+   "end": 100.32
+  },
+  {
+   "text": "But",
+   "start": 101.16,
+   "end": 101.44
+  },
+  {
+   "text": "a",
+   "start": 101.44,
+   "end": 101.54
+  },
+  {
+   "text": "gaming",
+   "start": 101.54,
+   "end": 101.78
+  },
+  {
+   "text": "PC",
+   "start": 101.78,
+   "end": 102.12
+  },
+  {
+   "text": "has",
+   "start": 102.12,
+   "end": 102.44
+  },
+  {
+   "text": "a",
+   "start": 102.44,
+   "end": 102.62
+  },
+  {
+   "text": "second",
+   "start": 102.62,
+   "end": 102.94
+  },
+  {
+   "text": "kind",
+   "start": 102.94,
+   "end": 103.22
+  },
+  {
+   "text": "of",
+   "start": 103.22,
+   "end": 103.4
+  },
+  {
+   "text": "memory",
+   "start": 103.4,
+   "end": 103.58
+  },
+  {
+   "text": "too:",
+   "start": 103.58,
+   "end": 104.0
+  },
+  {
+   "text": "regular",
+   "start": 104.66,
+   "end": 104.98
+  },
+  {
+   "text": "system",
+   "start": 104.98,
+   "end": 105.44
+  },
+  {
+   "text": "RAM.",
+   "start": 105.44,
+   "end": 105.74
+  },
+  {
+   "text": "It\u2019s",
+   "start": 106.48,
+   "end": 106.86
+  },
+  {
+   "text": "slower",
+   "start": 106.86,
+   "end": 107.1
+  },
+  {
+   "text": "than",
+   "start": 107.1,
+   "end": 107.38
+  },
+  {
+   "text": "V-RAM,",
+   "start": 107.38,
+   "end": 107.88
+  },
+  {
+   "text": "but",
+   "start": 108.0,
+   "end": 108.1
+  },
+  {
+   "text": "there\u2019s",
+   "start": 108.1,
+   "end": 108.26
+  },
+  {
+   "text": "a",
+   "start": 108.26,
+   "end": 108.36
+  },
+  {
+   "text": "lot",
+   "start": 108.36,
+   "end": 108.6
+  },
+  {
+   "text": "more",
+   "start": 108.6,
+   "end": 108.9
+  },
+  {
+   "text": "of",
+   "start": 108.9,
+   "end": 109.06
+  },
+  {
+   "text": "it.",
+   "start": 109.06,
+   "end": 109.22
+  },
+  {
+   "text": "A",
+   "start": 109.7,
+   "end": 110.02
+  },
+  {
+   "text": "well-built",
+   "start": 110.02,
+   "end": 110.5
+  },
+  {
+   "text": "gaming",
+   "start": 110.5,
+   "end": 110.74
+  },
+  {
+   "text": "PC",
+   "start": 110.74,
+   "end": 111.16
+  },
+  {
+   "text": "might",
+   "start": 111.16,
+   "end": 111.4
+  },
+  {
+   "text": "have",
+   "start": 111.4,
+   "end": 111.6
+  },
+  {
+   "text": "sixty-four",
+   "start": 111.6,
+   "end": 112.03
+  },
+  {
+   "text": "gigabytes",
+   "start": 112.03,
+   "end": 112.46
+  },
+  {
+   "text": "or",
+   "start": 112.46,
+   "end": 112.88
+  },
+  {
+   "text": "more.",
+   "start": 112.88,
+   "end": 113.24
+  },
+  {
+   "text": "So",
+   "start": 114.1,
+   "end": 114.32
+  },
+  {
+   "text": "the",
+   "start": 114.32,
+   "end": 114.42
+  },
+  {
+   "text": "old",
+   "start": 114.42,
+   "end": 114.6
+  },
+  {
+   "text": "question",
+   "start": 114.6,
+   "end": 114.88
+  },
+  {
+   "text": "was",
+   "start": 114.88,
+   "end": 115.12
+  },
+  {
+   "text": "simple.",
+   "start": 115.12,
+   "end": 115.42
+  },
+  {
+   "text": "Does",
+   "start": 116.16,
+   "end": 116.32
+  },
+  {
+   "text": "the",
+   "start": 116.32,
+   "end": 116.56
+  },
+  {
+   "text": "model",
+   "start": 116.56,
+   "end": 116.76
+  },
+  {
+   "text": "fit",
+   "start": 116.76,
+   "end": 117.12
+  },
+  {
+   "text": "in",
+   "start": 117.12,
+   "end": 117.42
+  },
+  {
+   "text": "V-RAM?",
+   "start": 117.42,
+   "end": 117.86
+  },
+  {
+   "text": "If",
+   "start": 118.5,
+   "end": 118.78
+  },
+  {
+   "text": "it",
+   "start": 118.78,
+   "end": 118.88
+  },
+  {
+   "text": "doesn\u2019t,",
+   "start": 118.88,
+   "end": 119.3
+  },
+  {
+   "text": "we",
+   "start": 119.46,
+   "end": 119.62
+  },
+  {
+   "text": "start",
+   "start": 119.62,
+   "end": 119.8
+  },
+  {
+   "text": "making",
+   "start": 119.8,
+   "end": 120.08
+  },
+  {
+   "text": "compromises.",
+   "start": 120.08,
+   "end": 120.62
+  },
+  {
+   "text": "Slower",
+   "start": 121.56,
+   "end": 121.66
+  },
+  {
+   "text": "speeds,",
+   "start": 121.66,
+   "end": 122.02
+  },
+  {
+   "text": "worse",
+   "start": 122.4,
+   "end": 122.5
+  },
+  {
+   "text": "quality,",
+   "start": 122.5,
+   "end": 122.98
+  },
+  {
+   "text": "or",
+   "start": 123.34,
+   "end": 123.44
+  },
+  {
+   "text": "giving",
+   "start": 123.44,
+   "end": 123.66
+  },
+  {
+   "text": "up.",
+   "start": 123.66,
+   "end": 123.94
+  },
+  {
+   "text": "Strata",
+   "start": 124.98,
+   "end": 125.4
+  },
+  {
+   "text": "tries",
+   "start": 125.4,
+   "end": 125.86
+  },
+  {
+   "text": "something",
+   "start": 125.86,
+   "end": 126.22
+  },
+  {
+   "text": "different.",
+   "start": 126.22,
+   "end": 126.7
+  },
+  {
+   "text": "What",
+   "start": 127.38,
+   "end": 127.78
+  },
+  {
+   "text": "if",
+   "start": 127.78,
+   "end": 128.0
+  },
+  {
+   "text": "the",
+   "start": 128.0,
+   "end": 128.16
+  },
+  {
+   "text": "GPU",
+   "start": 128.16,
+   "end": 128.52
+  },
+  {
+   "text": "doesn\u2019t",
+   "start": 128.52,
+   "end": 129.1
+  },
+  {
+   "text": "have",
+   "start": 129.1,
+   "end": 129.3
+  },
+  {
+   "text": "to",
+   "start": 129.3,
+   "end": 129.5
+  },
+  {
+   "text": "hold",
+   "start": 129.5,
+   "end": 129.76
+  },
+  {
+   "text": "the",
+   "start": 129.76,
+   "end": 129.96
+  },
+  {
+   "text": "whole",
+   "start": 129.96,
+   "end": 130.28
+  },
+  {
+   "text": "model",
+   "start": 130.28,
+   "end": 130.6
+  },
+  {
+   "text": "at",
+   "start": 130.6,
+   "end": 130.78
+  },
+  {
+   "text": "once?",
+   "start": 130.78,
+   "end": 131.16
+  },
+  {
+   "text": "Strata",
+   "start": 132.06,
+   "end": 132.7
+  },
+  {
+   "text": "is",
+   "start": 132.7,
+   "end": 133.12
+  },
+  {
+   "text": "an",
+   "start": 133.12,
+   "end": 133.36
+  },
+  {
+   "text": "open-source",
+   "start": 133.36,
+   "end": 134.08
+  },
+  {
+   "text": "inference",
+   "start": 134.08,
+   "end": 134.5
+  },
+  {
+   "text": "engine.",
+   "start": 134.5,
+   "end": 134.98
+  },
+  {
+   "text": "Inference",
+   "start": 135.56,
+   "end": 135.96
+  },
+  {
+   "text": "just",
+   "start": 135.96,
+   "end": 136.18
+  },
+  {
+   "text": "means",
+   "start": 136.18,
+   "end": 136.44
+  },
+  {
+   "text": "running",
+   "start": 136.44,
+   "end": 136.8
+  },
+  {
+   "text": "a",
+   "start": 136.8,
+   "end": 137.04
+  },
+  {
+   "text": "model",
+   "start": 137.04,
+   "end": 137.24
+  },
+  {
+   "text": "to",
+   "start": 137.24,
+   "end": 137.44
+  },
+  {
+   "text": "get",
+   "start": 137.44,
+   "end": 137.6
+  },
+  {
+   "text": "answers,",
+   "start": 137.6,
+   "end": 138.1
+  },
+  {
+   "text": "as",
+   "start": 138.1,
+   "end": 138.34
+  },
+  {
+   "text": "opposed",
+   "start": 138.34,
+   "end": 138.56
+  },
+  {
+   "text": "to",
+   "start": 138.56,
+   "end": 138.76
+  },
+  {
+   "text": "training",
+   "start": 138.76,
+   "end": 139.04
+  },
+  {
+   "text": "it.",
+   "start": 139.04,
+   "end": 139.36
+  },
+  {
+   "text": "An",
+   "start": 139.9,
+   "end": 140.08
+  },
+  {
+   "text": "inference",
+   "start": 140.08,
+   "end": 140.4
+  },
+  {
+   "text": "engine",
+   "start": 140.4,
+   "end": 140.92
+  },
+  {
+   "text": "is",
+   "start": 140.92,
+   "end": 141.14
+  },
+  {
+   "text": "the",
+   "start": 141.14,
+   "end": 141.32
+  },
+  {
+   "text": "software",
+   "start": 141.32,
+   "end": 141.66
+  },
+  {
+   "text": "that",
+   "start": 141.66,
+   "end": 141.82
+  },
+  {
+   "text": "loads",
+   "start": 141.82,
+   "end": 142.2
+  },
+  {
+   "text": "the",
+   "start": 142.2,
+   "end": 142.44
+  },
+  {
+   "text": "model",
+   "start": 142.44,
+   "end": 142.66
+  },
+  {
+   "text": "onto",
+   "start": 142.66,
+   "end": 143.04
+  },
+  {
+   "text": "our",
+   "start": 143.04,
+   "end": 143.3
+  },
+  {
+   "text": "hardware",
+   "start": 143.3,
+   "end": 143.72
+  },
+  {
+   "text": "and",
+   "start": 143.72,
+   "end": 143.96
+  },
+  {
+   "text": "does",
+   "start": 143.96,
+   "end": 144.16
+  },
+  {
+   "text": "the",
+   "start": 144.16,
+   "end": 144.36
+  },
+  {
+   "text": "actual",
+   "start": 144.36,
+   "end": 144.68
+  },
+  {
+   "text": "work.",
+   "start": 144.68,
+   "end": 145.18
+  },
+  {
+   "text": "If",
+   "start": 145.84,
+   "end": 145.98
+  },
+  {
+   "text": "we\u2019ve",
+   "start": 145.98,
+   "end": 146.22
+  },
+  {
+   "text": "used",
+   "start": 146.22,
+   "end": 146.44
+  },
+  {
+   "text": "llama",
+   "start": 146.44,
+   "end": 146.9
+  },
+  {
+   "text": "C-P-P",
+   "start": 146.9,
+   "end": 147.42
+  },
+  {
+   "text": "or",
+   "start": 147.42,
+   "end": 147.92
+  },
+  {
+   "text": "V-L-L-M,",
+   "start": 147.92,
+   "end": 148.9
+  },
+  {
+   "text": "we\u2019ve",
+   "start": 149.12,
+   "end": 149.4
+  },
+  {
+   "text": "used",
+   "start": 149.4,
+   "end": 149.62
+  },
+  {
+   "text": "one.",
+   "start": 149.62,
+   "end": 149.82
+  },
+  {
+   "text": "Those",
+   "start": 150.48,
+   "end": 150.82
+  },
+  {
+   "text": "two",
+   "start": 150.82,
+   "end": 151.04
+  },
+  {
+   "text": "are",
+   "start": 151.04,
+   "end": 151.22
+  },
+  {
+   "text": "general-purpose.",
+   "start": 151.22,
+   "end": 152.56
+  },
+  {
+   "text": "They",
+   "start": 152.56,
+   "end": 152.62
+  },
+  {
+   "text": "handle",
+   "start": 152.62,
+   "end": 152.86
+  },
+  {
+   "text": "lots",
+   "start": 152.86,
+   "end": 153.14
+  },
+  {
+   "text": "of",
+   "start": 153.14,
+   "end": 153.34
+  },
+  {
+   "text": "different",
+   "start": 153.34,
+   "end": 153.6
+  },
+  {
+   "text": "models.",
+   "start": 153.6,
+   "end": 154.02
+  },
+  {
+   "text": "Strata",
+   "start": 154.82,
+   "end": 155.18
+  },
+  {
+   "text": "goes",
+   "start": 155.18,
+   "end": 155.46
+  },
+  {
+   "text": "the",
+   "start": 155.46,
+   "end": 155.62
+  },
+  {
+   "text": "other",
+   "start": 155.62,
+   "end": 155.88
+  },
+  {
+   "text": "way.",
+   "start": 155.88,
+   "end": 156.18
+  },
+  {
+   "text": "Right",
+   "start": 156.72,
+   "end": 156.92
+  },
+  {
+   "text": "now",
+   "start": 156.92,
+   "end": 157.12
+  },
+  {
+   "text": "it\u2019s",
+   "start": 157.12,
+   "end": 157.34
+  },
+  {
+   "text": "built",
+   "start": 157.34,
+   "end": 157.48
+  },
+  {
+   "text": "for",
+   "start": 157.48,
+   "end": 157.7
+  },
+  {
+   "text": "ONE",
+   "start": 157.7,
+   "end": 158.04
+  },
+  {
+   "text": "model:",
+   "start": 158.04,
+   "end": 158.44
+  },
+  {
+   "text": "Qwen",
+   "start": 158.44,
+   "end": 159.1
+  },
+  {
+   "text": "three",
+   "start": 159.1,
+   "end": 159.42
+  },
+  {
+   "text": "point",
+   "start": 159.42,
+   "end": 159.48
+  },
+  {
+   "text": "eight",
+   "start": 159.48,
+   "end": 160.06
+  },
+  {
+   "text": "Flash",
+   "start": 160.06,
+   "end": 160.4
+  },
+  {
+   "text": "Next,",
+   "start": 160.4,
+   "end": 160.88
+  },
+  {
+   "text": "a",
+   "start": 160.88,
+   "end": 160.962
+  },
+  {
+   "text": "hundred",
+   "start": 160.962,
+   "end": 161.248
+  },
+  {
+   "text": "and",
+   "start": 161.248,
+   "end": 161.371
+  },
+  {
+   "text": "twenty-five",
+   "start": 161.371,
+   "end": 161.78
+  },
+  {
+   "text": "billion",
+   "start": 161.78,
+   "end": 162.48
+  },
+  {
+   "text": "parameter",
+   "start": 162.48,
+   "end": 163.0
+  },
+  {
+   "text": "model.",
+   "start": 163.0,
+   "end": 163.38
+  },
+  {
+   "text": "Because",
+   "start": 163.86,
+   "end": 164.36
+  },
+  {
+   "text": "it",
+   "start": 164.36,
+   "end": 164.48
+  },
+  {
+   "text": "only",
+   "start": 164.48,
+   "end": 164.66
+  },
+  {
+   "text": "has",
+   "start": 164.66,
+   "end": 164.8
+  },
+  {
+   "text": "to",
+   "start": 164.8,
+   "end": 164.96
+  },
+  {
+   "text": "care",
+   "start": 164.96,
+   "end": 165.2
+  },
+  {
+   "text": "about",
+   "start": 165.2,
+   "end": 165.44
+  },
+  {
+   "text": "one",
+   "start": 165.44,
+   "end": 165.8
+  },
+  {
+   "text": "model,",
+   "start": 165.8,
+   "end": 166.24
+  },
+  {
+   "text": "it",
+   "start": 166.38,
+   "end": 166.46
+  },
+  {
+   "text": "can",
+   "start": 166.46,
+   "end": 166.6
+  },
+  {
+   "text": "make",
+   "start": 166.6,
+   "end": 166.82
+  },
+  {
+   "text": "bets",
+   "start": 166.82,
+   "end": 167.12
+  },
+  {
+   "text": "that",
+   "start": 167.12,
+   "end": 167.34
+  },
+  {
+   "text": "a",
+   "start": 167.34,
+   "end": 167.48
+  },
+  {
+   "text": "general",
+   "start": 167.48,
+   "end": 167.7
+  },
+  {
+   "text": "tool",
+   "start": 167.7,
+   "end": 168.04
+  },
+  {
+   "text": "can\u2019t.",
+   "start": 168.04,
+   "end": 168.6
+  },
+  {
+   "text": "The",
+   "start": 169.24,
+   "end": 169.42
+  },
+  {
+   "text": "project\u2019s",
+   "start": 169.42,
+   "end": 169.88
+  },
+  {
+   "text": "claim",
+   "start": 169.88,
+   "end": 170.16
+  },
+  {
+   "text": "is",
+   "start": 170.16,
+   "end": 170.42
+  },
+  {
+   "text": "that",
+   "start": 170.42,
+   "end": 170.54
+  },
+  {
+   "text": "an",
+   "start": 170.54,
+   "end": 170.72
+  },
+  {
+   "text": "NVIDIA",
+   "start": 170.72,
+   "end": 171.14
+  },
+  {
+   "text": "GPU",
+   "start": 171.14,
+   "end": 171.58
+  },
+  {
+   "text": "with",
+   "start": 171.58,
+   "end": 171.94
+  },
+  {
+   "text": "twelve",
+   "start": 171.94,
+   "end": 172.244
+  },
+  {
+   "text": "gigabytes",
+   "start": 172.244,
+   "end": 172.7
+  },
+  {
+   "text": "of",
+   "start": 172.7,
+   "end": 172.98
+  },
+  {
+   "text": "V-RAM",
+   "start": 172.98,
+   "end": 173.52
+  },
+  {
+   "text": "and",
+   "start": 173.52,
+   "end": 173.84
+  },
+  {
+   "text": "sixty-four",
+   "start": 173.84,
+   "end": 174.32
+  },
+  {
+   "text": "gigabytes",
+   "start": 174.32,
+   "end": 174.8
+  },
+  {
+   "text": "of",
+   "start": 174.8,
+   "end": 175.14
+  },
+  {
+   "text": "system",
+   "start": 175.14,
+   "end": 175.44
+  },
+  {
+   "text": "RAM",
+   "start": 175.44,
+   "end": 175.7
+  },
+  {
+   "text": "is",
+   "start": 175.7,
+   "end": 175.9
+  },
+  {
+   "text": "enough",
+   "start": 175.9,
+   "end": 176.18
+  },
+  {
+   "text": "to",
+   "start": 176.18,
+   "end": 176.4
+  },
+  {
+   "text": "run",
+   "start": 176.4,
+   "end": 176.58
+  },
+  {
+   "text": "it",
+   "start": 176.58,
+   "end": 176.76
+  },
+  {
+   "text": "at",
+   "start": 176.76,
+   "end": 176.94
+  },
+  {
+   "text": "tens",
+   "start": 176.94,
+   "end": 177.26
+  },
+  {
+   "text": "of",
+   "start": 177.26,
+   "end": 177.64
+  },
+  {
+   "text": "tokens",
+   "start": 177.64,
+   "end": 177.96
+  },
+  {
+   "text": "per",
+   "start": 177.96,
+   "end": 178.2
+  },
+  {
+   "text": "second.",
+   "start": 178.2,
+   "end": 178.58
+  },
+  {
+   "text": "Quick",
+   "start": 179.32,
+   "end": 179.56
+  },
+  {
+   "text": "note",
+   "start": 179.56,
+   "end": 179.72
+  },
+  {
+   "text": "on",
+   "start": 179.72,
+   "end": 179.9
+  },
+  {
+   "text": "that",
+   "start": 179.9,
+   "end": 180.04
+  },
+  {
+   "text": "unit.",
+   "start": 180.04,
+   "end": 180.36
+  },
+  {
+   "text": "A",
+   "start": 180.98,
+   "end": 181.16
+  },
+  {
+   "text": "token",
+   "start": 181.16,
+   "end": 181.44
+  },
+  {
+   "text": "is",
+   "start": 181.44,
+   "end": 181.68
+  },
+  {
+   "text": "a",
+   "start": 181.68,
+   "end": 181.86
+  },
+  {
+   "text": "small",
+   "start": 181.86,
+   "end": 182.16
+  },
+  {
+   "text": "chunk",
+   "start": 182.16,
+   "end": 182.46
+  },
+  {
+   "text": "of",
+   "start": 182.46,
+   "end": 182.66
+  },
+  {
+   "text": "text,",
+   "start": 182.66,
+   "end": 183.06
+  },
+  {
+   "text": "about",
+   "start": 183.32,
+   "end": 183.5
+  },
+  {
+   "text": "three-quarters",
+   "start": 183.5,
+   "end": 184.18
+  },
+  {
+   "text": "of",
+   "start": 184.18,
+   "end": 184.34
+  },
+  {
+   "text": "a",
+   "start": 184.34,
+   "end": 184.44
+  },
+  {
+   "text": "word.",
+   "start": 184.44,
+   "end": 184.76
+  },
+  {
+   "text": "Tokens",
+   "start": 185.52,
+   "end": 185.76
+  },
+  {
+   "text": "per",
+   "start": 185.76,
+   "end": 186.0
+  },
+  {
+   "text": "second",
+   "start": 186.0,
+   "end": 186.42
+  },
+  {
+   "text": "tells",
+   "start": 186.42,
+   "end": 186.78
+  },
+  {
+   "text": "us",
+   "start": 186.78,
+   "end": 186.96
+  },
+  {
+   "text": "how",
+   "start": 186.96,
+   "end": 187.14
+  },
+  {
+   "text": "fast",
+   "start": 187.14,
+   "end": 187.58
+  },
+  {
+   "text": "the",
+   "start": 187.58,
+   "end": 187.8
+  },
+  {
+   "text": "model",
+   "start": 187.8,
+   "end": 188.02
+  },
+  {
+   "text": "writes.",
+   "start": 188.02,
+   "end": 188.34
+  },
+  {
+   "text": "Most",
+   "start": 189.06,
+   "end": 189.42
+  },
+  {
+   "text": "of",
+   "start": 189.42,
+   "end": 189.58
+  },
+  {
+   "text": "us",
+   "start": 189.58,
+   "end": 189.74
+  },
+  {
+   "text": "read",
+   "start": 189.74,
+   "end": 189.96
+  },
+  {
+   "text": "at",
+   "start": 189.96,
+   "end": 190.14
+  },
+  {
+   "text": "roughly",
+   "start": 190.14,
+   "end": 190.42
+  },
+  {
+   "text": "five",
+   "start": 190.42,
+   "end": 190.78
+  },
+  {
+   "text": "or",
+   "start": 190.78,
+   "end": 191.0
+  },
+  {
+   "text": "six",
+   "start": 191.0,
+   "end": 191.32
+  },
+  {
+   "text": "tokens",
+   "start": 191.32,
+   "end": 191.74
+  },
+  {
+   "text": "a",
+   "start": 191.74,
+   "end": 191.88
+  },
+  {
+   "text": "second,",
+   "start": 191.88,
+   "end": 192.18
+  },
+  {
+   "text": "so",
+   "start": 192.24,
+   "end": 192.42
+  },
+  {
+   "text": "at",
+   "start": 192.42,
+   "end": 192.56
+  },
+  {
+   "text": "fifty,",
+   "start": 192.56,
+   "end": 192.98
+  },
+  {
+   "text": "the",
+   "start": 192.98,
+   "end": 193.2
+  },
+  {
+   "text": "model",
+   "start": 193.2,
+   "end": 193.38
+  },
+  {
+   "text": "is",
+   "start": 193.38,
+   "end": 193.52
+  },
+  {
+   "text": "writing",
+   "start": 193.52,
+   "end": 193.88
+  },
+  {
+   "text": "far",
+   "start": 193.88,
+   "end": 194.26
+  },
+  {
+   "text": "faster",
+   "start": 194.26,
+   "end": 194.7
+  },
+  {
+   "text": "than",
+   "start": 194.7,
+   "end": 194.9
+  },
+  {
+   "text": "we",
+   "start": 194.9,
+   "end": 195.02
+  },
+  {
+   "text": "can",
+   "start": 195.02,
+   "end": 195.18
+  },
+  {
+   "text": "read.",
+   "start": 195.18,
+   "end": 195.52
+  },
+  {
+   "text": "So",
+   "start": 195.52,
+   "end": 196.6
+  },
+  {
+   "text": "how",
+   "start": 196.6,
+   "end": 196.82
+  },
+  {
+   "text": "does",
+   "start": 196.82,
+   "end": 196.96
+  },
+  {
+   "text": "it",
+   "start": 196.96,
+   "end": 197.06
+  },
+  {
+   "text": "pull",
+   "start": 197.06,
+   "end": 197.26
+  },
+  {
+   "text": "this",
+   "start": 197.26,
+   "end": 197.44
+  },
+  {
+   "text": "off?",
+   "start": 197.44,
+   "end": 197.7
+  },
+  {
+   "text": "There",
+   "start": 198.38,
+   "end": 198.48
+  },
+  {
+   "text": "are",
+   "start": 198.48,
+   "end": 198.58
+  },
+  {
+   "text": "three",
+   "start": 198.58,
+   "end": 198.92
+  },
+  {
+   "text": "ideas,",
+   "start": 198.92,
+   "end": 199.42
+  },
+  {
+   "text": "and",
+   "start": 199.42,
+   "end": 199.72
+  },
+  {
+   "text": "they",
+   "start": 199.72,
+   "end": 199.84
+  },
+  {
+   "text": "stack",
+   "start": 199.84,
+   "end": 200.18
+  },
+  {
+   "text": "on",
+   "start": 200.18,
+   "end": 200.42
+  },
+  {
+   "text": "top",
+   "start": 200.42,
+   "end": 200.56
+  },
+  {
+   "text": "of",
+   "start": 200.56,
+   "end": 200.7
+  },
+  {
+   "text": "each",
+   "start": 200.7,
+   "end": 200.86
+  },
+  {
+   "text": "other.",
+   "start": 200.86,
+   "end": 201.14
+  },
+  {
+   "text": "The",
+   "start": 202.12,
+   "end": 202.18
+  },
+  {
+   "text": "first",
+   "start": 202.18,
+   "end": 202.32
+  },
+  {
+   "text": "idea",
+   "start": 202.32,
+   "end": 202.6
+  },
+  {
+   "text": "comes",
+   "start": 202.6,
+   "end": 202.86
+  },
+  {
+   "text": "from",
+   "start": 202.86,
+   "end": 203.08
+  },
+  {
+   "text": "the",
+   "start": 203.08,
+   "end": 203.22
+  },
+  {
+   "text": "model",
+   "start": 203.22,
+   "end": 203.46
+  },
+  {
+   "text": "itself.",
+   "start": 203.46,
+   "end": 203.92
+  },
+  {
+   "text": "Qwen",
+   "start": 203.92,
+   "end": 204.98
+  },
+  {
+   "text": "three",
+   "start": 204.98,
+   "end": 205.3
+  },
+  {
+   "text": "point",
+   "start": 205.3,
+   "end": 205.36
+  },
+  {
+   "text": "eight",
+   "start": 205.36,
+   "end": 205.82
+  },
+  {
+   "text": "Flash",
+   "start": 205.82,
+   "end": 206.16
+  },
+  {
+   "text": "Next",
+   "start": 206.16,
+   "end": 206.58
+  },
+  {
+   "text": "is",
+   "start": 206.58,
+   "end": 206.98
+  },
+  {
+   "text": "a",
+   "start": 206.98,
+   "end": 207.18
+  },
+  {
+   "text": "mixture-of-experts",
+   "start": 207.18,
+   "end": 208.14
+  },
+  {
+   "text": "model,",
+   "start": 208.14,
+   "end": 208.54
+  },
+  {
+   "text": "or",
+   "start": 208.54,
+   "end": 208.88
+  },
+  {
+   "text": "M-O-E.",
+   "start": 208.88,
+   "end": 209.44
+  },
+  {
+   "text": "In",
+   "start": 210.12,
+   "end": 210.36
+  },
+  {
+   "text": "a",
+   "start": 210.36,
+   "end": 210.46
+  },
+  {
+   "text": "normal",
+   "start": 210.46,
+   "end": 210.64
+  },
+  {
+   "text": "\u201cdense\u201d",
+   "start": 210.64,
+   "end": 211.04
+  },
+  {
+   "text": "model,",
+   "start": 211.04,
+   "end": 211.48
+  },
+  {
+   "text": "every",
+   "start": 211.7,
+   "end": 212.02
+  },
+  {
+   "text": "parameter",
+   "start": 212.02,
+   "end": 212.42
+  },
+  {
+   "text": "works",
+   "start": 212.42,
+   "end": 212.88
+  },
+  {
+   "text": "on",
+   "start": 212.88,
+   "end": 213.2
+  },
+  {
+   "text": "every",
+   "start": 213.2,
+   "end": 213.7
+  },
+  {
+   "text": "token.",
+   "start": 213.7,
+   "end": 214.08
+  },
+  {
+   "text": "ALL",
+   "start": 214.54,
+   "end": 214.74
+  },
+  {
+   "text": "hundred",
+   "start": 214.74,
+   "end": 215.02
+  },
+  {
+   "text": "and",
+   "start": 215.02,
+   "end": 215.14
+  },
+  {
+   "text": "twenty-five",
+   "start": 215.14,
+   "end": 215.54
+  },
+  {
+   "text": "billion,",
+   "start": 215.54,
+   "end": 215.88
+  },
+  {
+   "text": "every",
+   "start": 215.88,
+   "end": 216.46
+  },
+  {
+   "text": "single",
+   "start": 216.46,
+   "end": 216.74
+  },
+  {
+   "text": "time.",
+   "start": 216.74,
+   "end": 217.12
+  },
+  {
+   "text": "An",
+   "start": 217.86,
+   "end": 218.1
+  },
+  {
+   "text": "M-O-E",
+   "start": 218.1,
+   "end": 218.54
+  },
+  {
+   "text": "model",
+   "start": 218.54,
+   "end": 218.78
+  },
+  {
+   "text": "is",
+   "start": 218.78,
+   "end": 218.98
+  },
+  {
+   "text": "built",
+   "start": 218.98,
+   "end": 219.14
+  },
+  {
+   "text": "differently.",
+   "start": 219.14,
+   "end": 219.68
+  },
+  {
+   "text": "Inside",
+   "start": 220.24,
+   "end": 220.62
+  },
+  {
+   "text": "it",
+   "start": 220.62,
+   "end": 220.8
+  },
+  {
+   "text": "are",
+   "start": 220.8,
+   "end": 220.92
+  },
+  {
+   "text": "lots",
+   "start": 220.92,
+   "end": 221.04
+  },
+  {
+   "text": "of",
+   "start": 221.04,
+   "end": 221.28
+  },
+  {
+   "text": "small",
+   "start": 221.28,
+   "end": 221.8
+  },
+  {
+   "text": "specialist",
+   "start": 221.8,
+   "end": 222.36
+  },
+  {
+   "text": "networks",
+   "start": 222.36,
+   "end": 222.96
+  },
+  {
+   "text": "called",
+   "start": 222.96,
+   "end": 223.32
+  },
+  {
+   "text": "experts.",
+   "start": 223.32,
+   "end": 223.94
+  },
+  {
+   "text": "A",
+   "start": 224.7,
+   "end": 224.76
+  },
+  {
+   "text": "little",
+   "start": 224.76,
+   "end": 224.94
+  },
+  {
+   "text": "component",
+   "start": 224.94,
+   "end": 225.48
+  },
+  {
+   "text": "called",
+   "start": 225.48,
+   "end": 225.76
+  },
+  {
+   "text": "the",
+   "start": 225.76,
+   "end": 225.94
+  },
+  {
+   "text": "router",
+   "start": 225.94,
+   "end": 226.28
+  },
+  {
+   "text": "looks",
+   "start": 226.28,
+   "end": 226.58
+  },
+  {
+   "text": "at",
+   "start": 226.58,
+   "end": 226.74
+  },
+  {
+   "text": "each",
+   "start": 226.74,
+   "end": 226.9
+  },
+  {
+   "text": "token",
+   "start": 226.9,
+   "end": 227.28
+  },
+  {
+   "text": "and",
+   "start": 227.28,
+   "end": 227.48
+  },
+  {
+   "text": "picks",
+   "start": 227.48,
+   "end": 227.74
+  },
+  {
+   "text": "which",
+   "start": 227.74,
+   "end": 228.02
+  },
+  {
+   "text": "experts",
+   "start": 228.02,
+   "end": 228.5
+  },
+  {
+   "text": "should",
+   "start": 228.5,
+   "end": 228.74
+  },
+  {
+   "text": "handle",
+   "start": 228.74,
+   "end": 229.06
+  },
+  {
+   "text": "it.",
+   "start": 229.06,
+   "end": 229.38
+  },
+  {
+   "text": "Everyone",
+   "start": 229.86,
+   "end": 230.04
+  },
+  {
+   "text": "else",
+   "start": 230.04,
+   "end": 230.22
+  },
+  {
+   "text": "sits",
+   "start": 230.22,
+   "end": 230.48
+  },
+  {
+   "text": "that",
+   "start": 230.48,
+   "end": 230.68
+  },
+  {
+   "text": "token",
+   "start": 230.68,
+   "end": 230.98
+  },
+  {
+   "text": "out.",
+   "start": 230.98,
+   "end": 231.3
+  },
+  {
+   "text": "In",
+   "start": 232.1,
+   "end": 232.16
+  },
+  {
+   "text": "this",
+   "start": 232.16,
+   "end": 232.34
+  },
+  {
+   "text": "model,",
+   "start": 232.34,
+   "end": 232.62
+  },
+  {
+   "text": "only",
+   "start": 232.62,
+   "end": 232.84
+  },
+  {
+   "text": "about",
+   "start": 232.84,
+   "end": 233.04
+  },
+  {
+   "text": "six",
+   "start": 233.04,
+   "end": 233.38
+  },
+  {
+   "text": "billion",
+   "start": 233.38,
+   "end": 233.78
+  },
+  {
+   "text": "of",
+   "start": 233.78,
+   "end": 234.04
+  },
+  {
+   "text": "the",
+   "start": 234.04,
+   "end": 234.14
+  },
+  {
+   "text": "hundred",
+   "start": 234.14,
+   "end": 234.329
+  },
+  {
+   "text": "and",
+   "start": 234.329,
+   "end": 234.41
+  },
+  {
+   "text": "twenty-five",
+   "start": 234.41,
+   "end": 234.68
+  },
+  {
+   "text": "billion",
+   "start": 234.68,
+   "end": 235.42
+  },
+  {
+   "text": "parameters",
+   "start": 235.42,
+   "end": 235.92
+  },
+  {
+   "text": "are",
+   "start": 235.92,
+   "end": 236.12
+  },
+  {
+   "text": "active",
+   "start": 236.12,
+   "end": 236.5
+  },
+  {
+   "text": "for",
+   "start": 236.5,
+   "end": 236.72
+  },
+  {
+   "text": "any",
+   "start": 236.72,
+   "end": 236.9
+  },
+  {
+   "text": "one",
+   "start": 236.9,
+   "end": 237.18
+  },
+  {
+   "text": "token.",
+   "start": 237.18,
+   "end": 237.68
+  },
+  {
+   "text": "Say",
+   "start": 238.48,
+   "end": 238.7
+  },
+  {
+   "text": "we",
+   "start": 238.7,
+   "end": 238.84
+  },
+  {
+   "text": "run",
+   "start": 238.84,
+   "end": 238.96
+  },
+  {
+   "text": "a",
+   "start": 238.96,
+   "end": 239.4
+  },
+  {
+   "text": "company",
+   "start": 239.4,
+   "end": 239.46
+  },
+  {
+   "text": "with",
+   "start": 239.46,
+   "end": 239.58
+  },
+  {
+   "text": "a",
+   "start": 239.58,
+   "end": 239.681
+  },
+  {
+   "text": "hundred",
+   "start": 239.681,
+   "end": 240.036
+  },
+  {
+   "text": "and",
+   "start": 240.036,
+   "end": 240.188
+  },
+  {
+   "text": "twenty-five",
+   "start": 240.188,
+   "end": 240.695
+  },
+  {
+   "text": "thousand",
+   "start": 240.695,
+   "end": 241.1
+  },
+  {
+   "text": "employees.",
+   "start": 241.1,
+   "end": 241.68
+  },
+  {
+   "text": "Any",
+   "start": 242.32,
+   "end": 242.5
+  },
+  {
+   "text": "given",
+   "start": 242.5,
+   "end": 242.78
+  },
+  {
+   "text": "task",
+   "start": 242.78,
+   "end": 243.26
+  },
+  {
+   "text": "needs",
+   "start": 243.26,
+   "end": 243.48
+  },
+  {
+   "text": "about",
+   "start": 243.48,
+   "end": 243.78
+  },
+  {
+   "text": "six",
+   "start": 243.78,
+   "end": 244.2
+  },
+  {
+   "text": "thousand",
+   "start": 244.2,
+   "end": 244.58
+  },
+  {
+   "text": "of",
+   "start": 244.58,
+   "end": 244.76
+  },
+  {
+   "text": "them.",
+   "start": 244.76,
+   "end": 244.96
+  },
+  {
+   "text": "We",
+   "start": 245.32,
+   "end": 245.6
+  },
+  {
+   "text": "still",
+   "start": 245.6,
+   "end": 245.76
+  },
+  {
+   "text": "need",
+   "start": 245.76,
+   "end": 245.9
+  },
+  {
+   "text": "the",
+   "start": 245.9,
+   "end": 246.02
+  },
+  {
+   "text": "whole",
+   "start": 246.02,
+   "end": 246.2
+  },
+  {
+   "text": "company",
+   "start": 246.2,
+   "end": 246.54
+  },
+  {
+   "text": "on",
+   "start": 246.54,
+   "end": 246.72
+  },
+  {
+   "text": "the",
+   "start": 246.72,
+   "end": 246.84
+  },
+  {
+   "text": "payroll,",
+   "start": 246.84,
+   "end": 247.28
+  },
+  {
+   "text": "because",
+   "start": 247.28,
+   "end": 247.62
+  },
+  {
+   "text": "we",
+   "start": 247.62,
+   "end": 247.76
+  },
+  {
+   "text": "don\u2019t",
+   "start": 247.76,
+   "end": 247.9
+  },
+  {
+   "text": "know",
+   "start": 247.9,
+   "end": 248.06
+  },
+  {
+   "text": "which",
+   "start": 248.06,
+   "end": 248.28
+  },
+  {
+   "text": "specialists",
+   "start": 248.28,
+   "end": 248.78
+  },
+  {
+   "text": "the",
+   "start": 248.78,
+   "end": 249.02
+  },
+  {
+   "text": "next",
+   "start": 249.02,
+   "end": 249.26
+  },
+  {
+   "text": "task",
+   "start": 249.26,
+   "end": 249.58
+  },
+  {
+   "text": "will",
+   "start": 249.58,
+   "end": 249.78
+  },
+  {
+   "text": "want.",
+   "start": 249.78,
+   "end": 250.14
+  },
+  {
+   "text": "But",
+   "start": 250.62,
+   "end": 250.88
+  },
+  {
+   "text": "we",
+   "start": 250.88,
+   "end": 251.0
+  },
+  {
+   "text": "don\u2019t",
+   "start": 251.0,
+   "end": 251.26
+  },
+  {
+   "text": "need",
+   "start": 251.26,
+   "end": 251.56
+  },
+  {
+   "text": "all",
+   "start": 251.56,
+   "end": 251.94
+  },
+  {
+   "text": "of",
+   "start": 251.94,
+   "end": 252.2
+  },
+  {
+   "text": "them",
+   "start": 252.2,
+   "end": 252.4
+  },
+  {
+   "text": "in",
+   "start": 252.4,
+   "end": 252.56
+  },
+  {
+   "text": "the",
+   "start": 252.56,
+   "end": 252.66
+  },
+  {
+   "text": "room",
+   "start": 252.66,
+   "end": 252.86
+  },
+  {
+   "text": "at",
+   "start": 252.86,
+   "end": 253.02
+  },
+  {
+   "text": "once.",
+   "start": 253.02,
+   "end": 253.48
+  },
+  {
+   "text": "Strata",
+   "start": 254.5,
+   "end": 254.6
+  },
+  {
+   "text": "takes",
+   "start": 254.6,
+   "end": 254.98
+  },
+  {
+   "text": "advantage",
+   "start": 254.98,
+   "end": 255.48
+  },
+  {
+   "text": "of",
+   "start": 255.48,
+   "end": 255.8
+  },
+  {
+   "text": "that",
+   "start": 255.8,
+   "end": 255.96
+  },
+  {
+   "text": "gap.",
+   "start": 255.96,
+   "end": 256.32
+  },
+  {
+   "text": "Let\u2019s",
+   "start": 257.24,
+   "end": 257.44
+  },
+  {
+   "text": "stay",
+   "start": 257.44,
+   "end": 257.56
+  },
+  {
+   "text": "with",
+   "start": 257.56,
+   "end": 257.66
+  },
+  {
+   "text": "the",
+   "start": 257.66,
+   "end": 257.76
+  },
+  {
+   "text": "company.",
+   "start": 257.76,
+   "end": 258.02
+  },
+  {
+   "text": "Our",
+   "start": 258.62,
+   "end": 258.74
+  },
+  {
+   "text": "GPU\u2019s",
+   "start": 258.74,
+   "end": 259.42
+  },
+  {
+   "text": "V-RAM",
+   "start": 259.42,
+   "end": 259.92
+  },
+  {
+   "text": "is",
+   "start": 259.92,
+   "end": 260.3
+  },
+  {
+   "text": "the",
+   "start": 260.3,
+   "end": 260.5
+  },
+  {
+   "text": "meeting",
+   "start": 260.5,
+   "end": 260.86
+  },
+  {
+   "text": "room.",
+   "start": 260.86,
+   "end": 261.14
+  },
+  {
+   "text": "Small,",
+   "start": 261.62,
+   "end": 261.86
+  },
+  {
+   "text": "fast,",
+   "start": 262.32,
+   "end": 262.64
+  },
+  {
+   "text": "right",
+   "start": 262.92,
+   "end": 263.06
+  },
+  {
+   "text": "where",
+   "start": 263.06,
+   "end": 263.2
+  },
+  {
+   "text": "the",
+   "start": 263.2,
+   "end": 263.32
+  },
+  {
+   "text": "work",
+   "start": 263.32,
+   "end": 263.46
+  },
+  {
+   "text": "happens.",
+   "start": 263.46,
+   "end": 263.82
+  },
+  {
+   "text": "Our",
+   "start": 264.52,
+   "end": 264.74
+  },
+  {
+   "text": "system",
+   "start": 264.74,
+   "end": 265.1
+  },
+  {
+   "text": "RAM",
+   "start": 265.1,
+   "end": 265.46
+  },
+  {
+   "text": "is",
+   "start": 265.46,
+   "end": 265.78
+  },
+  {
+   "text": "the",
+   "start": 265.78,
+   "end": 266.1
+  },
+  {
+   "text": "rest",
+   "start": 266.1,
+   "end": 266.28
+  },
+  {
+   "text": "of",
+   "start": 266.28,
+   "end": 266.44
+  },
+  {
+   "text": "the",
+   "start": 266.44,
+   "end": 266.5
+  },
+  {
+   "text": "building.",
+   "start": 266.5,
+   "end": 266.76
+  },
+  {
+   "text": "Much",
+   "start": 267.06,
+   "end": 267.2
+  },
+  {
+   "text": "bigger,",
+   "start": 267.2,
+   "end": 267.44
+  },
+  {
+   "text": "but",
+   "start": 267.64,
+   "end": 267.74
+  },
+  {
+   "text": "a",
+   "start": 267.74,
+   "end": 267.96
+  },
+  {
+   "text": "walk",
+   "start": 267.96,
+   "end": 268.18
+  },
+  {
+   "text": "away.",
+   "start": 268.18,
+   "end": 268.42
+  },
+  {
+   "text": "Strata",
+   "start": 269.4,
+   "end": 269.84
+  },
+  {
+   "text": "fills",
+   "start": 269.84,
+   "end": 270.28
+  },
+  {
+   "text": "the",
+   "start": 270.28,
+   "end": 270.5
+  },
+  {
+   "text": "meeting",
+   "start": 270.5,
+   "end": 270.78
+  },
+  {
+   "text": "room",
+   "start": 270.78,
+   "end": 270.98
+  },
+  {
+   "text": "with",
+   "start": 270.98,
+   "end": 271.2
+  },
+  {
+   "text": "the",
+   "start": 271.2,
+   "end": 271.4
+  },
+  {
+   "text": "specialists",
+   "start": 271.4,
+   "end": 271.86
+  },
+  {
+   "text": "the",
+   "start": 271.86,
+   "end": 272.22
+  },
+  {
+   "text": "model",
+   "start": 272.22,
+   "end": 272.42
+  },
+  {
+   "text": "calls",
+   "start": 272.42,
+   "end": 272.72
+  },
+  {
+   "text": "on",
+   "start": 272.72,
+   "end": 273.02
+  },
+  {
+   "text": "most.",
+   "start": 273.02,
+   "end": 273.3
+  },
+  {
+   "text": "Everyone",
+   "start": 273.92,
+   "end": 274.14
+  },
+  {
+   "text": "else",
+   "start": 274.14,
+   "end": 274.36
+  },
+  {
+   "text": "waits",
+   "start": 274.36,
+   "end": 274.62
+  },
+  {
+   "text": "in",
+   "start": 274.62,
+   "end": 274.8
+  },
+  {
+   "text": "the",
+   "start": 274.8,
+   "end": 274.86
+  },
+  {
+   "text": "building.",
+   "start": 274.86,
+   "end": 275.1
+  },
+  {
+   "text": "When",
+   "start": 275.8,
+   "end": 276.02
+  },
+  {
+   "text": "the",
+   "start": 276.02,
+   "end": 276.16
+  },
+  {
+   "text": "router",
+   "start": 276.16,
+   "end": 276.38
+  },
+  {
+   "text": "asks",
+   "start": 276.38,
+   "end": 276.84
+  },
+  {
+   "text": "for",
+   "start": 276.84,
+   "end": 277.1
+  },
+  {
+   "text": "someone",
+   "start": 277.1,
+   "end": 277.36
+  },
+  {
+   "text": "who",
+   "start": 277.36,
+   "end": 277.54
+  },
+  {
+   "text": "isn\u2019t",
+   "start": 277.54,
+   "end": 277.92
+  },
+  {
+   "text": "in",
+   "start": 277.92,
+   "end": 278.08
+  },
+  {
+   "text": "the",
+   "start": 278.08,
+   "end": 278.18
+  },
+  {
+   "text": "room,",
+   "start": 278.18,
+   "end": 278.38
+  },
+  {
+   "text": "Strata",
+   "start": 278.84,
+   "end": 279.12
+  },
+  {
+   "text": "goes",
+   "start": 279.12,
+   "end": 279.42
+  },
+  {
+   "text": "and",
+   "start": 279.42,
+   "end": 279.72
+  },
+  {
+   "text": "gets",
+   "start": 279.72,
+   "end": 279.98
+  },
+  {
+   "text": "them.",
+   "start": 279.98,
+   "end": 280.3
+  },
+  {
+   "text": "This",
+   "start": 281.04,
+   "end": 281.12
+  },
+  {
+   "text": "is",
+   "start": 281.12,
+   "end": 281.24
+  },
+  {
+   "text": "called",
+   "start": 281.24,
+   "end": 281.48
+  },
+  {
+   "text": "expert",
+   "start": 281.48,
+   "end": 282.1
+  },
+  {
+   "text": "caching.",
+   "start": 282.1,
+   "end": 282.64
+  },
+  {
+   "text": "If",
+   "start": 283.44,
+   "end": 283.52
+  },
+  {
+   "text": "we\u2019ve",
+   "start": 283.52,
+   "end": 283.7
+  },
+  {
+   "text": "seen",
+   "start": 283.7,
+   "end": 283.82
+  },
+  {
+   "text": "the",
+   "start": 283.82,
+   "end": 283.94
+  },
+  {
+   "text": "word",
+   "start": 283.94,
+   "end": 284.16
+  },
+  {
+   "text": "\u201ccache\u201d",
+   "start": 284.16,
+   "end": 284.6
+  },
+  {
+   "text": "anywhere",
+   "start": 284.6,
+   "end": 284.94
+  },
+  {
+   "text": "else",
+   "start": 284.94,
+   "end": 285.24
+  },
+  {
+   "text": "in",
+   "start": 285.24,
+   "end": 285.36
+  },
+  {
+   "text": "computing,",
+   "start": 285.36,
+   "end": 285.72
+  },
+  {
+   "text": "it\u2019s",
+   "start": 286.04,
+   "end": 286.14
+  },
+  {
+   "text": "the",
+   "start": 286.14,
+   "end": 286.34
+  },
+  {
+   "text": "same",
+   "start": 286.34,
+   "end": 286.52
+  },
+  {
+   "text": "idea:",
+   "start": 286.52,
+   "end": 286.86
+  },
+  {
+   "text": "keep",
+   "start": 287.48,
+   "end": 287.62
+  },
+  {
+   "text": "what",
+   "start": 287.62,
+   "end": 287.8
+  },
+  {
+   "text": "we",
+   "start": 287.8,
+   "end": 287.92
+  },
+  {
+   "text": "use",
+   "start": 287.92,
+   "end": 288.12
+  },
+  {
+   "text": "most",
+   "start": 288.12,
+   "end": 288.36
+  },
+  {
+   "text": "in",
+   "start": 288.36,
+   "end": 288.78
+  },
+  {
+   "text": "the",
+   "start": 288.78,
+   "end": 288.92
+  },
+  {
+   "text": "fastest",
+   "start": 288.92,
+   "end": 289.3
+  },
+  {
+   "text": "place.",
+   "start": 289.3,
+   "end": 289.68
+  },
+  {
+   "text": "One",
+   "start": 290.68,
+   "end": 290.94
+  },
+  {
+   "text": "community",
+   "start": 290.94,
+   "end": 291.34
+  },
+  {
+   "text": "benchmark",
+   "start": 291.34,
+   "end": 291.82
+  },
+  {
+   "text": "on",
+   "start": 291.82,
+   "end": 292.06
+  },
+  {
+   "text": "an",
+   "start": 292.06,
+   "end": 292.22
+  },
+  {
+   "text": "R-T-X",
+   "start": 292.22,
+   "end": 292.58
+  },
+  {
+   "text": "forty-ninety",
+   "start": 292.58,
+   "end": 293.26
+  },
+  {
+   "text": "had",
+   "start": 293.26,
+   "end": 293.52
+  },
+  {
+   "text": "about",
+   "start": 293.52,
+   "end": 293.72
+  },
+  {
+   "text": "twelve",
+   "start": 293.72,
+   "end": 294.2
+  },
+  {
+   "text": "thousand",
+   "start": 294.2,
+   "end": 294.82
+  },
+  {
+   "text": "of",
+   "start": 294.82,
+   "end": 294.94
+  },
+  {
+   "text": "the",
+   "start": 294.94,
+   "end": 295.04
+  },
+  {
+   "text": "model\u2019s",
+   "start": 295.04,
+   "end": 295.56
+  },
+  {
+   "text": "twenty-four",
+   "start": 295.56,
+   "end": 296.05
+  },
+  {
+   "text": "thousand,",
+   "start": 296.05,
+   "end": 296.443
+  },
+  {
+   "text": "five",
+   "start": 296.443,
+   "end": 296.639
+  },
+  {
+   "text": "hundred",
+   "start": 296.639,
+   "end": 296.982
+  },
+  {
+   "text": "and",
+   "start": 296.982,
+   "end": 297.13
+  },
+  {
+   "text": "seventy-six",
+   "start": 297.13,
+   "end": 297.62
+  },
+  {
+   "text": "experts",
+   "start": 297.62,
+   "end": 298.7
+  },
+  {
+   "text": "sitting",
+   "start": 298.7,
+   "end": 299.18
+  },
+  {
+   "text": "in",
+   "start": 299.18,
+   "end": 299.54
+  },
+  {
+   "text": "GPU",
+   "start": 299.54,
+   "end": 299.88
+  },
+  {
+   "text": "memory.",
+   "start": 299.88,
+   "end": 300.28
+  },
+  {
+   "text": "The",
+   "start": 300.7,
+   "end": 300.84
+  },
+  {
+   "text": "other",
+   "start": 300.84,
+   "end": 300.96
+  },
+  {
+   "text": "half",
+   "start": 300.96,
+   "end": 301.26
+  },
+  {
+   "text": "were",
+   "start": 301.26,
+   "end": 301.44
+  },
+  {
+   "text": "in",
+   "start": 301.44,
+   "end": 301.64
+  },
+  {
+   "text": "system",
+   "start": 301.64,
+   "end": 301.92
+  },
+  {
+   "text": "RAM.",
+   "start": 301.92,
+   "end": 302.16
+  },
+  {
+   "text": "And",
+   "start": 302.84,
+   "end": 302.94
+  },
+  {
+   "text": "it",
+   "start": 302.94,
+   "end": 303.04
+  },
+  {
+   "text": "still",
+   "start": 303.04,
+   "end": 303.34
+  },
+  {
+   "text": "reported",
+   "start": 303.34,
+   "end": 303.88
+  },
+  {
+   "text": "over",
+   "start": 303.88,
+   "end": 304.18
+  },
+  {
+   "text": "a",
+   "start": 304.18,
+   "end": 304.288
+  },
+  {
+   "text": "hundred",
+   "start": 304.288,
+   "end": 304.667
+  },
+  {
+   "text": "and",
+   "start": 304.667,
+   "end": 304.829
+  },
+  {
+   "text": "forty",
+   "start": 304.829,
+   "end": 305.1
+  },
+  {
+   "text": "tokens",
+   "start": 305.1,
+   "end": 305.5
+  },
+  {
+   "text": "per",
+   "start": 305.5,
+   "end": 305.8
+  },
+  {
+   "text": "second",
+   "start": 305.8,
+   "end": 306.12
+  },
+  {
+   "text": "on",
+   "start": 306.12,
+   "end": 306.32
+  },
+  {
+   "text": "some",
+   "start": 306.32,
+   "end": 306.56
+  },
+  {
+   "text": "workloads.",
+   "start": 306.56,
+   "end": 307.64
+  },
+  {
+   "text": "So",
+   "start": 308.1,
+   "end": 308.28
+  },
+  {
+   "text": "the",
+   "start": 308.28,
+   "end": 308.4
+  },
+  {
+   "text": "GPU",
+   "start": 308.4,
+   "end": 308.78
+  },
+  {
+   "text": "doesn\u2019t",
+   "start": 308.78,
+   "end": 309.12
+  },
+  {
+   "text": "have",
+   "start": 309.12,
+   "end": 309.38
+  },
+  {
+   "text": "to",
+   "start": 309.38,
+   "end": 309.58
+  },
+  {
+   "text": "hold",
+   "start": 309.58,
+   "end": 309.8
+  },
+  {
+   "text": "the",
+   "start": 309.8,
+   "end": 309.98
+  },
+  {
+   "text": "whole",
+   "start": 309.98,
+   "end": 310.3
+  },
+  {
+   "text": "model.",
+   "start": 310.3,
+   "end": 310.6
+  },
+  {
+   "text": "It",
+   "start": 311.02,
+   "end": 311.1
+  },
+  {
+   "text": "only",
+   "start": 311.1,
+   "end": 311.24
+  },
+  {
+   "text": "needs",
+   "start": 311.24,
+   "end": 311.48
+  },
+  {
+   "text": "the",
+   "start": 311.48,
+   "end": 311.64
+  },
+  {
+   "text": "parts",
+   "start": 311.64,
+   "end": 311.84
+  },
+  {
+   "text": "we\u2019re",
+   "start": 311.84,
+   "end": 312.04
+  },
+  {
+   "text": "using",
+   "start": 312.04,
+   "end": 312.32
+  },
+  {
+   "text": "right",
+   "start": 312.32,
+   "end": 312.52
+  },
+  {
+   "text": "now.",
+   "start": 312.52,
+   "end": 312.92
+  },
+  {
+   "text": "This",
+   "start": 314.28,
+   "end": 314.48
+  },
+  {
+   "text": "works",
+   "start": 314.48,
+   "end": 314.72
+  },
+  {
+   "text": "so",
+   "start": 314.72,
+   "end": 314.98
+  },
+  {
+   "text": "well",
+   "start": 314.98,
+   "end": 315.38
+  },
+  {
+   "text": "partly",
+   "start": 315.54,
+   "end": 315.82
+  },
+  {
+   "text": "because",
+   "start": 315.82,
+   "end": 316.18
+  },
+  {
+   "text": "the",
+   "start": 316.18,
+   "end": 316.36
+  },
+  {
+   "text": "model",
+   "start": 316.36,
+   "end": 316.56
+  },
+  {
+   "text": "was",
+   "start": 316.56,
+   "end": 316.76
+  },
+  {
+   "text": "built",
+   "start": 316.76,
+   "end": 317.0
+  },
+  {
+   "text": "to",
+   "start": 317.0,
+   "end": 317.3
+  },
+  {
+   "text": "wake",
+   "start": 317.3,
+   "end": 317.42
+  },
+  {
+   "text": "only",
+   "start": 317.42,
+   "end": 317.78
+  },
+  {
+   "text": "a",
+   "start": 317.78,
+   "end": 317.94
+  },
+  {
+   "text": "small",
+   "start": 317.94,
+   "end": 318.3
+  },
+  {
+   "text": "slice",
+   "start": 318.3,
+   "end": 318.72
+  },
+  {
+   "text": "of",
+   "start": 318.72,
+   "end": 318.92
+  },
+  {
+   "text": "itself.",
+   "start": 318.92,
+   "end": 319.26
+  },
+  {
+   "text": "It",
+   "start": 319.88,
+   "end": 319.94
+  },
+  {
+   "text": "was",
+   "start": 319.94,
+   "end": 320.04
+  },
+  {
+   "text": "already",
+   "start": 320.04,
+   "end": 320.34
+  },
+  {
+   "text": "sparse,",
+   "start": 320.34,
+   "end": 320.8
+  },
+  {
+   "text": "so",
+   "start": 321.22,
+   "end": 321.5
+  },
+  {
+   "text": "Strata",
+   "start": 321.5,
+   "end": 321.84
+  },
+  {
+   "text": "only",
+   "start": 321.84,
+   "end": 322.14
+  },
+  {
+   "text": "has",
+   "start": 322.14,
+   "end": 322.3
+  },
+  {
+   "text": "to",
+   "start": 322.3,
+   "end": 322.46
+  },
+  {
+   "text": "decide",
+   "start": 322.46,
+   "end": 322.74
+  },
+  {
+   "text": "where",
+   "start": 322.74,
+   "end": 323.08
+  },
+  {
+   "text": "each",
+   "start": 323.08,
+   "end": 323.4
+  },
+  {
+   "text": "piece",
+   "start": 323.4,
+   "end": 323.64
+  },
+  {
+   "text": "should",
+   "start": 323.64,
+   "end": 323.9
+  },
+  {
+   "text": "live.",
+   "start": 323.9,
+   "end": 324.16
+  },
+  {
+   "text": "That\u2019s",
+   "start": 324.78,
+   "end": 325.0
+  },
+  {
+   "text": "also",
+   "start": 325.0,
+   "end": 325.18
+  },
+  {
+   "text": "why",
+   "start": 325.18,
+   "end": 325.34
+  },
+  {
+   "text": "Strata",
+   "start": 325.34,
+   "end": 325.64
+  },
+  {
+   "text": "is",
+   "start": 325.64,
+   "end": 325.78
+  },
+  {
+   "text": "so",
+   "start": 325.78,
+   "end": 325.94
+  },
+  {
+   "text": "specialized:",
+   "start": 325.94,
+   "end": 327.04
+  },
+  {
+   "text": "it",
+   "start": 327.04,
+   "end": 327.1
+  },
+  {
+   "text": "leans",
+   "start": 327.1,
+   "end": 327.32
+  },
+  {
+   "text": "on",
+   "start": 327.32,
+   "end": 327.56
+  },
+  {
+   "text": "how",
+   "start": 327.56,
+   "end": 327.72
+  },
+  {
+   "text": "this",
+   "start": 327.72,
+   "end": 327.86
+  },
+  {
+   "text": "one",
+   "start": 327.86,
+   "end": 328.18
+  },
+  {
+   "text": "model",
+   "start": 328.18,
+   "end": 328.48
+  },
+  {
+   "text": "works.",
+   "start": 328.48,
+   "end": 328.94
+  },
+  {
+   "text": "Quick",
+   "start": 329.9,
+   "end": 330.18
+  },
+  {
+   "text": "note",
+   "start": 330.18,
+   "end": 330.38
+  },
+  {
+   "text": "before",
+   "start": 330.38,
+   "end": 330.6
+  },
+  {
+   "text": "we",
+   "start": 330.6,
+   "end": 330.72
+  },
+  {
+   "text": "keep",
+   "start": 330.72,
+   "end": 330.84
+  },
+  {
+   "text": "going.",
+   "start": 330.84,
+   "end": 331.1
+  },
+  {
+   "text": "If",
+   "start": 331.32,
+   "end": 331.5
+  },
+  {
+   "text": "you",
+   "start": 331.5,
+   "end": 331.6
+  },
+  {
+   "text": "like",
+   "start": 331.6,
+   "end": 331.72
+  },
+  {
+   "text": "this",
+   "start": 331.72,
+   "end": 331.9
+  },
+  {
+   "text": "kind",
+   "start": 331.9,
+   "end": 332.02
+  },
+  {
+   "text": "of",
+   "start": 332.02,
+   "end": 332.1
+  },
+  {
+   "text": "content,",
+   "start": 332.1,
+   "end": 332.4
+  },
+  {
+   "text": "please",
+   "start": 332.6,
+   "end": 332.74
+  },
+  {
+   "text": "subscribe.",
+   "start": 332.74,
+   "end": 333.18
+  },
+  {
+   "text": "I\u2019ll",
+   "start": 333.18,
+   "end": 333.84
+  },
+  {
+   "text": "be",
+   "start": 333.84,
+   "end": 333.94
+  },
+  {
+   "text": "covering",
+   "start": 333.94,
+   "end": 334.16
+  },
+  {
+   "text": "the",
+   "start": 334.16,
+   "end": 334.36
+  },
+  {
+   "text": "latest",
+   "start": 334.36,
+   "end": 334.66
+  },
+  {
+   "text": "frontier",
+   "start": 334.66,
+   "end": 335.16
+  },
+  {
+   "text": "AI",
+   "start": 335.16,
+   "end": 335.64
+  },
+  {
+   "text": "models,",
+   "start": 335.64,
+   "end": 336.04
+  },
+  {
+   "text": "jargon",
+   "start": 336.24,
+   "end": 336.42
+  },
+  {
+   "text": "free.",
+   "start": 336.42,
+   "end": 336.76
+  },
+  {
+   "text": "Okay,",
+   "start": 336.76,
+   "end": 338.08
+  },
+  {
+   "text": "back",
+   "start": 338.08,
+   "end": 338.16
+  },
+  {
+   "text": "to",
+   "start": 338.16,
+   "end": 338.36
+  },
+  {
+   "text": "Strata.",
+   "start": 338.36,
+   "end": 338.56
+  },
+  {
+   "text": "Even",
+   "start": 339.56,
+   "end": 339.8
+  },
+  {
+   "text": "with",
+   "start": 339.8,
+   "end": 340.18
+  },
+  {
+   "text": "caching,",
+   "start": 340.18,
+   "end": 340.56
+  },
+  {
+   "text": "a",
+   "start": 340.56,
+   "end": 340.658
+  },
+  {
+   "text": "hundred",
+   "start": 340.658,
+   "end": 341.002
+  },
+  {
+   "text": "and",
+   "start": 341.002,
+   "end": 341.149
+  },
+  {
+   "text": "twenty-five",
+   "start": 341.149,
+   "end": 341.64
+  },
+  {
+   "text": "billion",
+   "start": 341.64,
+   "end": 342.24
+  },
+  {
+   "text": "parameters",
+   "start": 342.24,
+   "end": 342.84
+  },
+  {
+   "text": "is",
+   "start": 342.84,
+   "end": 343.18
+  },
+  {
+   "text": "a",
+   "start": 343.18,
+   "end": 343.4
+  },
+  {
+   "text": "lot",
+   "start": 343.4,
+   "end": 343.68
+  },
+  {
+   "text": "of",
+   "start": 343.68,
+   "end": 343.9
+  },
+  {
+   "text": "data.",
+   "start": 343.9,
+   "end": 344.14
+  },
+  {
+   "text": "So",
+   "start": 344.64,
+   "end": 344.9
+  },
+  {
+   "text": "Strata",
+   "start": 344.9,
+   "end": 345.4
+  },
+  {
+   "text": "also",
+   "start": 345.4,
+   "end": 345.74
+  },
+  {
+   "text": "uses",
+   "start": 345.74,
+   "end": 346.22
+  },
+  {
+   "text": "quantization.",
+   "start": 346.22,
+   "end": 348.0
+  },
+  {
+   "text": "Each",
+   "start": 348.0,
+   "end": 348.16
+  },
+  {
+   "text": "parameter",
+   "start": 348.16,
+   "end": 348.62
+  },
+  {
+   "text": "is",
+   "start": 348.62,
+   "end": 348.96
+  },
+  {
+   "text": "stored",
+   "start": 348.96,
+   "end": 349.18
+  },
+  {
+   "text": "as",
+   "start": 349.18,
+   "end": 349.36
+  },
+  {
+   "text": "a",
+   "start": 349.36,
+   "end": 349.5
+  },
+  {
+   "text": "number.",
+   "start": 349.5,
+   "end": 349.76
+  },
+  {
+   "text": "Quantization",
+   "start": 349.76,
+   "end": 351.06
+  },
+  {
+   "text": "stores",
+   "start": 351.06,
+   "end": 351.4
+  },
+  {
+   "text": "that",
+   "start": 351.4,
+   "end": 351.62
+  },
+  {
+   "text": "number",
+   "start": 351.62,
+   "end": 351.8
+  },
+  {
+   "text": "with",
+   "start": 351.8,
+   "end": 352.02
+  },
+  {
+   "text": "fewer",
+   "start": 352.02,
+   "end": 352.3
+  },
+  {
+   "text": "bits.",
+   "start": 352.3,
+   "end": 352.66
+  },
+  {
+   "text": "Less",
+   "start": 353.26,
+   "end": 353.36
+  },
+  {
+   "text": "precision,",
+   "start": 353.36,
+   "end": 353.78
+  },
+  {
+   "text": "much",
+   "start": 354.22,
+   "end": 354.28
+  },
+  {
+   "text": "less",
+   "start": 354.28,
+   "end": 354.52
+  },
+  {
+   "text": "memory.",
+   "start": 354.52,
+   "end": 354.8
+  },
+  {
+   "text": "It\u2019s",
+   "start": 355.54,
+   "end": 355.78
+  },
+  {
+   "text": "like",
+   "start": 355.78,
+   "end": 355.98
+  },
+  {
+   "text": "saving",
+   "start": 355.98,
+   "end": 356.32
+  },
+  {
+   "text": "a",
+   "start": 356.32,
+   "end": 356.48
+  },
+  {
+   "text": "photo",
+   "start": 356.48,
+   "end": 356.8
+  },
+  {
+   "text": "as",
+   "start": 356.8,
+   "end": 357.02
+  },
+  {
+   "text": "a",
+   "start": 357.02,
+   "end": 357.22
+  },
+  {
+   "text": "smaller",
+   "start": 357.22,
+   "end": 357.56
+  },
+  {
+   "text": "JPEG.",
+   "start": 357.56,
+   "end": 358.0
+  },
+  {
+   "text": "The",
+   "start": 358.5,
+   "end": 358.66
+  },
+  {
+   "text": "file",
+   "start": 358.66,
+   "end": 358.88
+  },
+  {
+   "text": "shrinks",
+   "start": 358.88,
+   "end": 359.22
+  },
+  {
+   "text": "a",
+   "start": 359.22,
+   "end": 359.36
+  },
+  {
+   "text": "lot",
+   "start": 359.36,
+   "end": 359.52
+  },
+  {
+   "text": "and",
+   "start": 359.52,
+   "end": 359.78
+  },
+  {
+   "text": "the",
+   "start": 359.78,
+   "end": 359.88
+  },
+  {
+   "text": "picture",
+   "start": 359.88,
+   "end": 360.12
+  },
+  {
+   "text": "still",
+   "start": 360.12,
+   "end": 360.4
+  },
+  {
+   "text": "looks",
+   "start": 360.4,
+   "end": 360.74
+  },
+  {
+   "text": "mostly",
+   "start": 360.74,
+   "end": 361.16
+  },
+  {
+   "text": "fine.",
+   "start": 361.16,
+   "end": 361.5
+  },
+  {
+   "text": "Push",
+   "start": 362.04,
+   "end": 362.28
+  },
+  {
+   "text": "it",
+   "start": 362.28,
+   "end": 362.4
+  },
+  {
+   "text": "too",
+   "start": 362.4,
+   "end": 362.56
+  },
+  {
+   "text": "far,",
+   "start": 362.56,
+   "end": 362.84
+  },
+  {
+   "text": "and",
+   "start": 362.84,
+   "end": 363.18
+  },
+  {
+   "text": "we",
+   "start": 363.18,
+   "end": 363.34
+  },
+  {
+   "text": "start",
+   "start": 363.34,
+   "end": 363.56
+  },
+  {
+   "text": "to",
+   "start": 363.56,
+   "end": 363.7
+  },
+  {
+   "text": "see",
+   "start": 363.7,
+   "end": 363.82
+  },
+  {
+   "text": "the",
+   "start": 363.82,
+   "end": 363.96
+  },
+  {
+   "text": "damage.",
+   "start": 363.96,
+   "end": 364.28
+  },
+  {
+   "text": "Strata",
+   "start": 365.32,
+   "end": 365.54
+  },
+  {
+   "text": "offers",
+   "start": 365.54,
+   "end": 365.9
+  },
+  {
+   "text": "several",
+   "start": 365.9,
+   "end": 366.38
+  },
+  {
+   "text": "levels,",
+   "start": 366.38,
+   "end": 366.8
+  },
+  {
+   "text": "with",
+   "start": 367.12,
+   "end": 367.18
+  },
+  {
+   "text": "names",
+   "start": 367.18,
+   "end": 367.36
+  },
+  {
+   "text": "like",
+   "start": 367.36,
+   "end": 367.66
+  },
+  {
+   "text": "Q-two-zero,",
+   "start": 367.66,
+   "end": 369.76
+  },
+  {
+   "text": "I-Q-two",
+   "start": 369.76,
+   "end": 370.36
+  },
+  {
+   "text": "X-S,",
+   "start": 370.36,
+   "end": 370.96
+  },
+  {
+   "text": "I-Q-three",
+   "start": 371.42,
+   "end": 372.08
+  },
+  {
+   "text": "X-X-S,",
+   "start": 372.08,
+   "end": 373.08
+  },
+  {
+   "text": "and",
+   "start": 373.08,
+   "end": 373.54
+  },
+  {
+   "text": "I-Q-three",
+   "start": 373.54,
+   "end": 374.26
+  },
+  {
+   "text": "S.",
+   "start": 374.26,
+   "end": 374.98
+  },
+  {
+   "text": "We",
+   "start": 375.34,
+   "end": 375.58
+  },
+  {
+   "text": "don\u2019t",
+   "start": 375.58,
+   "end": 375.7
+  },
+  {
+   "text": "need",
+   "start": 375.7,
+   "end": 375.86
+  },
+  {
+   "text": "to",
+   "start": 375.86,
+   "end": 375.96
+  },
+  {
+   "text": "memorize",
+   "start": 375.96,
+   "end": 376.3
+  },
+  {
+   "text": "them.",
+   "start": 376.3,
+   "end": 376.58
+  },
+  {
+   "text": "The",
+   "start": 377.14,
+   "end": 377.26
+  },
+  {
+   "text": "two",
+   "start": 377.26,
+   "end": 377.56
+  },
+  {
+   "text": "and",
+   "start": 377.56,
+   "end": 377.8
+  },
+  {
+   "text": "the",
+   "start": 377.8,
+   "end": 377.94
+  },
+  {
+   "text": "three",
+   "start": 377.94,
+   "end": 378.22
+  },
+  {
+   "text": "roughly",
+   "start": 378.22,
+   "end": 378.66
+  },
+  {
+   "text": "tell",
+   "start": 378.66,
+   "end": 379.04
+  },
+  {
+   "text": "us",
+   "start": 379.04,
+   "end": 379.2
+  },
+  {
+   "text": "how",
+   "start": 379.2,
+   "end": 379.4
+  },
+  {
+   "text": "many",
+   "start": 379.4,
+   "end": 379.62
+  },
+  {
+   "text": "bits",
+   "start": 379.62,
+   "end": 379.92
+  },
+  {
+   "text": "each",
+   "start": 379.92,
+   "end": 380.26
+  },
+  {
+   "text": "number",
+   "start": 380.26,
+   "end": 380.56
+  },
+  {
+   "text": "gets.",
+   "start": 380.56,
+   "end": 380.96
+  },
+  {
+   "text": "Fewer",
+   "start": 381.58,
+   "end": 381.88
+  },
+  {
+   "text": "bits",
+   "start": 381.88,
+   "end": 382.06
+  },
+  {
+   "text": "means",
+   "start": 382.06,
+   "end": 382.36
+  },
+  {
+   "text": "smaller",
+   "start": 382.36,
+   "end": 382.88
+  },
+  {
+   "text": "and",
+   "start": 382.88,
+   "end": 383.12
+  },
+  {
+   "text": "faster,",
+   "start": 383.12,
+   "end": 383.46
+  },
+  {
+   "text": "but",
+   "start": 383.86,
+   "end": 384.0
+  },
+  {
+   "text": "possibly",
+   "start": 384.0,
+   "end": 384.42
+  },
+  {
+   "text": "a",
+   "start": 384.42,
+   "end": 384.62
+  },
+  {
+   "text": "little",
+   "start": 384.62,
+   "end": 384.88
+  },
+  {
+   "text": "dumber.",
+   "start": 384.88,
+   "end": 385.18
+  },
+  {
+   "text": "That\u2019s",
+   "start": 385.88,
+   "end": 386.28
+  },
+  {
+   "text": "why",
+   "start": 386.28,
+   "end": 386.42
+  },
+  {
+   "text": "Strata",
+   "start": 386.42,
+   "end": 386.88
+  },
+  {
+   "text": "gives",
+   "start": 386.88,
+   "end": 387.12
+  },
+  {
+   "text": "us",
+   "start": 387.12,
+   "end": 387.32
+  },
+  {
+   "text": "a",
+   "start": 387.32,
+   "end": 387.46
+  },
+  {
+   "text": "menu",
+   "start": 387.46,
+   "end": 387.76
+  },
+  {
+   "text": "instead",
+   "start": 387.94,
+   "end": 388.24
+  },
+  {
+   "text": "of",
+   "start": 388.24,
+   "end": 388.38
+  },
+  {
+   "text": "one",
+   "start": 388.38,
+   "end": 388.62
+  },
+  {
+   "text": "setting.",
+   "start": 388.62,
+   "end": 389.02
+  },
+  {
+   "text": "The",
+   "start": 389.46,
+   "end": 389.7
+  },
+  {
+   "text": "goal",
+   "start": 389.7,
+   "end": 389.86
+  },
+  {
+   "text": "is",
+   "start": 389.86,
+   "end": 390.06
+  },
+  {
+   "text": "to",
+   "start": 390.06,
+   "end": 390.16
+  },
+  {
+   "text": "find",
+   "start": 390.16,
+   "end": 390.34
+  },
+  {
+   "text": "the",
+   "start": 390.34,
+   "end": 390.64
+  },
+  {
+   "text": "point",
+   "start": 390.64,
+   "end": 390.7
+  },
+  {
+   "text": "where",
+   "start": 390.7,
+   "end": 390.92
+  },
+  {
+   "text": "the",
+   "start": 390.92,
+   "end": 391.04
+  },
+  {
+   "text": "model",
+   "start": 391.04,
+   "end": 391.22
+  },
+  {
+   "text": "is",
+   "start": 391.22,
+   "end": 391.42
+  },
+  {
+   "text": "small",
+   "start": 391.42,
+   "end": 391.74
+  },
+  {
+   "text": "enough",
+   "start": 391.74,
+   "end": 392.02
+  },
+  {
+   "text": "to",
+   "start": 392.02,
+   "end": 392.24
+  },
+  {
+   "text": "run",
+   "start": 392.24,
+   "end": 392.36
+  },
+  {
+   "text": "well,",
+   "start": 392.36,
+   "end": 392.74
+  },
+  {
+   "text": "without",
+   "start": 392.74,
+   "end": 393.32
+  },
+  {
+   "text": "losing",
+   "start": 393.32,
+   "end": 393.64
+  },
+  {
+   "text": "too",
+   "start": 393.64,
+   "end": 393.94
+  },
+  {
+   "text": "much",
+   "start": 393.94,
+   "end": 394.14
+  },
+  {
+   "text": "of",
+   "start": 394.14,
+   "end": 394.3
+  },
+  {
+   "text": "its",
+   "start": 394.3,
+   "end": 394.44
+  },
+  {
+   "text": "intelligence.",
+   "start": 394.44,
+   "end": 394.84
+  },
+  {
+   "text": "So",
+   "start": 395.82,
+   "end": 396.1
+  },
+  {
+   "text": "how",
+   "start": 396.1,
+   "end": 396.26
+  },
+  {
+   "text": "fast",
+   "start": 396.26,
+   "end": 396.48
+  },
+  {
+   "text": "is",
+   "start": 396.48,
+   "end": 396.68
+  },
+  {
+   "text": "it?",
+   "start": 396.68,
+   "end": 396.78
+  },
+  {
+   "text": "Let\u2019s",
+   "start": 397.24,
+   "end": 397.46
+  },
+  {
+   "text": "look",
+   "start": 397.46,
+   "end": 397.56
+  },
+  {
+   "text": "at",
+   "start": 397.56,
+   "end": 397.68
+  },
+  {
+   "text": "what",
+   "start": 397.68,
+   "end": 397.76
+  },
+  {
+   "text": "the",
+   "start": 397.76,
+   "end": 397.88
+  },
+  {
+   "text": "project",
+   "start": 397.88,
+   "end": 398.12
+  },
+  {
+   "text": "reports",
+   "start": 398.12,
+   "end": 398.48
+  },
+  {
+   "text": "for",
+   "start": 398.48,
+   "end": 398.7
+  },
+  {
+   "text": "its",
+   "start": 398.7,
+   "end": 398.8
+  },
+  {
+   "text": "own",
+   "start": 398.8,
+   "end": 399.02
+  },
+  {
+   "text": "test",
+   "start": 399.02,
+   "end": 399.28
+  },
+  {
+   "text": "machine:",
+   "start": 399.28,
+   "end": 399.64
+  },
+  {
+   "text": "an",
+   "start": 399.96,
+   "end": 400.18
+  },
+  {
+   "text": "R-T-X",
+   "start": 400.18,
+   "end": 400.6
+  },
+  {
+   "text": "fifty-seventy",
+   "start": 400.6,
+   "end": 401.38
+  },
+  {
+   "text": "with",
+   "start": 401.38,
+   "end": 401.86
+  },
+  {
+   "text": "twelve",
+   "start": 401.86,
+   "end": 402.116
+  },
+  {
+   "text": "gigabytes",
+   "start": 402.116,
+   "end": 402.5
+  },
+  {
+   "text": "of",
+   "start": 402.5,
+   "end": 402.82
+  },
+  {
+   "text": "V-RAM",
+   "start": 402.82,
+   "end": 403.3
+  },
+  {
+   "text": "and",
+   "start": 403.3,
+   "end": 403.66
+  },
+  {
+   "text": "sixty-four",
+   "start": 403.66,
+   "end": 404.13
+  },
+  {
+   "text": "gigabytes",
+   "start": 404.13,
+   "end": 404.6
+  },
+  {
+   "text": "of",
+   "start": 404.6,
+   "end": 405.14
+  },
+  {
+   "text": "RAM.",
+   "start": 405.14,
+   "end": 405.24
+  },
+  {
+   "text": "On",
+   "start": 405.78,
+   "end": 406.02
+  },
+  {
+   "text": "short",
+   "start": 406.02,
+   "end": 406.26
+  },
+  {
+   "text": "conversations,",
+   "start": 406.26,
+   "end": 406.72
+  },
+  {
+   "text": "it",
+   "start": 407.02,
+   "end": 407.08
+  },
+  {
+   "text": "gets",
+   "start": 407.08,
+   "end": 407.24
+  },
+  {
+   "text": "ninety-three",
+   "start": 407.24,
+   "end": 407.98
+  },
+  {
+   "text": "tokens",
+   "start": 407.98,
+   "end": 408.36
+  },
+  {
+   "text": "per",
+   "start": 408.36,
+   "end": 408.66
+  },
+  {
+   "text": "second",
+   "start": 408.66,
+   "end": 408.98
+  },
+  {
+   "text": "at",
+   "start": 408.98,
+   "end": 409.24
+  },
+  {
+   "text": "Q-two-zero.",
+   "start": 409.24,
+   "end": 410.14
+  },
+  {
+   "text": "Seventy-nine",
+   "start": 410.14,
+   "end": 411.28
+  },
+  {
+   "text": "at",
+   "start": 411.28,
+   "end": 411.56
+  },
+  {
+   "text": "I-Q-two",
+   "start": 411.56,
+   "end": 412.173
+  },
+  {
+   "text": "X-S.",
+   "start": 412.173,
+   "end": 412.419
+  },
+  {
+   "text": "Sixty-two",
+   "start": 412.419,
+   "end": 413.4
+  },
+  {
+   "text": "at",
+   "start": 413.4,
+   "end": 413.84
+  },
+  {
+   "text": "I-Q-three",
+   "start": 413.84,
+   "end": 414.792
+  },
+  {
+   "text": "X-X-S.",
+   "start": 414.792,
+   "end": 415.2
+  },
+  {
+   "text": "And",
+   "start": 415.2,
+   "end": 415.8
+  },
+  {
+   "text": "fifty-three",
+   "start": 415.8,
+   "end": 416.42
+  },
+  {
+   "text": "at",
+   "start": 416.42,
+   "end": 416.7
+  },
+  {
+   "text": "I-Q-three",
+   "start": 416.7,
+   "end": 417.96
+  },
+  {
+   "text": "S.",
+   "start": 417.96,
+   "end": 418.32
+  },
+  {
+   "text": "The",
+   "start": 418.32,
+   "end": 418.48
+  },
+  {
+   "text": "fewer",
+   "start": 418.48,
+   "end": 418.68
+  },
+  {
+   "text": "the",
+   "start": 418.68,
+   "end": 418.84
+  },
+  {
+   "text": "bits,",
+   "start": 418.84,
+   "end": 419.02
+  },
+  {
+   "text": "the",
+   "start": 419.3,
+   "end": 419.38
+  },
+  {
+   "text": "faster",
+   "start": 419.38,
+   "end": 419.66
+  },
+  {
+   "text": "it",
+   "start": 419.66,
+   "end": 419.88
+  },
+  {
+   "text": "runs.",
+   "start": 419.88,
+   "end": 420.1
+  },
+  {
+   "text": "That\u2019s",
+   "start": 420.1,
+   "end": 420.76
+  },
+  {
+   "text": "the",
+   "start": 420.76,
+   "end": 420.92
+  },
+  {
+   "text": "quantization",
+   "start": 420.92,
+   "end": 421.748
+  },
+  {
+   "text": "trade-off",
+   "start": 421.748,
+   "end": 422.3
+  },
+  {
+   "text": "showing",
+   "start": 422.3,
+   "end": 422.66
+  },
+  {
+   "text": "up",
+   "start": 422.66,
+   "end": 422.84
+  },
+  {
+   "text": "in",
+   "start": 422.84,
+   "end": 422.98
+  },
+  {
+   "text": "real",
+   "start": 422.98,
+   "end": 423.22
+  },
+  {
+   "text": "data.",
+   "start": 423.22,
+   "end": 423.68
+  },
+  {
+   "text": "It",
+   "start": 424.3,
+   "end": 424.36
+  },
+  {
+   "text": "also",
+   "start": 424.36,
+   "end": 424.66
+  },
+  {
+   "text": "reports",
+   "start": 424.66,
+   "end": 425.02
+  },
+  {
+   "text": "prompt",
+   "start": 425.02,
+   "end": 425.38
+  },
+  {
+   "text": "processing",
+   "start": 425.38,
+   "end": 425.96
+  },
+  {
+   "text": "speed,",
+   "start": 425.96,
+   "end": 426.4
+  },
+  {
+   "text": "which",
+   "start": 426.8,
+   "end": 426.92
+  },
+  {
+   "text": "is",
+   "start": 426.92,
+   "end": 427.04
+  },
+  {
+   "text": "how",
+   "start": 427.04,
+   "end": 427.22
+  },
+  {
+   "text": "fast",
+   "start": 427.22,
+   "end": 427.5
+  },
+  {
+   "text": "the",
+   "start": 427.5,
+   "end": 427.7
+  },
+  {
+   "text": "model",
+   "start": 427.7,
+   "end": 427.9
+  },
+  {
+   "text": "reads",
+   "start": 427.9,
+   "end": 428.2
+  },
+  {
+   "text": "what",
+   "start": 428.2,
+   "end": 428.44
+  },
+  {
+   "text": "we",
+   "start": 428.44,
+   "end": 428.58
+  },
+  {
+   "text": "send",
+   "start": 428.58,
+   "end": 428.76
+  },
+  {
+   "text": "it",
+   "start": 428.76,
+   "end": 429.0
+  },
+  {
+   "text": "before",
+   "start": 429.0,
+   "end": 429.34
+  },
+  {
+   "text": "it",
+   "start": 429.34,
+   "end": 429.56
+  },
+  {
+   "text": "starts",
+   "start": 429.56,
+   "end": 429.78
+  },
+  {
+   "text": "writing,",
+   "start": 429.78,
+   "end": 430.2
+  },
+  {
+   "text": "at",
+   "start": 430.6,
+   "end": 430.78
+  },
+  {
+   "text": "up",
+   "start": 430.78,
+   "end": 430.88
+  },
+  {
+   "text": "to",
+   "start": 430.88,
+   "end": 431.04
+  },
+  {
+   "text": "two",
+   "start": 431.04,
+   "end": 431.26
+  },
+  {
+   "text": "thousand,",
+   "start": 431.26,
+   "end": 431.603
+  },
+  {
+   "text": "one",
+   "start": 431.603,
+   "end": 431.731
+  },
+  {
+   "text": "hundred",
+   "start": 431.731,
+   "end": 432.031
+  },
+  {
+   "text": "and",
+   "start": 432.031,
+   "end": 432.16
+  },
+  {
+   "text": "seventy",
+   "start": 432.16,
+   "end": 432.46
+  },
+  {
+   "text": "tokens",
+   "start": 432.46,
+   "end": 433.04
+  },
+  {
+   "text": "per",
+   "start": 433.04,
+   "end": 433.36
+  },
+  {
+   "text": "second.",
+   "start": 433.36,
+   "end": 433.68
+  },
+  {
+   "text": "Those",
+   "start": 434.3,
+   "end": 434.5
+  },
+  {
+   "text": "numbers",
+   "start": 434.5,
+   "end": 434.72
+  },
+  {
+   "text": "come",
+   "start": 434.72,
+   "end": 434.98
+  },
+  {
+   "text": "from",
+   "start": 434.98,
+   "end": 435.2
+  },
+  {
+   "text": "the",
+   "start": 435.2,
+   "end": 435.36
+  },
+  {
+   "text": "project\u2019s",
+   "start": 435.36,
+   "end": 435.8
+  },
+  {
+   "text": "own",
+   "start": 435.8,
+   "end": 435.96
+  },
+  {
+   "text": "testing.",
+   "start": 435.96,
+   "end": 436.46
+  },
+  {
+   "text": "Speed",
+   "start": 437.12,
+   "end": 437.3
+  },
+  {
+   "text": "depends",
+   "start": 437.3,
+   "end": 437.62
+  },
+  {
+   "text": "on",
+   "start": 437.62,
+   "end": 437.84
+  },
+  {
+   "text": "the",
+   "start": 437.84,
+   "end": 437.94
+  },
+  {
+   "text": "GPU,",
+   "start": 437.94,
+   "end": 438.22
+  },
+  {
+   "text": "the",
+   "start": 438.72,
+   "end": 438.8
+  },
+  {
+   "text": "RAM,",
+   "start": 438.8,
+   "end": 439.04
+  },
+  {
+   "text": "the",
+   "start": 439.38,
+   "end": 439.44
+  },
+  {
+   "text": "CPU,",
+   "start": 439.44,
+   "end": 439.74
+  },
+  {
+   "text": "the",
+   "start": 440.26,
+   "end": 440.38
+  },
+  {
+   "text": "quantization,",
+   "start": 440.38,
+   "end": 441.34
+  },
+  {
+   "text": "the",
+   "start": 441.34,
+   "end": 441.42
+  },
+  {
+   "text": "context",
+   "start": 441.42,
+   "end": 441.78
+  },
+  {
+   "text": "length,",
+   "start": 441.78,
+   "end": 442.14
+  },
+  {
+   "text": "and",
+   "start": 442.34,
+   "end": 442.68
+  },
+  {
+   "text": "what",
+   "start": 442.68,
+   "end": 442.84
+  },
+  {
+   "text": "we\u2019re",
+   "start": 442.84,
+   "end": 443.02
+  },
+  {
+   "text": "asking",
+   "start": 443.02,
+   "end": 443.3
+  },
+  {
+   "text": "the",
+   "start": 443.3,
+   "end": 443.46
+  },
+  {
+   "text": "model",
+   "start": 443.46,
+   "end": 443.62
+  },
+  {
+   "text": "to",
+   "start": 443.62,
+   "end": 443.84
+  },
+  {
+   "text": "do.",
+   "start": 443.84,
+   "end": 444.04
+  },
+  {
+   "text": "We",
+   "start": 444.58,
+   "end": 444.84
+  },
+  {
+   "text": "should",
+   "start": 444.84,
+   "end": 444.98
+  },
+  {
+   "text": "treat",
+   "start": 444.98,
+   "end": 445.16
+  },
+  {
+   "text": "them",
+   "start": 445.16,
+   "end": 445.26
+  },
+  {
+   "text": "as",
+   "start": 445.26,
+   "end": 445.36
+  },
+  {
+   "text": "a",
+   "start": 445.36,
+   "end": 445.5
+  },
+  {
+   "text": "best",
+   "start": 445.5,
+   "end": 445.74
+  },
+  {
+   "text": "case,",
+   "start": 445.74,
+   "end": 446.1
+  },
+  {
+   "text": "not",
+   "start": 446.32,
+   "end": 446.46
+  },
+  {
+   "text": "a",
+   "start": 446.46,
+   "end": 446.62
+  },
+  {
+   "text": "promise.",
+   "start": 446.62,
+   "end": 446.9
+  },
+  {
+   "text": "The",
+   "start": 446.9,
+   "end": 447.84
+  },
+  {
+   "text": "community",
+   "start": 447.84,
+   "end": 448.06
+  },
+  {
+   "text": "numbers",
+   "start": 448.06,
+   "end": 448.44
+  },
+  {
+   "text": "are",
+   "start": 448.44,
+   "end": 448.6
+  },
+  {
+   "text": "fun",
+   "start": 448.6,
+   "end": 448.76
+  },
+  {
+   "text": "too.",
+   "start": 448.76,
+   "end": 449.0
+  },
+  {
+   "text": "One",
+   "start": 449.52,
+   "end": 449.74
+  },
+  {
+   "text": "person",
+   "start": 449.74,
+   "end": 450.02
+  },
+  {
+   "text": "modified",
+   "start": 450.02,
+   "end": 450.5
+  },
+  {
+   "text": "Strata",
+   "start": 450.5,
+   "end": 450.86
+  },
+  {
+   "text": "to",
+   "start": 450.86,
+   "end": 451.04
+  },
+  {
+   "text": "use",
+   "start": 451.04,
+   "end": 451.24
+  },
+  {
+   "text": "an",
+   "start": 451.24,
+   "end": 451.44
+  },
+  {
+   "text": "R-T-X",
+   "start": 451.44,
+   "end": 451.9
+  },
+  {
+   "text": "fifty-eighty",
+   "start": 451.9,
+   "end": 452.6
+  },
+  {
+   "text": "and",
+   "start": 452.6,
+   "end": 453.12
+  },
+  {
+   "text": "an",
+   "start": 453.12,
+   "end": 453.24
+  },
+  {
+   "text": "R-T-X",
+   "start": 453.24,
+   "end": 453.7
+  },
+  {
+   "text": "forty-sixty",
+   "start": 453.7,
+   "end": 454.64
+  },
+  {
+   "text": "T-I",
+   "start": 454.64,
+   "end": 455.06
+  },
+  {
+   "text": "together.",
+   "start": 455.06,
+   "end": 455.78
+  },
+  {
+   "text": "They",
+   "start": 456.38,
+   "end": 456.56
+  },
+  {
+   "text": "reported",
+   "start": 456.56,
+   "end": 456.9
+  },
+  {
+   "text": "about",
+   "start": 456.9,
+   "end": 457.16
+  },
+  {
+   "text": "a",
+   "start": 457.16,
+   "end": 457.238
+  },
+  {
+   "text": "hundred",
+   "start": 457.238,
+   "end": 457.512
+  },
+  {
+   "text": "and",
+   "start": 457.512,
+   "end": 457.629
+  },
+  {
+   "text": "forty-three",
+   "start": 457.629,
+   "end": 458.02
+  },
+  {
+   "text": "tokens",
+   "start": 458.02,
+   "end": 458.68
+  },
+  {
+   "text": "per",
+   "start": 458.68,
+   "end": 459.0
+  },
+  {
+   "text": "second",
+   "start": 459.0,
+   "end": 459.24
+  },
+  {
+   "text": "on",
+   "start": 459.24,
+   "end": 459.5
+  },
+  {
+   "text": "code",
+   "start": 459.5,
+   "end": 459.88
+  },
+  {
+   "text": "and",
+   "start": 459.88,
+   "end": 460.38
+  },
+  {
+   "text": "a",
+   "start": 460.38,
+   "end": 460.449
+  },
+  {
+   "text": "hundred",
+   "start": 460.449,
+   "end": 460.692
+  },
+  {
+   "text": "and",
+   "start": 460.692,
+   "end": 460.796
+  },
+  {
+   "text": "two",
+   "start": 460.796,
+   "end": 460.9
+  },
+  {
+   "text": "on",
+   "start": 460.9,
+   "end": 461.2
+  },
+  {
+   "text": "prose,",
+   "start": 461.2,
+   "end": 462.06
+  },
+  {
+   "text": "compared",
+   "start": 462.06,
+   "end": 462.28
+  },
+  {
+   "text": "to",
+   "start": 462.28,
+   "end": 462.44
+  },
+  {
+   "text": "roughly",
+   "start": 462.44,
+   "end": 462.6
+  },
+  {
+   "text": "twenty-eight",
+   "start": 462.6,
+   "end": 463.26
+  },
+  {
+   "text": "with",
+   "start": 463.26,
+   "end": 463.58
+  },
+  {
+   "text": "the",
+   "start": 463.58,
+   "end": 463.7
+  },
+  {
+   "text": "fifty-eighty",
+   "start": 463.7,
+   "end": 464.22
+  },
+  {
+   "text": "alone.",
+   "start": 464.22,
+   "end": 464.54
+  },
+  {
+   "text": "Those",
+   "start": 465.26,
+   "end": 465.48
+  },
+  {
+   "text": "are",
+   "start": 465.48,
+   "end": 465.6
+  },
+  {
+   "text": "experiments,",
+   "start": 465.6,
+   "end": 466.1
+  },
+  {
+   "text": "not",
+   "start": 466.52,
+   "end": 466.64
+  },
+  {
+   "text": "standard",
+   "start": 466.64,
+   "end": 467.02
+  },
+  {
+   "text": "benchmarks.",
+   "start": 467.02,
+   "end": 467.46
+  },
+  {
+   "text": "Still,",
+   "start": 467.94,
+   "end": 468.12
+  },
+  {
+   "text": "they",
+   "start": 468.3,
+   "end": 468.4
+  },
+  {
+   "text": "show",
+   "start": 468.4,
+   "end": 468.56
+  },
+  {
+   "text": "how",
+   "start": 468.56,
+   "end": 468.82
+  },
+  {
+   "text": "far",
+   "start": 468.82,
+   "end": 469.1
+  },
+  {
+   "text": "people",
+   "start": 469.1,
+   "end": 469.36
+  },
+  {
+   "text": "are",
+   "start": 469.36,
+   "end": 469.56
+  },
+  {
+   "text": "already",
+   "start": 469.56,
+   "end": 469.96
+  },
+  {
+   "text": "pushing",
+   "start": 469.96,
+   "end": 470.28
+  },
+  {
+   "text": "it.",
+   "start": 470.28,
+   "end": 470.74
+  },
+  {
+   "text": "Another",
+   "start": 470.74,
+   "end": 471.52
+  },
+  {
+   "text": "thing",
+   "start": 471.52,
+   "end": 471.78
+  },
+  {
+   "text": "Strata",
+   "start": 471.78,
+   "end": 472.04
+  },
+  {
+   "text": "cares",
+   "start": 472.04,
+   "end": 472.24
+  },
+  {
+   "text": "about",
+   "start": 472.24,
+   "end": 472.5
+  },
+  {
+   "text": "is",
+   "start": 472.5,
+   "end": 472.94
+  },
+  {
+   "text": "context",
+   "start": 472.94,
+   "end": 473.3
+  },
+  {
+   "text": "length.",
+   "start": 473.3,
+   "end": 473.68
+  },
+  {
+   "text": "The",
+   "start": 474.18,
+   "end": 474.36
+  },
+  {
+   "text": "context",
+   "start": 474.36,
+   "end": 474.7
+  },
+  {
+   "text": "window",
+   "start": 474.7,
+   "end": 475.12
+  },
+  {
+   "text": "is",
+   "start": 475.12,
+   "end": 475.34
+  },
+  {
+   "text": "how",
+   "start": 475.34,
+   "end": 475.58
+  },
+  {
+   "text": "much",
+   "start": 475.58,
+   "end": 475.8
+  },
+  {
+   "text": "text",
+   "start": 475.8,
+   "end": 476.12
+  },
+  {
+   "text": "the",
+   "start": 476.12,
+   "end": 476.36
+  },
+  {
+   "text": "model",
+   "start": 476.36,
+   "end": 476.56
+  },
+  {
+   "text": "can",
+   "start": 476.56,
+   "end": 476.76
+  },
+  {
+   "text": "keep",
+   "start": 476.76,
+   "end": 476.94
+  },
+  {
+   "text": "in",
+   "start": 476.94,
+   "end": 477.12
+  },
+  {
+   "text": "mind",
+   "start": 477.12,
+   "end": 477.36
+  },
+  {
+   "text": "at",
+   "start": 477.36,
+   "end": 477.54
+  },
+  {
+   "text": "once:",
+   "start": 477.54,
+   "end": 477.96
+  },
+  {
+   "text": "our",
+   "start": 478.4,
+   "end": 478.56
+  },
+  {
+   "text": "conversation,",
+   "start": 478.56,
+   "end": 479.04
+  },
+  {
+   "text": "a",
+   "start": 479.62,
+   "end": 479.72
+  },
+  {
+   "text": "pasted",
+   "start": 479.72,
+   "end": 480.1
+  },
+  {
+   "text": "document,",
+   "start": 480.1,
+   "end": 480.48
+  },
+  {
+   "text": "a",
+   "start": 480.48,
+   "end": 480.86
+  },
+  {
+   "text": "whole",
+   "start": 480.86,
+   "end": 481.1
+  },
+  {
+   "text": "codebase.",
+   "start": 481.1,
+   "end": 482.58
+  },
+  {
+   "text": "Long",
+   "start": 482.58,
+   "end": 482.8
+  },
+  {
+   "text": "context",
+   "start": 482.8,
+   "end": 483.34
+  },
+  {
+   "text": "costs",
+   "start": 483.34,
+   "end": 483.84
+  },
+  {
+   "text": "memory.",
+   "start": 483.84,
+   "end": 484.4
+  },
+  {
+   "text": "While",
+   "start": 484.94,
+   "end": 485.1
+  },
+  {
+   "text": "the",
+   "start": 485.1,
+   "end": 485.2
+  },
+  {
+   "text": "model",
+   "start": 485.2,
+   "end": 485.34
+  },
+  {
+   "text": "writes,",
+   "start": 485.34,
+   "end": 485.66
+  },
+  {
+   "text": "it",
+   "start": 485.86,
+   "end": 485.92
+  },
+  {
+   "text": "keeps",
+   "start": 485.92,
+   "end": 486.12
+  },
+  {
+   "text": "notes",
+   "start": 486.12,
+   "end": 486.4
+  },
+  {
+   "text": "on",
+   "start": 486.4,
+   "end": 486.62
+  },
+  {
+   "text": "every",
+   "start": 486.62,
+   "end": 487.0
+  },
+  {
+   "text": "token",
+   "start": 487.0,
+   "end": 487.26
+  },
+  {
+   "text": "it",
+   "start": 487.26,
+   "end": 487.44
+  },
+  {
+   "text": "has",
+   "start": 487.44,
+   "end": 487.56
+  },
+  {
+   "text": "already",
+   "start": 487.56,
+   "end": 487.8
+  },
+  {
+   "text": "seen,",
+   "start": 487.8,
+   "end": 488.14
+  },
+  {
+   "text": "so",
+   "start": 488.14,
+   "end": 488.52
+  },
+  {
+   "text": "it",
+   "start": 488.52,
+   "end": 488.62
+  },
+  {
+   "text": "doesn\u2019t",
+   "start": 488.62,
+   "end": 488.78
+  },
+  {
+   "text": "have",
+   "start": 488.78,
+   "end": 488.9
+  },
+  {
+   "text": "to",
+   "start": 488.9,
+   "end": 489.02
+  },
+  {
+   "text": "redo",
+   "start": 489.02,
+   "end": 489.38
+  },
+  {
+   "text": "the",
+   "start": 489.38,
+   "end": 489.52
+  },
+  {
+   "text": "work.",
+   "start": 489.52,
+   "end": 489.76
+  },
+  {
+   "text": "Those",
+   "start": 490.34,
+   "end": 490.5
+  },
+  {
+   "text": "notes",
+   "start": 490.5,
+   "end": 490.74
+  },
+  {
+   "text": "are",
+   "start": 490.74,
+   "end": 490.92
+  },
+  {
+   "text": "called",
+   "start": 490.92,
+   "end": 491.08
+  },
+  {
+   "text": "the",
+   "start": 491.08,
+   "end": 491.24
+  },
+  {
+   "text": "K-V",
+   "start": 491.24,
+   "end": 491.76
+  },
+  {
+   "text": "cache,",
+   "start": 491.76,
+   "end": 492.08
+  },
+  {
+   "text": "and",
+   "start": 492.56,
+   "end": 492.66
+  },
+  {
+   "text": "the",
+   "start": 492.66,
+   "end": 492.74
+  },
+  {
+   "text": "longer",
+   "start": 492.74,
+   "end": 492.9
+  },
+  {
+   "text": "the",
+   "start": 492.9,
+   "end": 493.06
+  },
+  {
+   "text": "conversation,",
+   "start": 493.06,
+   "end": 493.46
+  },
+  {
+   "text": "the",
+   "start": 493.86,
+   "end": 493.94
+  },
+  {
+   "text": "bigger",
+   "start": 493.94,
+   "end": 494.14
+  },
+  {
+   "text": "they",
+   "start": 494.14,
+   "end": 494.34
+  },
+  {
+   "text": "get.",
+   "start": 494.34,
+   "end": 494.56
+  },
+  {
+   "text": "Strata\u2019s",
+   "start": 494.56,
+   "end": 495.86
+  },
+  {
+   "text": "benchmarks",
+   "start": 495.86,
+   "end": 496.26
+  },
+  {
+   "text": "reach",
+   "start": 496.26,
+   "end": 496.62
+  },
+  {
+   "text": "a",
+   "start": 496.62,
+   "end": 496.722
+  },
+  {
+   "text": "hundred",
+   "start": 496.722,
+   "end": 497.081
+  },
+  {
+   "text": "and",
+   "start": 497.081,
+   "end": 497.234
+  },
+  {
+   "text": "twenty-eight",
+   "start": 497.234,
+   "end": 497.798
+  },
+  {
+   "text": "K",
+   "start": 497.798,
+   "end": 497.9
+  },
+  {
+   "text": "tokens",
+   "start": 497.9,
+   "end": 498.4
+  },
+  {
+   "text": "of",
+   "start": 498.4,
+   "end": 498.54
+  },
+  {
+   "text": "context,",
+   "start": 498.54,
+   "end": 499.0
+  },
+  {
+   "text": "and",
+   "start": 499.28,
+   "end": 499.38
+  },
+  {
+   "text": "speeds",
+   "start": 499.38,
+   "end": 499.66
+  },
+  {
+   "text": "there",
+   "start": 499.66,
+   "end": 499.92
+  },
+  {
+   "text": "still",
+   "start": 499.92,
+   "end": 500.22
+  },
+  {
+   "text": "land",
+   "start": 500.22,
+   "end": 500.52
+  },
+  {
+   "text": "between",
+   "start": 500.52,
+   "end": 500.84
+  },
+  {
+   "text": "about",
+   "start": 500.84,
+   "end": 501.12
+  },
+  {
+   "text": "forty-six",
+   "start": 501.12,
+   "end": 501.82
+  },
+  {
+   "text": "and",
+   "start": 501.82,
+   "end": 502.08
+  },
+  {
+   "text": "seventy-four",
+   "start": 502.08,
+   "end": 502.8
+  },
+  {
+   "text": "tokens",
+   "start": 502.8,
+   "end": 503.22
+  },
+  {
+   "text": "per",
+   "start": 503.22,
+   "end": 503.42
+  },
+  {
+   "text": "second.",
+   "start": 503.42,
+   "end": 503.8
+  },
+  {
+   "text": "Its",
+   "start": 504.52,
+   "end": 504.68
+  },
+  {
+   "text": "docs",
+   "start": 504.68,
+   "end": 504.88
+  },
+  {
+   "text": "also",
+   "start": 504.88,
+   "end": 505.32
+  },
+  {
+   "text": "describe",
+   "start": 505.32,
+   "end": 505.7
+  },
+  {
+   "text": "experimental",
+   "start": 505.7,
+   "end": 506.34
+  },
+  {
+   "text": "setups",
+   "start": 506.34,
+   "end": 506.8
+  },
+  {
+   "text": "stretching",
+   "start": 506.8,
+   "end": 507.22
+  },
+  {
+   "text": "toward",
+   "start": 507.22,
+   "end": 507.54
+  },
+  {
+   "text": "three",
+   "start": 507.54,
+   "end": 508.123
+  },
+  {
+   "text": "hundred",
+   "start": 508.123,
+   "end": 508.94
+  },
+  {
+   "text": "and",
+   "start": 508.94,
+   "end": 509.38
+  },
+  {
+   "text": "eighty-four",
+   "start": 509.38,
+   "end": 509.894
+  },
+  {
+   "text": "K",
+   "start": 509.894,
+   "end": 509.996
+  },
+  {
+   "text": "and",
+   "start": 509.996,
+   "end": 510.15
+  },
+  {
+   "text": "five",
+   "start": 510.15,
+   "end": 510.356
+  },
+  {
+   "text": "hundred",
+   "start": 510.356,
+   "end": 510.715
+  },
+  {
+   "text": "and",
+   "start": 510.715,
+   "end": 510.869
+  },
+  {
+   "text": "twelve",
+   "start": 510.869,
+   "end": 511.177
+  },
+  {
+   "text": "K.",
+   "start": 511.177,
+   "end": 511.28
+  },
+  {
+   "text": "One",
+   "start": 511.28,
+   "end": 511.62
+  },
+  {
+   "text": "community",
+   "start": 511.62,
+   "end": 511.98
+  },
+  {
+   "text": "experiment",
+   "start": 511.98,
+   "end": 512.6
+  },
+  {
+   "text": "tried",
+   "start": 512.6,
+   "end": 512.9
+  },
+  {
+   "text": "around",
+   "start": 512.9,
+   "end": 513.14
+  },
+  {
+   "text": "two",
+   "start": 513.14,
+   "end": 513.338
+  },
+  {
+   "text": "hundred",
+   "start": 513.338,
+   "end": 513.801
+  },
+  {
+   "text": "and",
+   "start": 513.801,
+   "end": 513.999
+  },
+  {
+   "text": "fifty-six",
+   "start": 513.999,
+   "end": 514.528
+  },
+  {
+   "text": "K",
+   "start": 514.528,
+   "end": 514.66
+  },
+  {
+   "text": "on",
+   "start": 514.66,
+   "end": 515.14
+  },
+  {
+   "text": "a",
+   "start": 515.14,
+   "end": 515.28
+  },
+  {
+   "text": "forty-eight",
+   "start": 515.28,
+   "end": 515.758
+  },
+  {
+   "text": "gigabyte",
+   "start": 515.758,
+   "end": 516.14
+  },
+  {
+   "text": "R-T-X",
+   "start": 516.14,
+   "end": 516.74
+  },
+  {
+   "text": "forty-ninety",
+   "start": 516.74,
+   "end": 518.06
+  },
+  {
+   "text": "D,",
+   "start": 518.06,
+   "end": 518.3
+  },
+  {
+   "text": "a",
+   "start": 518.3,
+   "end": 518.4
+  },
+  {
+   "text": "sixteen",
+   "start": 518.4,
+   "end": 518.792
+  },
+  {
+   "text": "gigabyte",
+   "start": 518.792,
+   "end": 519.24
+  },
+  {
+   "text": "R-T-X",
+   "start": 519.24,
+   "end": 519.84
+  },
+  {
+   "text": "fifty-seventy",
+   "start": 519.84,
+   "end": 520.6
+  },
+  {
+   "text": "T-I,",
+   "start": 520.6,
+   "end": 520.84
+  },
+  {
+   "text": "and",
+   "start": 520.84,
+   "end": 521.48
+  },
+  {
+   "text": "a",
+   "start": 521.48,
+   "end": 521.548
+  },
+  {
+   "text": "hundred",
+   "start": 521.548,
+   "end": 521.784
+  },
+  {
+   "text": "and",
+   "start": 521.784,
+   "end": 521.885
+  },
+  {
+   "text": "twenty-eight",
+   "start": 521.885,
+   "end": 522.256
+  },
+  {
+   "text": "gigabytes",
+   "start": 522.256,
+   "end": 522.56
+  },
+  {
+   "text": "of",
+   "start": 522.56,
+   "end": 522.92
+  },
+  {
+   "text": "RAM.",
+   "start": 522.92,
+   "end": 523.22
+  },
+  {
+   "text": "What\u2019s",
+   "start": 524.04,
+   "end": 524.44
+  },
+  {
+   "text": "it",
+   "start": 524.44,
+   "end": 524.5
+  },
+  {
+   "text": "like",
+   "start": 524.5,
+   "end": 524.68
+  },
+  {
+   "text": "to",
+   "start": 524.68,
+   "end": 524.86
+  },
+  {
+   "text": "use?",
+   "start": 524.86,
+   "end": 525.2
+  },
+  {
+   "text": "Strata",
+   "start": 525.92,
+   "end": 526.26
+  },
+  {
+   "text": "comes",
+   "start": 526.26,
+   "end": 526.5
+  },
+  {
+   "text": "with",
+   "start": 526.5,
+   "end": 526.74
+  },
+  {
+   "text": "a",
+   "start": 526.74,
+   "end": 526.86
+  },
+  {
+   "text": "local",
+   "start": 526.86,
+   "end": 527.22
+  },
+  {
+   "text": "web",
+   "start": 527.22,
+   "end": 527.48
+  },
+  {
+   "text": "interface,",
+   "start": 527.48,
+   "end": 527.92
+  },
+  {
+   "text": "and",
+   "start": 528.4,
+   "end": 528.46
+  },
+  {
+   "text": "it",
+   "start": 528.46,
+   "end": 528.56
+  },
+  {
+   "text": "exposes",
+   "start": 528.56,
+   "end": 528.94
+  },
+  {
+   "text": "an",
+   "start": 528.94,
+   "end": 529.3
+  },
+  {
+   "text": "OpenAI-compatible",
+   "start": 529.3,
+   "end": 530.26
+  },
+  {
+   "text": "API",
+   "start": 530.26,
+   "end": 530.72
+  },
+  {
+   "text": "at",
+   "start": 530.72,
+   "end": 531.22
+  },
+  {
+   "text": "a",
+   "start": 531.22,
+   "end": 531.36
+  },
+  {
+   "text": "local",
+   "start": 531.36,
+   "end": 531.52
+  },
+  {
+   "text": "address:",
+   "start": 531.52,
+   "end": 531.86
+  },
+  {
+   "text": "one",
+   "start": 531.86,
+   "end": 532.012
+  },
+  {
+   "text": "twenty-seven",
+   "start": 532.012,
+   "end": 532.568
+  },
+  {
+   "text": "dot",
+   "start": 532.568,
+   "end": 532.72
+  },
+  {
+   "text": "zero",
+   "start": 532.72,
+   "end": 533.7
+  },
+  {
+   "text": "dot",
+   "start": 533.7,
+   "end": 533.76
+  },
+  {
+   "text": "zero",
+   "start": 533.76,
+   "end": 534.24
+  },
+  {
+   "text": "dot",
+   "start": 534.24,
+   "end": 534.3
+  },
+  {
+   "text": "one,",
+   "start": 534.3,
+   "end": 534.86
+  },
+  {
+   "text": "port",
+   "start": 534.86,
+   "end": 535.32
+  },
+  {
+   "text": "eighty-eighty.",
+   "start": 535.32,
+   "end": 536.04
+  },
+  {
+   "text": "There\u2019s",
+   "start": 536.56,
+   "end": 536.82
+  },
+  {
+   "text": "an",
+   "start": 536.82,
+   "end": 536.92
+  },
+  {
+   "text": "Anthropic-compatible",
+   "start": 536.92,
+   "end": 537.74
+  },
+  {
+   "text": "endpoint",
+   "start": 537.74,
+   "end": 537.98
+  },
+  {
+   "text": "too.",
+   "start": 537.98,
+   "end": 538.44
+  },
+  {
+   "text": "\u201cOpenAI-compatible\u201d",
+   "start": 538.44,
+   "end": 540.22
+  },
+  {
+   "text": "just",
+   "start": 540.22,
+   "end": 540.52
+  },
+  {
+   "text": "means",
+   "start": 540.52,
+   "end": 540.74
+  },
+  {
+   "text": "that",
+   "start": 540.74,
+   "end": 540.94
+  },
+  {
+   "text": "any",
+   "start": 540.94,
+   "end": 541.2
+  },
+  {
+   "text": "tool",
+   "start": 541.2,
+   "end": 541.46
+  },
+  {
+   "text": "that",
+   "start": 541.46,
+   "end": 541.68
+  },
+  {
+   "text": "knows",
+   "start": 541.68,
+   "end": 541.86
+  },
+  {
+   "text": "how",
+   "start": 541.86,
+   "end": 542.12
+  },
+  {
+   "text": "to",
+   "start": 542.12,
+   "end": 542.24
+  },
+  {
+   "text": "talk",
+   "start": 542.24,
+   "end": 542.44
+  },
+  {
+   "text": "to",
+   "start": 542.44,
+   "end": 542.62
+  },
+  {
+   "text": "the",
+   "start": 542.62,
+   "end": 542.72
+  },
+  {
+   "text": "OpenAI",
+   "start": 542.72,
+   "end": 543.32
+  },
+  {
+   "text": "API",
+   "start": 543.32,
+   "end": 543.72
+  },
+  {
+   "text": "can",
+   "start": 543.72,
+   "end": 544.34
+  },
+  {
+   "text": "be",
+   "start": 544.34,
+   "end": 544.48
+  },
+  {
+   "text": "pointed",
+   "start": 544.48,
+   "end": 544.68
+  },
+  {
+   "text": "at",
+   "start": 544.68,
+   "end": 545.0
+  },
+  {
+   "text": "this",
+   "start": 545.0,
+   "end": 545.22
+  },
+  {
+   "text": "address",
+   "start": 545.22,
+   "end": 545.5
+  },
+  {
+   "text": "instead.",
+   "start": 545.5,
+   "end": 545.9
+  },
+  {
+   "text": "That",
+   "start": 546.42,
+   "end": 546.74
+  },
+  {
+   "text": "covers",
+   "start": 546.74,
+   "end": 547.06
+  },
+  {
+   "text": "coding",
+   "start": 547.06,
+   "end": 547.5
+  },
+  {
+   "text": "agents,",
+   "start": 547.5,
+   "end": 547.94
+  },
+  {
+   "text": "chat",
+   "start": 548.32,
+   "end": 548.4
+  },
+  {
+   "text": "apps,",
+   "start": 548.4,
+   "end": 548.78
+  },
+  {
+   "text": "Python",
+   "start": 549.24,
+   "end": 549.3
+  },
+  {
+   "text": "scripts,",
+   "start": 549.3,
+   "end": 549.6
+  },
+  {
+   "text": "and",
+   "start": 549.6,
+   "end": 550.02
+  },
+  {
+   "text": "R-A-G",
+   "start": 550.02,
+   "end": 550.5
+  },
+  {
+   "text": "apps,",
+   "start": 550.5,
+   "end": 550.84
+  },
+  {
+   "text": "which",
+   "start": 551.1,
+   "end": 551.28
+  },
+  {
+   "text": "let",
+   "start": 551.28,
+   "end": 551.44
+  },
+  {
+   "text": "a",
+   "start": 551.44,
+   "end": 551.58
+  },
+  {
+   "text": "model",
+   "start": 551.58,
+   "end": 551.74
+  },
+  {
+   "text": "search",
+   "start": 551.74,
+   "end": 552.06
+  },
+  {
+   "text": "our",
+   "start": 552.06,
+   "end": 552.3
+  },
+  {
+   "text": "own",
+   "start": 552.3,
+   "end": 552.48
+  },
+  {
+   "text": "documents.",
+   "start": 552.48,
+   "end": 552.9
+  },
+  {
+   "text": "The",
+   "start": 553.52,
+   "end": 553.7
+  },
+  {
+   "text": "model",
+   "start": 553.7,
+   "end": 553.88
+  },
+  {
+   "text": "becomes",
+   "start": 553.88,
+   "end": 554.18
+  },
+  {
+   "text": "a",
+   "start": 554.18,
+   "end": 554.34
+  },
+  {
+   "text": "local",
+   "start": 554.34,
+   "end": 554.6
+  },
+  {
+   "text": "server",
+   "start": 554.6,
+   "end": 554.94
+  },
+  {
+   "text": "on",
+   "start": 554.94,
+   "end": 555.22
+  },
+  {
+   "text": "our",
+   "start": 555.22,
+   "end": 555.36
+  },
+  {
+   "text": "own",
+   "start": 555.36,
+   "end": 555.52
+  },
+  {
+   "text": "PC,",
+   "start": 555.52,
+   "end": 555.82
+  },
+  {
+   "text": "and",
+   "start": 556.22,
+   "end": 556.3
+  },
+  {
+   "text": "our",
+   "start": 556.3,
+   "end": 556.42
+  },
+  {
+   "text": "prompts",
+   "start": 556.42,
+   "end": 556.72
+  },
+  {
+   "text": "never",
+   "start": 556.72,
+   "end": 557.08
+  },
+  {
+   "text": "leave",
+   "start": 557.08,
+   "end": 557.34
+  },
+  {
+   "text": "the",
+   "start": 557.34,
+   "end": 557.46
+  },
+  {
+   "text": "machine.",
+   "start": 557.46,
+   "end": 557.76
+  },
+  {
+   "text": "It",
+   "start": 558.66,
+   "end": 558.82
+  },
+  {
+   "text": "runs",
+   "start": 558.82,
+   "end": 558.98
+  },
+  {
+   "text": "on",
+   "start": 558.98,
+   "end": 559.22
+  },
+  {
+   "text": "Windows",
+   "start": 559.22,
+   "end": 559.4
+  },
+  {
+   "text": "ten",
+   "start": 559.4,
+   "end": 559.74
+  },
+  {
+   "text": "and",
+   "start": 559.74,
+   "end": 559.9
+  },
+  {
+   "text": "eleven",
+   "start": 559.9,
+   "end": 560.14
+  },
+  {
+   "text": "and",
+   "start": 560.44,
+   "end": 560.52
+  },
+  {
+   "text": "on",
+   "start": 560.52,
+   "end": 560.72
+  },
+  {
+   "text": "Linux.",
+   "start": 560.72,
+   "end": 560.94
+  },
+  {
+   "text": "It",
+   "start": 561.56,
+   "end": 561.68
+  },
+  {
+   "text": "needs",
+   "start": 561.68,
+   "end": 561.92
+  },
+  {
+   "text": "an",
+   "start": 561.92,
+   "end": 562.14
+  },
+  {
+   "text": "NVIDIA",
+   "start": 562.14,
+   "end": 562.52
+  },
+  {
+   "text": "R-T-X",
+   "start": 562.52,
+   "end": 563.0
+  },
+  {
+   "text": "GPU",
+   "start": 563.0,
+   "end": 563.52
+  },
+  {
+   "text": "from",
+   "start": 563.52,
+   "end": 563.98
+  },
+  {
+   "text": "the",
+   "start": 563.98,
+   "end": 564.12
+  },
+  {
+   "text": "twenty",
+   "start": 564.12,
+   "end": 564.46
+  },
+  {
+   "text": "through",
+   "start": 564.46,
+   "end": 564.52
+  },
+  {
+   "text": "fifty",
+   "start": 564.52,
+   "end": 564.96
+  },
+  {
+   "text": "series,",
+   "start": 564.96,
+   "end": 565.24
+  },
+  {
+   "text": "at",
+   "start": 565.76,
+   "end": 565.84
+  },
+  {
+   "text": "least",
+   "start": 565.84,
+   "end": 565.98
+  },
+  {
+   "text": "twelve",
+   "start": 565.98,
+   "end": 566.228
+  },
+  {
+   "text": "gigabytes",
+   "start": 566.228,
+   "end": 566.6
+  },
+  {
+   "text": "of",
+   "start": 566.6,
+   "end": 566.88
+  },
+  {
+   "text": "V-RAM,",
+   "start": 566.88,
+   "end": 567.36
+  },
+  {
+   "text": "enough",
+   "start": 567.72,
+   "end": 567.96
+  },
+  {
+   "text": "RAM,",
+   "start": 567.96,
+   "end": 568.24
+  },
+  {
+   "text": "with",
+   "start": 568.24,
+   "end": 568.56
+  },
+  {
+   "text": "sixty-four",
+   "start": 568.56,
+   "end": 568.99
+  },
+  {
+   "text": "gigabytes",
+   "start": 568.99,
+   "end": 569.42
+  },
+  {
+   "text": "as",
+   "start": 569.42,
+   "end": 569.66
+  },
+  {
+   "text": "the",
+   "start": 569.66,
+   "end": 569.8
+  },
+  {
+   "text": "standard",
+   "start": 569.8,
+   "end": 570.06
+  },
+  {
+   "text": "baseline,",
+   "start": 570.06,
+   "end": 570.44
+  },
+  {
+   "text": "and",
+   "start": 570.9,
+   "end": 571.0
+  },
+  {
+   "text": "about",
+   "start": 571.0,
+   "end": 571.16
+  },
+  {
+   "text": "eighty",
+   "start": 571.16,
+   "end": 571.448
+  },
+  {
+   "text": "gigabytes",
+   "start": 571.448,
+   "end": 571.88
+  },
+  {
+   "text": "of",
+   "start": 571.88,
+   "end": 572.2
+  },
+  {
+   "text": "free",
+   "start": 572.2,
+   "end": 572.42
+  },
+  {
+   "text": "disk",
+   "start": 572.42,
+   "end": 572.64
+  },
+  {
+   "text": "space.",
+   "start": 572.64,
+   "end": 572.94
+  },
+  {
+   "text": "On",
+   "start": 573.38,
+   "end": 573.56
+  },
+  {
+   "text": "Windows,",
+   "start": 573.56,
+   "end": 573.84
+  },
+  {
+   "text": "a",
+   "start": 574.04,
+   "end": 574.1
+  },
+  {
+   "text": "file",
+   "start": 574.1,
+   "end": 574.28
+  },
+  {
+   "text": "called",
+   "start": 574.28,
+   "end": 574.6
+  },
+  {
+   "text": "start-here",
+   "start": 574.6,
+   "end": 575.28
+  },
+  {
+   "text": "dot",
+   "start": 575.28,
+   "end": 575.34
+  },
+  {
+   "text": "bat",
+   "start": 575.34,
+   "end": 575.76
+  },
+  {
+   "text": "walks",
+   "start": 575.76,
+   "end": 576.14
+  },
+  {
+   "text": "us",
+   "start": 576.14,
+   "end": 576.32
+  },
+  {
+   "text": "through",
+   "start": 576.32,
+   "end": 576.5
+  },
+  {
+   "text": "picking",
+   "start": 576.5,
+   "end": 576.78
+  },
+  {
+   "text": "the",
+   "start": 576.78,
+   "end": 576.98
+  },
+  {
+   "text": "model,",
+   "start": 576.98,
+   "end": 577.24
+  },
+  {
+   "text": "the",
+   "start": 577.48,
+   "end": 577.56
+  },
+  {
+   "text": "quantization,",
+   "start": 577.56,
+   "end": 578.56
+  },
+  {
+   "text": "and",
+   "start": 578.56,
+   "end": 578.64
+  },
+  {
+   "text": "the",
+   "start": 578.64,
+   "end": 578.74
+  },
+  {
+   "text": "context",
+   "start": 578.74,
+   "end": 579.12
+  },
+  {
+   "text": "length.",
+   "start": 579.12,
+   "end": 579.42
+  },
+  {
+   "text": "There\u2019s",
+   "start": 579.88,
+   "end": 580.08
+  },
+  {
+   "text": "also",
+   "start": 580.08,
+   "end": 580.32
+  },
+  {
+   "text": "a",
+   "start": 580.32,
+   "end": 580.44
+  },
+  {
+   "text": "low",
+   "start": 580.44,
+   "end": 580.68
+  },
+  {
+   "text": "RAM",
+   "start": 580.68,
+   "end": 580.96
+  },
+  {
+   "text": "mode",
+   "start": 580.96,
+   "end": 581.26
+  },
+  {
+   "text": "for",
+   "start": 581.26,
+   "end": 581.46
+  },
+  {
+   "text": "machines",
+   "start": 581.46,
+   "end": 581.72
+  },
+  {
+   "text": "with",
+   "start": 581.72,
+   "end": 581.96
+  },
+  {
+   "text": "a",
+   "start": 581.96,
+   "end": 582.12
+  },
+  {
+   "text": "strong",
+   "start": 582.12,
+   "end": 582.3
+  },
+  {
+   "text": "GPU",
+   "start": 582.3,
+   "end": 582.68
+  },
+  {
+   "text": "but",
+   "start": 583.26,
+   "end": 583.36
+  },
+  {
+   "text": "less",
+   "start": 583.36,
+   "end": 583.58
+  },
+  {
+   "text": "system",
+   "start": 583.58,
+   "end": 583.96
+  },
+  {
+   "text": "memory.",
+   "start": 583.96,
+   "end": 584.28
+  },
+  {
+   "text": "And",
+   "start": 584.94,
+   "end": 585.24
+  },
+  {
+   "text": "if",
+   "start": 585.24,
+   "end": 585.32
+  },
+  {
+   "text": "we",
+   "start": 585.32,
+   "end": 585.44
+  },
+  {
+   "text": "run",
+   "start": 585.44,
+   "end": 585.6
+  },
+  {
+   "text": "out",
+   "start": 585.6,
+   "end": 585.8
+  },
+  {
+   "text": "of",
+   "start": 585.8,
+   "end": 585.94
+  },
+  {
+   "text": "V-RAM,",
+   "start": 585.94,
+   "end": 586.32
+  },
+  {
+   "text": "we",
+   "start": 586.5,
+   "end": 586.6
+  },
+  {
+   "text": "have",
+   "start": 586.6,
+   "end": 586.72
+  },
+  {
+   "text": "options:",
+   "start": 586.72,
+   "end": 587.1
+  },
+  {
+   "text": "a",
+   "start": 587.64,
+   "end": 587.78
+  },
+  {
+   "text": "more",
+   "start": 587.78,
+   "end": 587.92
+  },
+  {
+   "text": "aggressive",
+   "start": 587.92,
+   "end": 588.26
+  },
+  {
+   "text": "quantization,",
+   "start": 588.26,
+   "end": 589.4
+  },
+  {
+   "text": "more",
+   "start": 589.4,
+   "end": 589.58
+  },
+  {
+   "text": "offloading",
+   "start": 589.58,
+   "end": 590.08
+  },
+  {
+   "text": "to",
+   "start": 590.08,
+   "end": 590.32
+  },
+  {
+   "text": "RAM,",
+   "start": 590.32,
+   "end": 590.56
+  },
+  {
+   "text": "or",
+   "start": 590.88,
+   "end": 591.1
+  },
+  {
+   "text": "a",
+   "start": 591.1,
+   "end": 591.28
+  },
+  {
+   "text": "second",
+   "start": 591.28,
+   "end": 591.54
+  },
+  {
+   "text": "GPU.",
+   "start": 591.54,
+   "end": 591.94
+  },
+  {
+   "text": "Strata",
+   "start": 592.78,
+   "end": 593.02
+  },
+  {
+   "text": "tries",
+   "start": 593.02,
+   "end": 593.3
+  },
+  {
+   "text": "to",
+   "start": 593.3,
+   "end": 593.48
+  },
+  {
+   "text": "work",
+   "start": 593.48,
+   "end": 593.6
+  },
+  {
+   "text": "out",
+   "start": 593.6,
+   "end": 593.78
+  },
+  {
+   "text": "the",
+   "start": 593.78,
+   "end": 593.9
+  },
+  {
+   "text": "split",
+   "start": 593.9,
+   "end": 594.12
+  },
+  {
+   "text": "for",
+   "start": 594.12,
+   "end": 594.36
+  },
+  {
+   "text": "us.",
+   "start": 594.36,
+   "end": 594.62
+  },
+  {
+   "text": "Now",
+   "start": 595.28,
+   "end": 595.6
+  },
+  {
+   "text": "for",
+   "start": 595.6,
+   "end": 595.74
+  },
+  {
+   "text": "the",
+   "start": 595.74,
+   "end": 595.86
+  },
+  {
+   "text": "limits,",
+   "start": 595.86,
+   "end": 596.08
+  },
+  {
+   "text": "because",
+   "start": 596.34,
+   "end": 596.62
+  },
+  {
+   "text": "the",
+   "start": 596.62,
+   "end": 596.74
+  },
+  {
+   "text": "headline",
+   "start": 596.74,
+   "end": 597.06
+  },
+  {
+   "text": "can",
+   "start": 597.06,
+   "end": 597.48
+  },
+  {
+   "text": "mislead",
+   "start": 597.48,
+   "end": 597.84
+  },
+  {
+   "text": "us.",
+   "start": 597.84,
+   "end": 598.12
+  },
+  {
+   "text": "This",
+   "start": 598.56,
+   "end": 598.82
+  },
+  {
+   "text": "doesn\u2019t",
+   "start": 598.82,
+   "end": 599.16
+  },
+  {
+   "text": "mean",
+   "start": 599.16,
+   "end": 599.34
+  },
+  {
+   "text": "any",
+   "start": 599.34,
+   "end": 599.76
+  },
+  {
+   "text": "model",
+   "start": 599.76,
+   "end": 600.04
+  },
+  {
+   "text": "this",
+   "start": 600.04,
+   "end": 600.24
+  },
+  {
+   "text": "size",
+   "start": 600.24,
+   "end": 600.54
+  },
+  {
+   "text": "runs",
+   "start": 600.54,
+   "end": 600.76
+  },
+  {
+   "text": "on",
+   "start": 600.76,
+   "end": 600.98
+  },
+  {
+   "text": "any",
+   "start": 600.98,
+   "end": 601.3
+  },
+  {
+   "text": "laptop.",
+   "start": 601.3,
+   "end": 601.7
+  },
+  {
+   "text": "Strata",
+   "start": 602.38,
+   "end": 602.48
+  },
+  {
+   "text": "is",
+   "start": 602.48,
+   "end": 602.64
+  },
+  {
+   "text": "built",
+   "start": 602.64,
+   "end": 602.8
+  },
+  {
+   "text": "around",
+   "start": 602.8,
+   "end": 603.06
+  },
+  {
+   "text": "one",
+   "start": 603.06,
+   "end": 603.44
+  },
+  {
+   "text": "model,",
+   "start": 603.44,
+   "end": 603.76
+  },
+  {
+   "text": "and",
+   "start": 604.22,
+   "end": 604.28
+  },
+  {
+   "text": "we",
+   "start": 604.28,
+   "end": 604.48
+  },
+  {
+   "text": "still",
+   "start": 604.48,
+   "end": 604.66
+  },
+  {
+   "text": "need",
+   "start": 604.66,
+   "end": 604.86
+  },
+  {
+   "text": "a",
+   "start": 604.86,
+   "end": 604.98
+  },
+  {
+   "text": "capable",
+   "start": 604.98,
+   "end": 605.3
+  },
+  {
+   "text": "machine.",
+   "start": 605.3,
+   "end": 605.68
+  },
+  {
+   "text": "The",
+   "start": 606.32,
+   "end": 606.48
+  },
+  {
+   "text": "speed",
+   "start": 606.48,
+   "end": 606.8
+  },
+  {
+   "text": "of",
+   "start": 606.8,
+   "end": 606.96
+  },
+  {
+   "text": "our",
+   "start": 606.96,
+   "end": 607.16
+  },
+  {
+   "text": "RAM,",
+   "start": 607.16,
+   "end": 607.46
+  },
+  {
+   "text": "the",
+   "start": 607.78,
+   "end": 608.04
+  },
+  {
+   "text": "PCI",
+   "start": 608.04,
+   "end": 608.62
+  },
+  {
+   "text": "Express",
+   "start": 608.62,
+   "end": 609.1
+  },
+  {
+   "text": "link",
+   "start": 609.1,
+   "end": 609.44
+  },
+  {
+   "text": "that",
+   "start": 609.44,
+   "end": 609.72
+  },
+  {
+   "text": "experts",
+   "start": 609.72,
+   "end": 610.16
+  },
+  {
+   "text": "travel",
+   "start": 610.16,
+   "end": 610.56
+  },
+  {
+   "text": "across",
+   "start": 610.56,
+   "end": 610.9
+  },
+  {
+   "text": "when",
+   "start": 610.9,
+   "end": 611.14
+  },
+  {
+   "text": "they",
+   "start": 611.14,
+   "end": 611.28
+  },
+  {
+   "text": "move",
+   "start": 611.28,
+   "end": 611.46
+  },
+  {
+   "text": "from",
+   "start": 611.46,
+   "end": 611.7
+  },
+  {
+   "text": "RAM",
+   "start": 611.7,
+   "end": 611.92
+  },
+  {
+   "text": "to",
+   "start": 611.92,
+   "end": 612.1
+  },
+  {
+   "text": "the",
+   "start": 612.1,
+   "end": 612.22
+  },
+  {
+   "text": "GPU,",
+   "start": 612.22,
+   "end": 612.74
+  },
+  {
+   "text": "our",
+   "start": 612.74,
+   "end": 613.6
+  },
+  {
+   "text": "SSD,",
+   "start": 613.6,
+   "end": 614.06
+  },
+  {
+   "text": "and",
+   "start": 614.6,
+   "end": 614.82
+  },
+  {
+   "text": "the",
+   "start": 614.82,
+   "end": 614.92
+  },
+  {
+   "text": "GPU",
+   "start": 614.92,
+   "end": 615.36
+  },
+  {
+   "text": "itself",
+   "start": 615.36,
+   "end": 615.8
+  },
+  {
+   "text": "all",
+   "start": 615.8,
+   "end": 616.3
+  },
+  {
+   "text": "change",
+   "start": 616.3,
+   "end": 616.7
+  },
+  {
+   "text": "the",
+   "start": 616.7,
+   "end": 616.92
+  },
+  {
+   "text": "experience.",
+   "start": 616.92,
+   "end": 617.48
+  },
+  {
+   "text": "And",
+   "start": 618.12,
+   "end": 618.44
+  },
+  {
+   "text": "fast",
+   "start": 618.44,
+   "end": 619.08
+  },
+  {
+   "text": "for",
+   "start": 619.08,
+   "end": 619.28
+  },
+  {
+   "text": "one",
+   "start": 619.28,
+   "end": 619.52
+  },
+  {
+   "text": "person",
+   "start": 619.52,
+   "end": 619.94
+  },
+  {
+   "text": "isn\u2019t",
+   "start": 619.94,
+   "end": 620.24
+  },
+  {
+   "text": "the",
+   "start": 620.24,
+   "end": 620.4
+  },
+  {
+   "text": "same",
+   "start": 620.4,
+   "end": 620.58
+  },
+  {
+   "text": "as",
+   "start": 620.58,
+   "end": 620.78
+  },
+  {
+   "text": "fast",
+   "start": 620.78,
+   "end": 621.22
+  },
+  {
+   "text": "for",
+   "start": 621.22,
+   "end": 621.42
+  },
+  {
+   "text": "a",
+   "start": 621.42,
+   "end": 621.6
+  },
+  {
+   "text": "crowd.",
+   "start": 621.6,
+   "end": 621.92
+  },
+  {
+   "text": "Serving",
+   "start": 622.8,
+   "end": 623.0
+  },
+  {
+   "text": "a",
+   "start": 623.0,
+   "end": 623.18
+  },
+  {
+   "text": "thousand",
+   "start": 623.18,
+   "end": 623.52
+  },
+  {
+   "text": "users",
+   "start": 623.52,
+   "end": 623.94
+  },
+  {
+   "text": "at",
+   "start": 623.94,
+   "end": 624.1
+  },
+  {
+   "text": "once",
+   "start": 624.1,
+   "end": 624.52
+  },
+  {
+   "text": "means",
+   "start": 624.52,
+   "end": 624.8
+  },
+  {
+   "text": "handling",
+   "start": 624.8,
+   "end": 625.3
+  },
+  {
+   "text": "many",
+   "start": 625.3,
+   "end": 625.7
+  },
+  {
+   "text": "requests",
+   "start": 625.7,
+   "end": 626.2
+  },
+  {
+   "text": "at",
+   "start": 626.2,
+   "end": 626.44
+  },
+  {
+   "text": "the",
+   "start": 626.44,
+   "end": 626.58
+  },
+  {
+   "text": "same",
+   "start": 626.58,
+   "end": 626.8
+  },
+  {
+   "text": "time,",
+   "start": 626.8,
+   "end": 627.24
+  },
+  {
+   "text": "which",
+   "start": 627.44,
+   "end": 627.5
+  },
+  {
+   "text": "is",
+   "start": 627.5,
+   "end": 627.66
+  },
+  {
+   "text": "a",
+   "start": 627.66,
+   "end": 627.98
+  },
+  {
+   "text": "different",
+   "start": 627.98,
+   "end": 628.2
+  },
+  {
+   "text": "problem.",
+   "start": 628.2,
+   "end": 628.58
+  },
+  {
+   "text": "Engines",
+   "start": 629.38,
+   "end": 629.72
+  },
+  {
+   "text": "like",
+   "start": 629.72,
+   "end": 629.96
+  },
+  {
+   "text": "V-L-L-M",
+   "start": 629.96,
+   "end": 630.84
+  },
+  {
+   "text": "were",
+   "start": 630.84,
+   "end": 631.02
+  },
+  {
+   "text": "built",
+   "start": 631.02,
+   "end": 631.2
+  },
+  {
+   "text": "for",
+   "start": 631.2,
+   "end": 631.48
+  },
+  {
+   "text": "it.",
+   "start": 631.48,
+   "end": 631.64
+  },
+  {
+   "text": "Strata",
+   "start": 632.22,
+   "end": 632.5
+  },
+  {
+   "text": "isn\u2019t",
+   "start": 632.5,
+   "end": 632.86
+  },
+  {
+   "text": "built",
+   "start": 632.86,
+   "end": 632.98
+  },
+  {
+   "text": "for",
+   "start": 632.98,
+   "end": 633.18
+  },
+  {
+   "text": "that,",
+   "start": 633.18,
+   "end": 633.44
+  },
+  {
+   "text": "and",
+   "start": 633.86,
+   "end": 634.06
+  },
+  {
+   "text": "it",
+   "start": 634.06,
+   "end": 634.16
+  },
+  {
+   "text": "won\u2019t",
+   "start": 634.16,
+   "end": 634.4
+  },
+  {
+   "text": "replace",
+   "start": 634.4,
+   "end": 634.82
+  },
+  {
+   "text": "llama",
+   "start": 634.82,
+   "end": 635.3
+  },
+  {
+   "text": "C-P-P,",
+   "start": 635.3,
+   "end": 635.74
+  },
+  {
+   "text": "which",
+   "start": 636.08,
+   "end": 636.2
+  },
+  {
+   "text": "supports",
+   "start": 636.2,
+   "end": 636.58
+  },
+  {
+   "text": "a",
+   "start": 636.58,
+   "end": 636.86
+  },
+  {
+   "text": "huge",
+   "start": 636.86,
+   "end": 637.18
+  },
+  {
+   "text": "range",
+   "start": 637.18,
+   "end": 637.5
+  },
+  {
+   "text": "of",
+   "start": 637.5,
+   "end": 637.7
+  },
+  {
+   "text": "models.",
+   "start": 637.7,
+   "end": 637.92
+  },
+  {
+   "text": "Strata\u2019s",
+   "start": 638.66,
+   "end": 639.22
+  },
+  {
+   "text": "sweet",
+   "start": 639.22,
+   "end": 639.48
+  },
+  {
+   "text": "spot",
+   "start": 639.48,
+   "end": 639.78
+  },
+  {
+   "text": "fits",
+   "start": 639.78,
+   "end": 640.06
+  },
+  {
+   "text": "in",
+   "start": 640.06,
+   "end": 640.3
+  },
+  {
+   "text": "one",
+   "start": 640.3,
+   "end": 640.56
+  },
+  {
+   "text": "sentence:",
+   "start": 640.56,
+   "end": 641.1
+  },
+  {
+   "text": "we",
+   "start": 641.52,
+   "end": 641.74
+  },
+  {
+   "text": "have",
+   "start": 641.74,
+   "end": 641.84
+  },
+  {
+   "text": "a",
+   "start": 641.84,
+   "end": 642.02
+  },
+  {
+   "text": "powerful",
+   "start": 642.02,
+   "end": 642.34
+  },
+  {
+   "text": "gaming",
+   "start": 642.34,
+   "end": 642.68
+  },
+  {
+   "text": "PC,",
+   "start": 642.68,
+   "end": 642.96
+  },
+  {
+   "text": "and",
+   "start": 643.48,
+   "end": 643.64
+  },
+  {
+   "text": "we",
+   "start": 643.64,
+   "end": 643.74
+  },
+  {
+   "text": "want",
+   "start": 643.74,
+   "end": 643.94
+  },
+  {
+   "text": "to",
+   "start": 643.94,
+   "end": 644.12
+  },
+  {
+   "text": "run",
+   "start": 644.12,
+   "end": 644.26
+  },
+  {
+   "text": "a",
+   "start": 644.26,
+   "end": 644.4
+  },
+  {
+   "text": "huge",
+   "start": 644.4,
+   "end": 644.68
+  },
+  {
+   "text": "model",
+   "start": 644.68,
+   "end": 644.96
+  },
+  {
+   "text": "on",
+   "start": 644.96,
+   "end": 645.14
+  },
+  {
+   "text": "it.",
+   "start": 645.14,
+   "end": 645.32
+  },
+  {
+   "text": "We",
+   "start": 645.88,
+   "end": 646.14
+  },
+  {
+   "text": "think",
+   "start": 646.14,
+   "end": 646.3
+  },
+  {
+   "text": "the",
+   "start": 646.3,
+   "end": 646.46
+  },
+  {
+   "text": "bigger",
+   "start": 646.46,
+   "end": 646.7
+  },
+  {
+   "text": "story",
+   "start": 646.7,
+   "end": 647.08
+  },
+  {
+   "text": "is",
+   "start": 647.08,
+   "end": 647.4
+  },
+  {
+   "text": "what",
+   "start": 647.4,
+   "end": 647.6
+  },
+  {
+   "text": "projects",
+   "start": 647.6,
+   "end": 648.0
+  },
+  {
+   "text": "like",
+   "start": 648.0,
+   "end": 648.32
+  },
+  {
+   "text": "Strata",
+   "start": 648.32,
+   "end": 648.72
+  },
+  {
+   "text": "point",
+   "start": 648.72,
+   "end": 649.04
+  },
+  {
+   "text": "to.",
+   "start": 649.04,
+   "end": 649.36
+  },
+  {
+   "text": "Until",
+   "start": 650.08,
+   "end": 650.52
+  },
+  {
+   "text": "now,",
+   "start": 650.52,
+   "end": 650.78
+  },
+  {
+   "text": "the",
+   "start": 651.12,
+   "end": 651.26
+  },
+  {
+   "text": "size",
+   "start": 651.26,
+   "end": 651.52
+  },
+  {
+   "text": "of",
+   "start": 651.52,
+   "end": 651.68
+  },
+  {
+   "text": "our",
+   "start": 651.68,
+   "end": 651.84
+  },
+  {
+   "text": "GPU\u2019s",
+   "start": 651.84,
+   "end": 652.38
+  },
+  {
+   "text": "memory",
+   "start": 652.38,
+   "end": 652.74
+  },
+  {
+   "text": "mostly",
+   "start": 652.74,
+   "end": 653.14
+  },
+  {
+   "text": "decided",
+   "start": 653.14,
+   "end": 653.68
+  },
+  {
+   "text": "what",
+   "start": 653.68,
+   "end": 653.94
+  },
+  {
+   "text": "we",
+   "start": 653.94,
+   "end": 654.08
+  },
+  {
+   "text": "could",
+   "start": 654.08,
+   "end": 654.2
+  },
+  {
+   "text": "run",
+   "start": 654.2,
+   "end": 654.4
+  },
+  {
+   "text": "at",
+   "start": 654.4,
+   "end": 654.56
+  },
+  {
+   "text": "home.",
+   "start": 654.56,
+   "end": 654.82
+  },
+  {
+   "text": "Sparse",
+   "start": 655.64,
+   "end": 655.82
+  },
+  {
+   "text": "models",
+   "start": 655.82,
+   "end": 656.14
+  },
+  {
+   "text": "loosen",
+   "start": 656.14,
+   "end": 656.6
+  },
+  {
+   "text": "that",
+   "start": 656.6,
+   "end": 656.86
+  },
+  {
+   "text": "limit,",
+   "start": 656.86,
+   "end": 657.14
+  },
+  {
+   "text": "and",
+   "start": 657.6,
+   "end": 657.76
+  },
+  {
+   "text": "engines",
+   "start": 657.76,
+   "end": 658.12
+  },
+  {
+   "text": "built",
+   "start": 658.12,
+   "end": 658.4
+  },
+  {
+   "text": "around",
+   "start": 658.4,
+   "end": 658.72
+  },
+  {
+   "text": "them",
+   "start": 658.72,
+   "end": 658.9
+  },
+  {
+   "text": "loosen",
+   "start": 658.9,
+   "end": 659.16
+  },
+  {
+   "text": "it",
+   "start": 659.16,
+   "end": 659.4
+  },
+  {
+   "text": "even",
+   "start": 659.4,
+   "end": 659.68
+  },
+  {
+   "text": "more.",
+   "start": 659.68,
+   "end": 659.98
+  },
+  {
+   "text": "The",
+   "start": 660.46,
+   "end": 660.62
+  },
+  {
+   "text": "GPU",
+   "start": 660.62,
+   "end": 661.06
+  },
+  {
+   "text": "becomes",
+   "start": 661.06,
+   "end": 661.38
+  },
+  {
+   "text": "the",
+   "start": 661.38,
+   "end": 661.56
+  },
+  {
+   "text": "fast",
+   "start": 661.56,
+   "end": 661.84
+  },
+  {
+   "text": "workspace,",
+   "start": 661.84,
+   "end": 662.4
+  },
+  {
+   "text": "and",
+   "start": 662.94,
+   "end": 663.2
+  },
+  {
+   "text": "RAM",
+   "start": 663.2,
+   "end": 663.26
+  },
+  {
+   "text": "holds",
+   "start": 663.26,
+   "end": 663.6
+  },
+  {
+   "text": "the",
+   "start": 663.6,
+   "end": 663.82
+  },
+  {
+   "text": "rest.",
+   "start": 663.82,
+   "end": 664.04
+  },
+  {
+   "text": "Say",
+   "start": 664.72,
+   "end": 664.96
+  },
+  {
+   "text": "we",
+   "start": 664.96,
+   "end": 665.12
+  },
+  {
+   "text": "build",
+   "start": 665.12,
+   "end": 665.3
+  },
+  {
+   "text": "a",
+   "start": 665.3,
+   "end": 665.44
+  },
+  {
+   "text": "gaming",
+   "start": 665.44,
+   "end": 665.84
+  },
+  {
+   "text": "PC",
+   "start": 665.84,
+   "end": 666.16
+  },
+  {
+   "text": "with",
+   "start": 666.16,
+   "end": 666.46
+  },
+  {
+   "text": "twenty-four",
+   "start": 666.46,
+   "end": 666.913
+  },
+  {
+   "text": "gigabytes",
+   "start": 666.913,
+   "end": 667.32
+  },
+  {
+   "text": "of",
+   "start": 667.32,
+   "end": 667.6
+  },
+  {
+   "text": "V-RAM,",
+   "start": 667.6,
+   "end": 668.1
+  },
+  {
+   "text": "a",
+   "start": 668.1,
+   "end": 668.19
+  },
+  {
+   "text": "hundred",
+   "start": 668.19,
+   "end": 668.505
+  },
+  {
+   "text": "and",
+   "start": 668.505,
+   "end": 668.64
+  },
+  {
+   "text": "twenty-eight",
+   "start": 668.64,
+   "end": 669.135
+  },
+  {
+   "text": "gigabytes",
+   "start": 669.135,
+   "end": 669.54
+  },
+  {
+   "text": "of",
+   "start": 669.54,
+   "end": 669.96
+  },
+  {
+   "text": "RAM,",
+   "start": 669.96,
+   "end": 670.2
+  },
+  {
+   "text": "and",
+   "start": 670.2,
+   "end": 670.62
+  },
+  {
+   "text": "a",
+   "start": 670.62,
+   "end": 670.8
+  },
+  {
+   "text": "fast",
+   "start": 670.8,
+   "end": 671.02
+  },
+  {
+   "text": "SSD.",
+   "start": 671.02,
+   "end": 671.44
+  },
+  {
+   "text": "A",
+   "start": 672.12,
+   "end": 672.34
+  },
+  {
+   "text": "few",
+   "start": 672.34,
+   "end": 672.48
+  },
+  {
+   "text": "years",
+   "start": 672.48,
+   "end": 672.68
+  },
+  {
+   "text": "ago,",
+   "start": 672.68,
+   "end": 672.92
+  },
+  {
+   "text": "we\u2019d",
+   "start": 672.92,
+   "end": 673.16
+  },
+  {
+   "text": "have",
+   "start": 673.16,
+   "end": 673.22
+  },
+  {
+   "text": "called",
+   "start": 673.22,
+   "end": 673.38
+  },
+  {
+   "text": "that",
+   "start": 673.38,
+   "end": 673.6
+  },
+  {
+   "text": "a",
+   "start": 673.6,
+   "end": 673.72
+  },
+  {
+   "text": "gaming",
+   "start": 673.72,
+   "end": 674.02
+  },
+  {
+   "text": "rig.",
+   "start": 674.02,
+   "end": 674.32
+  },
+  {
+   "text": "Now",
+   "start": 674.76,
+   "end": 675.1
+  },
+  {
+   "text": "it",
+   "start": 675.1,
+   "end": 675.28
+  },
+  {
+   "text": "could",
+   "start": 675.28,
+   "end": 675.38
+  },
+  {
+   "text": "also",
+   "start": 675.38,
+   "end": 675.6
+  },
+  {
+   "text": "be",
+   "start": 675.6,
+   "end": 675.78
+  },
+  {
+   "text": "a",
+   "start": 675.78,
+   "end": 675.92
+  },
+  {
+   "text": "private",
+   "start": 675.92,
+   "end": 676.22
+  },
+  {
+   "text": "AI",
+   "start": 676.22,
+   "end": 676.64
+  },
+  {
+   "text": "machine.",
+   "start": 676.64,
+   "end": 677.02
+  },
+  {
+   "text": "We",
+   "start": 677.02,
+   "end": 677.7
+  },
+  {
+   "text": "could",
+   "start": 677.7,
+   "end": 677.86
+  },
+  {
+   "text": "run",
+   "start": 677.86,
+   "end": 678.0
+  },
+  {
+   "text": "a",
+   "start": 678.0,
+   "end": 678.14
+  },
+  {
+   "text": "big",
+   "start": 678.14,
+   "end": 678.34
+  },
+  {
+   "text": "open",
+   "start": 678.4,
+   "end": 678.8
+  },
+  {
+   "text": "model",
+   "start": 678.8,
+   "end": 679.1
+  },
+  {
+   "text": "with",
+   "start": 679.1,
+   "end": 679.34
+  },
+  {
+   "text": "no",
+   "start": 679.34,
+   "end": 679.62
+  },
+  {
+   "text": "cloud",
+   "start": 679.62,
+   "end": 679.9
+  },
+  {
+   "text": "provider,",
+   "start": 679.9,
+   "end": 680.4
+  },
+  {
+   "text": "point",
+   "start": 680.74,
+   "end": 680.9
+  },
+  {
+   "text": "a",
+   "start": 680.9,
+   "end": 681.06
+  },
+  {
+   "text": "coding",
+   "start": 681.06,
+   "end": 681.4
+  },
+  {
+   "text": "agent",
+   "start": 681.4,
+   "end": 681.72
+  },
+  {
+   "text": "at",
+   "start": 681.72,
+   "end": 681.92
+  },
+  {
+   "text": "it,",
+   "start": 681.92,
+   "end": 682.14
+  },
+  {
+   "text": "and",
+   "start": 682.38,
+   "end": 682.52
+  },
+  {
+   "text": "search",
+   "start": 682.52,
+   "end": 682.74
+  },
+  {
+   "text": "our",
+   "start": 682.74,
+   "end": 682.98
+  },
+  {
+   "text": "own",
+   "start": 682.98,
+   "end": 683.16
+  },
+  {
+   "text": "documents",
+   "start": 683.16,
+   "end": 683.64
+  },
+  {
+   "text": "without",
+   "start": 683.64,
+   "end": 683.98
+  },
+  {
+   "text": "uploading",
+   "start": 683.98,
+   "end": 684.48
+  },
+  {
+   "text": "them",
+   "start": 684.48,
+   "end": 684.64
+  },
+  {
+   "text": "anywhere.",
+   "start": 684.64,
+   "end": 685.0
+  },
+  {
+   "text": "A",
+   "start": 686.08,
+   "end": 686.18
+  },
+  {
+   "text": "hundred",
+   "start": 686.18,
+   "end": 686.36
+  },
+  {
+   "text": "and",
+   "start": 686.36,
+   "end": 686.58
+  },
+  {
+   "text": "twenty-five",
+   "start": 686.58,
+   "end": 687.04
+  },
+  {
+   "text": "billion",
+   "start": 687.04,
+   "end": 687.36
+  },
+  {
+   "text": "parameter",
+   "start": 687.36,
+   "end": 687.84
+  },
+  {
+   "text": "model",
+   "start": 687.84,
+   "end": 688.26
+  },
+  {
+   "text": "running",
+   "start": 688.44,
+   "end": 688.66
+  },
+  {
+   "text": "at",
+   "start": 688.66,
+   "end": 688.82
+  },
+  {
+   "text": "dozens",
+   "start": 688.82,
+   "end": 689.16
+  },
+  {
+   "text": "of",
+   "start": 689.16,
+   "end": 689.46
+  },
+  {
+   "text": "tokens",
+   "start": 689.46,
+   "end": 689.78
+  },
+  {
+   "text": "per",
+   "start": 689.78,
+   "end": 690.02
+  },
+  {
+   "text": "second",
+   "start": 690.02,
+   "end": 690.36
+  },
+  {
+   "text": "on",
+   "start": 690.36,
+   "end": 690.6
+  },
+  {
+   "text": "consumer",
+   "start": 690.6,
+   "end": 690.96
+  },
+  {
+   "text": "hardware",
+   "start": 690.96,
+   "end": 691.54
+  },
+  {
+   "text": "would",
+   "start": 691.86,
+   "end": 692.06
+  },
+  {
+   "text": "have",
+   "start": 692.06,
+   "end": 692.12
+  },
+  {
+   "text": "sounded",
+   "start": 692.12,
+   "end": 692.42
+  },
+  {
+   "text": "silly",
+   "start": 692.42,
+   "end": 692.86
+  },
+  {
+   "text": "not",
+   "start": 692.86,
+   "end": 693.12
+  },
+  {
+   "text": "long",
+   "start": 693.12,
+   "end": 693.32
+  },
+  {
+   "text": "ago.",
+   "start": 693.32,
+   "end": 693.6
+  },
+  {
+   "text": "Now",
+   "start": 694.16,
+   "end": 694.36
+  },
+  {
+   "text": "it\u2019s",
+   "start": 694.36,
+   "end": 694.54
+  },
+  {
+   "text": "an",
+   "start": 694.54,
+   "end": 694.64
+  },
+  {
+   "text": "engineering",
+   "start": 694.64,
+   "end": 695.04
+  },
+  {
+   "text": "problem.",
+   "start": 695.04,
+   "end": 695.56
+  },
+  {
+   "text": "For",
+   "start": 696.5,
+   "end": 696.66
+  },
+  {
+   "text": "a",
+   "start": 696.66,
+   "end": 696.74
+  },
+  {
+   "text": "long",
+   "start": 696.74,
+   "end": 696.88
+  },
+  {
+   "text": "time,",
+   "start": 696.88,
+   "end": 697.2
+  },
+  {
+   "text": "the",
+   "start": 697.42,
+   "end": 697.58
+  },
+  {
+   "text": "first",
+   "start": 697.58,
+   "end": 697.8
+  },
+  {
+   "text": "question",
+   "start": 697.8,
+   "end": 698.14
+  },
+  {
+   "text": "was",
+   "start": 698.14,
+   "end": 698.28
+  },
+  {
+   "text": "how",
+   "start": 698.28,
+   "end": 698.52
+  },
+  {
+   "text": "much",
+   "start": 698.52,
+   "end": 698.72
+  },
+  {
+   "text": "V-RAM",
+   "start": 698.72,
+   "end": 699.26
+  },
+  {
+   "text": "we",
+   "start": 699.26,
+   "end": 699.44
+  },
+  {
+   "text": "have.",
+   "start": 699.44,
+   "end": 699.78
+  },
+  {
+   "text": "Now",
+   "start": 700.2,
+   "end": 700.5
+  },
+  {
+   "text": "there\u2019s",
+   "start": 700.5,
+   "end": 700.7
+  },
+  {
+   "text": "a",
+   "start": 700.7,
+   "end": 700.82
+  },
+  {
+   "text": "second",
+   "start": 700.82,
+   "end": 701.1
+  },
+  {
+   "text": "question:",
+   "start": 701.1,
+   "end": 701.54
+  },
+  {
+   "text": "how",
+   "start": 701.98,
+   "end": 702.14
+  },
+  {
+   "text": "well",
+   "start": 702.14,
+   "end": 702.44
+  },
+  {
+   "text": "can",
+   "start": 702.44,
+   "end": 702.64
+  },
+  {
+   "text": "our",
+   "start": 702.64,
+   "end": 702.74
+  },
+  {
+   "text": "software",
+   "start": 702.74,
+   "end": 703.22
+  },
+  {
+   "text": "use",
+   "start": 703.22,
+   "end": 703.52
+  },
+  {
+   "text": "all",
+   "start": 703.52,
+   "end": 703.92
+  },
+  {
+   "text": "the",
+   "start": 703.92,
+   "end": 704.08
+  },
+  {
+   "text": "memory",
+   "start": 704.08,
+   "end": 704.32
+  },
+  {
+   "text": "in",
+   "start": 704.32,
+   "end": 704.56
+  },
+  {
+   "text": "the",
+   "start": 704.56,
+   "end": 704.66
+  },
+  {
+   "text": "machine?",
+   "start": 704.66,
+   "end": 704.98
+  },
+  {
+   "text": "That",
+   "start": 704.98,
+   "end": 705.92
+  },
+  {
+   "text": "second",
+   "start": 705.92,
+   "end": 706.22
+  },
+  {
+   "text": "question",
+   "start": 706.22,
+   "end": 706.62
+  },
+  {
+   "text": "may",
+   "start": 706.62,
+   "end": 706.94
+  },
+  {
+   "text": "drive",
+   "start": 706.94,
+   "end": 707.14
+  },
+  {
+   "text": "a",
+   "start": 707.14,
+   "end": 707.26
+  },
+  {
+   "text": "lot",
+   "start": 707.26,
+   "end": 707.52
+  },
+  {
+   "text": "of",
+   "start": 707.52,
+   "end": 707.68
+  },
+  {
+   "text": "the",
+   "start": 707.68,
+   "end": 707.78
+  },
+  {
+   "text": "next",
+   "start": 707.78,
+   "end": 707.94
+  },
+  {
+   "text": "progress",
+   "start": 707.94,
+   "end": 708.34
+  },
+  {
+   "text": "in",
+   "start": 708.34,
+   "end": 708.58
+  },
+  {
+   "text": "local",
+   "start": 708.58,
+   "end": 708.8
+  },
+  {
+   "text": "AI.",
+   "start": 708.8,
+   "end": 709.02
+  }
+ ]
+}

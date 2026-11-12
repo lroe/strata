@@ -1,0 +1,107 @@
+For years, running AI at home came with one unwritten rule: big model, big GPU.
+
+A seven-billion-parameter model? Sure, almost any decent machine can run that. Fourteen billion? We start checking specs. Seventy billion? Now we’re spending real money. And a model with over a hundred billion parameters? That lived in a data center. Everyone knew it.
+
+Then people on Reddit started posting their speeds, and they were way higher than anyone expected.
+
+A hundred and twenty-five billion parameter model, running on a regular gaming PC, fast enough to actually chat with. One person with two R-T-X thirty-ninety GPUs said they were seeing over a hundred tokens per second. Someone with an R-T-X forty-eighty Super said forty to sixty. A forty-ninety owner said more than a hundred and forty.
+
+So what changed? The GPUs didn’t get any extra memory. The software just got much smarter about using the memory they already have.
+
+The project is called Strata. We’ll walk through how it works, starting with the problem it’s trying to solve.
+
+A model is basically a giant list of numbers. We call them parameters. A hundred and twenty-five billion parameter model has a hundred and twenty-five billion of them, and to run the model, the GPU needs fast access to all those numbers.
+
+The GPU keeps them in its own memory, called V-RAM. V-RAM is very fast, but it’s small. A typical gaming GPU has twelve, sixteen, or maybe twenty-four gigabytes. Even after we shrink a model this big, it’s still bigger than that.
+
+But a gaming PC has a second kind of memory too: regular system RAM. It’s slower than V-RAM, but there’s a lot more of it. A well-built gaming PC might have sixty-four gigabytes or more.
+
+So the old question was simple. Does the model fit in V-RAM? If it doesn’t, we start making compromises. Slower speeds, worse quality, or giving up.
+
+Strata tries something different. What if the GPU doesn’t have to hold the whole model at once?
+
+Strata is an open-source inference engine.
+
+Inference just means running a model to get answers, as opposed to training it. An inference engine is the software that loads the model onto our hardware and does the actual work. If we’ve used llama C-P-P or V-L-L-M, we’ve used one.
+
+Those two are general-purpose. They handle lots of different models. Strata goes the other way. Right now it’s built for ONE model: Qwen three point eight Flash Next, a hundred and twenty-five billion parameter model. Because it only has to care about one model, it can make bets that a general tool can’t.
+
+The project’s claim is that an NVIDIA GPU with twelve gigabytes of V-RAM and sixty-four gigabytes of system RAM is enough to run it at tens of tokens per second.
+
+Quick note on that unit. A token is a small chunk of text, about three-quarters of a word. Tokens per second tells us how fast the model writes. Most of us read at roughly five or six tokens a second, so at fifty, the model is writing far faster than we can read.
+
+So how does it pull this off? There are three ideas, and they stack on top of each other.
+
+The first idea comes from the model itself. Qwen three point eight Flash Next is a mixture-of-experts model, or M-O-E.
+
+In a normal “dense” model, every parameter works on every token. ALL hundred and twenty-five billion, every single time.
+
+An M-O-E model is built differently. Inside it are lots of small specialist networks called experts. A little component called the router looks at each token and picks which experts should handle it. Everyone else sits that token out.
+
+In this model, only about six billion of the hundred and twenty-five billion parameters are active for any one token.
+
+Say we run a company with a hundred and twenty-five thousand employees. Any given task needs about six thousand of them. We still need the whole company on the payroll, because we don’t know which specialists the next task will want. But we don’t need all of them in the room at once.
+
+Strata takes advantage of that gap.
+
+Let’s stay with the company. Our GPU’s V-RAM is the meeting room. Small, fast, right where the work happens. Our system RAM is the rest of the building. Much bigger, but a walk away.
+
+Strata fills the meeting room with the specialists the model calls on most. Everyone else waits in the building. When the router asks for someone who isn’t in the room, Strata goes and gets them.
+
+This is called expert caching. If we’ve seen the word “cache” anywhere else in computing, it’s the same idea: keep what we use most in the fastest place.
+
+One community benchmark on an R-T-X forty-ninety had about twelve thousand of the model’s twenty-four thousand, five hundred and seventy-six experts sitting in GPU memory. The other half were in system RAM. And it still reported over a hundred and forty tokens per second on some workloads.
+
+So the GPU doesn’t have to hold the whole model. It only needs the parts we’re using right now.
+
+This works so well partly because the model was built to wake only a small slice of itself. It was already sparse, so Strata only has to decide where each piece should live. That’s also why Strata is so specialized: it leans on how this one model works.
+
+Quick note before we keep going. If you like this kind of content, please subscribe. I’ll be covering the latest frontier AI models, jargon free. Okay, back to Strata.
+
+Even with caching, a hundred and twenty-five billion parameters is a lot of data. So Strata also uses quantization.
+
+Each parameter is stored as a number. Quantization stores that number with fewer bits. Less precision, much less memory. It’s like saving a photo as a smaller JPEG. The file shrinks a lot and the picture still looks mostly fine. Push it too far, and we start to see the damage.
+
+Strata offers several levels, with names like Q-two-zero, I-Q-two X-S, I-Q-three X-X-S, and I-Q-three S. We don’t need to memorize them. The two and the three roughly tell us how many bits each number gets. Fewer bits means smaller and faster, but possibly a little dumber.
+
+That’s why Strata gives us a menu instead of one setting. The goal is to find the point where the model is small enough to run well, without losing too much of its intelligence.
+
+So how fast is it? Let’s look at what the project reports for its own test machine: an R-T-X fifty-seventy with twelve gigabytes of V-RAM and sixty-four gigabytes of RAM.
+
+On short conversations, it gets ninety-three tokens per second at Q-two-zero. Seventy-nine at I-Q-two X-S. Sixty-two at I-Q-three X-X-S. And fifty-three at I-Q-three S. The fewer the bits, the faster it runs. That’s the quantization trade-off showing up in real data.
+
+It also reports prompt processing speed, which is how fast the model reads what we send it before it starts writing, at up to two thousand, one hundred and seventy tokens per second.
+
+Those numbers come from the project’s own testing. Speed depends on the GPU, the RAM, the CPU, the quantization, the context length, and what we’re asking the model to do. We should treat them as a best case, not a promise.
+
+The community numbers are fun too. One person modified Strata to use an R-T-X fifty-eighty and an R-T-X forty-sixty T-I together. They reported about a hundred and forty-three tokens per second on code and a hundred and two on prose, compared to roughly twenty-eight with the fifty-eighty alone. Those are experiments, not standard benchmarks. Still, they show how far people are already pushing it.
+
+Another thing Strata cares about is context length. The context window is how much text the model can keep in mind at once: our conversation, a pasted document, a whole codebase.
+
+Long context costs memory. While the model writes, it keeps notes on every token it has already seen, so it doesn’t have to redo the work. Those notes are called the K-V cache, and the longer the conversation, the bigger they get.
+
+Strata’s benchmarks reach a hundred and twenty-eight K tokens of context, and speeds there still land between about forty-six and seventy-four tokens per second. Its docs also describe experimental setups stretching toward three hundred and eighty-four K and five hundred and twelve K. One community experiment tried around two hundred and fifty-six K on a forty-eight gigabyte R-T-X forty-ninety D, a sixteen gigabyte R-T-X fifty-seventy T-I, and a hundred and twenty-eight gigabytes of RAM.
+
+What’s it like to use? Strata comes with a local web interface, and it exposes an OpenAI-compatible API at a local address: one twenty-seven dot zero dot zero dot one, port eighty-eighty. There’s an Anthropic-compatible endpoint too.
+
+“OpenAI-compatible” just means that any tool that knows how to talk to the OpenAI API can be pointed at this address instead. That covers coding agents, chat apps, Python scripts, and R-A-G apps, which let a model search our own documents. The model becomes a local server on our own PC, and our prompts never leave the machine.
+
+It runs on Windows ten and eleven and on Linux. It needs an NVIDIA R-T-X GPU from the twenty through fifty series, at least twelve gigabytes of V-RAM, enough RAM, with sixty-four gigabytes as the standard baseline, and about eighty gigabytes of free disk space. On Windows, a file called start-here dot bat walks us through picking the model, the quantization, and the context length. There’s also a low RAM mode for machines with a strong GPU but less system memory.
+
+And if we run out of V-RAM, we have options: a more aggressive quantization, more offloading to RAM, or a second GPU. Strata tries to work out the split for us.
+
+Now for the limits, because the headline can mislead us. This doesn’t mean any model this size runs on any laptop. Strata is built around one model, and we still need a capable machine. The speed of our RAM, the PCI Express link that experts travel across when they move from RAM to the GPU, our SSD, and the GPU itself all change the experience.
+
+And fast for one person isn’t the same as fast for a crowd. Serving a thousand users at once means handling many requests at the same time, which is a different problem. Engines like V-L-L-M were built for it. Strata isn’t built for that, and it won’t replace llama C-P-P, which supports a huge range of models.
+
+Strata’s sweet spot fits in one sentence: we have a powerful gaming PC, and we want to run a huge model on it.
+
+We think the bigger story is what projects like Strata point to.
+
+Until now, the size of our GPU’s memory mostly decided what we could run at home. Sparse models loosen that limit, and engines built around them loosen it even more. The GPU becomes the fast workspace, and RAM holds the rest.
+
+Say we build a gaming PC with twenty-four gigabytes of V-RAM, a hundred and twenty-eight gigabytes of RAM, and a fast SSD. A few years ago, we’d have called that a gaming rig. Now it could also be a private AI machine. We could run a big open model with no cloud provider, point a coding agent at it, and search our own documents without uploading them anywhere.
+
+A hundred and twenty-five billion parameter model running at dozens of tokens per second on consumer hardware would have sounded silly not long ago. Now it’s an engineering problem.
+
+For a long time, the first question was how much V-RAM we have. Now there’s a second question: how well can our software use all the memory in the machine? That second question may drive a lot of the next progress in local AI.
