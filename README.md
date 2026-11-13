@@ -26,3 +26,9 @@ The composition is `StrataExplainer` (1920x1080, 30 fps, 11:52.3).
 - `src/components/Sketch.tsx` — Rough.js hand-drawn primitives and SVG text
 - `src/components/Objects.tsx` — GPUs, PCs, RAM, buildings, stick figures
 - `src/Video.tsx` — scene timeline and 3-frame fade-through-background transitions
+
+## 2K render
+
+- **Colab:** open `Strata_2K_Colab.ipynb`, run the Drive access cell first, then the remaining cells. Output goes to `MyDrive/strata-renders/strata-2k-<timestamp>/`.
+- **Local:** `npm run render:2k` → `out/strata-2k.mp4` (2560x1440, H.264).
+- The renderer prints realtime progress, fps, and ETA. `scripts/render-2k.mjs` is the underlying renderer.
