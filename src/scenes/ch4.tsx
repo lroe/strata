@@ -137,9 +137,10 @@ export const S34_Levels: React.FC<SceneProps> = ({t0}) => {
           </g>
         );
       })}
-      <Label text="smaller + faster" x={560} y={790} size={TYPE.small} color={C.green} start={B("smaller and faster")} />
-      <Label text="a little dumber" x={1290} y={790} size={TYPE.small} color={C.red} start={dumber} />
-      <Arrow x1={760} y1={850} x2={1130} y2={850} start={fewer + 0.7} stroke={C.soft} seed={1250} />
+      <Label text="smaller + faster" x={500} y={790} size={TYPE.small} color={C.green} start={B("smaller and faster")} />
+      <Label text="a little dumber" x={820} y={790} size={TYPE.small} color={C.red} start={dumber} />
+      <Label text="a little smarter" x={1290} y={790} size={TYPE.small} color={C.green} start={dumber + 0.25} />
+      <Arrow x1={760} y1={870} x2={1130} y2={870} start={fewer + 0.7} stroke={C.soft} seed={1250} />
     </>
   );
 };
@@ -221,13 +222,13 @@ export const S38_Prompt: React.FC<SceneProps> = ({t0}) => {
   const number = B("one hundred and seventy");
   return (
     <>
-      <Panel x={250} y={360} w={520} h={380} start={reports} fill={C.panel} stroke={C.soft} seed={1301} />
-      <Label text="prompt" x={510} y={410} size={TYPE.body} color={C.soft} start={reports + 0.2} />
+      <Panel x={250} y={360} w={520} h={380} start={0.05} fill={C.panel} stroke={C.soft} seed={1301} />
+      <Label text="prompt" x={510} y={410} size={TYPE.body} color={C.soft} start={0.2} />
       {Array.from({length: 6}).map((_, i) => (
-        <SketchLine key={i} x1={330} y1={480 + i * 40} x2={690 - (i % 3) * 80} y2={480 + i * 40} start={reports + 0.3 + i * 0.1} dur={0.3} stroke={C.line} strokeWidth={6} seed={1302 + i} />
+        <SketchLine key={i} x1={330} y1={480 + i * 40} x2={690 - (i % 3) * 80} y2={480 + i * 40} start={0.35 + i * 0.08} dur={0.3} stroke={C.line} strokeWidth={6} seed={1302 + i} />
       ))}
       <Arrow x1={790} y1={550} x2={1040} y2={550} start={reads} stroke={C.cyan} strokeWidth={4} seed={1310} />
-      <GPU x={1070} y={450} w={400} h={200} start={reads + 0.2} color={C.cyan} label="" />
+      <GPU x={1070} y={450} w={400} h={200} start={0.4} color={C.cyan} label="" />
       <Label text="read" x={915} y={500} size={TYPE.small} color={C.cyan} start={reads + 0.3} />
       <Label text="2,170" x={1270} y={760} size={TYPE.huge} color={C.green} start={upTo + 0.2} />
       <Label text="tokens/sec" x={1270} y={860} size={TYPE.body} color={C.green} start={number} />

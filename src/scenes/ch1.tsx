@@ -238,24 +238,23 @@ export const S03_Reddit: React.FC<SceneProps> = ({t0}) => {
   const f = useCurrentFrame();
   const {fps} = useVideoConfig();
   const t = f / fps;
-  const post = B("people on Reddit");
+  const post = B("Then people on Reddit");
   const speeds = B("posting their speeds");
   const higher = B("way higher");
-  const gaugeValue = Math.min(1, Math.max(0.08, (t - higher) / 2.2));
+  const gaugeValue = Math.min(0.9, Math.max(0.08, (t - higher) / 2.2));
   return (
     <>
-      <Panel x={360} y={230} w={720} h={560} start={post} fill={C.panel} stroke={C.line} seed={321} />
+      <Panel x={360} y={230} w={720} h={560} start={0.05} fill={C.panel} stroke={C.line} seed={321} />
       <SketchCircle x={450} y={325} d={58} start={post + 0.2} dur={0.35} stroke={C.soft} fill={C.well} seed={322} strokeWidth={2.5} />
       <StickFigure x={450} y={380} scale={0.48} start={post + 0.3} color={C.soft} />
-      <Label text="Reddit" x={510} y={315} size={TYPE.small} color={C.cyan} align="left" start={post + 0.3} />
-      <Label text="a new speed post" x={510} y={365} size={TYPE.micro} color={C.soft} align="left" start={post + 0.5} />
+      <Label text="Reddit" x={510} y={315} size={TYPE.small} color={C.cyan} align="left" start={0.35} dur={0.3} />
+      <Label text="a new speed post" x={510} y={365} size={TYPE.micro} color={C.soft} align="left" start={post + 0.4} />
       <SketchLine x1={420} y1={420} x2={1020} y2={420} start={post + 0.45} dur={0.5} stroke={C.line} strokeWidth={2.5} seed={323} />
-      <Label text={["125B", "on a gaming PC"]} x={720} y={520} size={74} color={C.fg} start={post + 0.6} lineHeight={1.05} />
-      <Label text="wait, what?" x={720} y={660} size={TYPE.small} color={C.soft} start={speeds} />
+      <Label text={["125B", "on a gaming PC"]} x={720} y={520} size={74} color={C.fg} start={post + 0.25} dur={0.3} lineHeight={1.05} />
+      <Label text="wait, what?" x={720} y={660} size={TYPE.small} color={C.soft} start={speeds + 0.2} />
       <Arrow x1={1060} y1={600} x2={1180} y2={600} start={higher} stroke={C.soft} seed={324} />
-      <Gauge x={1370} y={560} r={130} value={gaugeValue} start={higher} color={C.green} label={`${Math.round(gaugeValue * 160)} t/s`} sublabel="reported" />
-      <Label text="way higher" x={1370} y={315} size={TYPE.key} color={C.green} start={higher} />
-      <Label text="than expected" x={1370} y={375} size={TYPE.small} color={C.soft} start={higher + 0.3} />
+      <Gauge x={1370} y={560} r={130} value={gaugeValue} start={higher} color={C.green} />
+      <Label text="144 t/s" x={1370} y={750} size={72} color={C.green} start={higher + 0.3} />
     </>
   );
 };
@@ -311,19 +310,20 @@ export const S05_Reports: React.FC<SceneProps> = ({t0}) => {
 
 export const S06_WhatChanged: React.FC<SceneProps> = ({t0}) => {
   const B = useBeats(t0);
+  const t = useCurrentFrame() / useVideoConfig().fps;
   const pRam = B("GPUs didn’t get any extra memory");
   const pSoft = B("software just got much smarter");
   return (
     <>
-      <GPU x={340} y={520} w={360} h={150} start={pRam} color={C.cyan} />
+      <GPU x={340} y={520} w={360} h={150} start={0.02} color={C.cyan} />
       <Label text="same VRAM" x={520} y={730} size={TYPE.key} color={C.cyan} start={pRam + 0.2} />
       <Label text="12 GB" x={520} y={800} size={TYPE.body} color={C.soft} start={pRam + 0.4} />
       <Cross x={645} y={505} size={44} start={pRam + 0.7} />
       <Label text="no extra memory" x={520} y={875} size={TYPE.micro} color={C.red} start={pRam + 0.8} />
       <Arrow x1={800} y1={620} x2={1040} y2={620} start={pSoft} stroke={C.soft} seed={351} />
       {/* smarter software: gear-ish */}
-      <g transform="translate(1250 430)">
-        <SketchCircle x={160} y={160} d={190} start={pSoft} dur={0.45} stroke={C.green} strokeWidth={5} seed={352} />
+      <g transform="translate(1250 430)" opacity={t < pSoft ? 0.55 : 1}>
+        <SketchCircle x={160} y={160} d={190} start={0.05} dur={0.45} stroke={C.green} strokeWidth={5} seed={352} />
         {Array.from({length: 10}).map((_, i) => {
           const a = (i / 10) * Math.PI * 2;
           return (
@@ -333,7 +333,7 @@ export const S06_WhatChanged: React.FC<SceneProps> = ({t0}) => {
               y1={160 + Math.sin(a) * 98}
               x2={160 + Math.cos(a) * 124}
               y2={160 + Math.sin(a) * 124}
-              start={pSoft + 0.3 + i * 0.03}
+              start={0.2 + i * 0.03}
               dur={0.2}
               stroke={C.green}
               strokeWidth={7}
@@ -341,8 +341,8 @@ export const S06_WhatChanged: React.FC<SceneProps> = ({t0}) => {
             />
           );
         })}
-        <SketchCircle x={160} y={160} d={58} start={pSoft + 0.5} dur={0.3} stroke={C.green} strokeWidth={4} seed={364} />
-        <SketchPath d="M 120 160 Q 145 130 160 160 T 200 160" start={pSoft + 0.7} dur={0.4} stroke={C.fg} strokeWidth={4} seed={365} />
+        <SketchCircle x={160} y={160} d={58} start={0.35} dur={0.3} stroke={C.green} strokeWidth={4} seed={364} />
+        <SketchPath d="M 120 160 Q 145 130 160 160 T 200 160" start={0.5} dur={0.4} stroke={C.fg} strokeWidth={4} seed={365} />
       </g>
       <Label text="smarter software" x={1410} y={810} size={TYPE.key} color={C.green} start={pSoft + 0.3} />
     </>

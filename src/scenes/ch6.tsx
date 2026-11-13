@@ -105,7 +105,7 @@ export const S54_BiggerStory: React.FC<SceneProps> = ({t0}) => {
       <SketchLine x1={690} y1={540} x2={690} y2={620} start={engines + 0.3} stroke={C.cyan} strokeWidth={5} seed={1627} />
       <SketchLine x1={1070} y1={540} x2={1070} y2={620} start={engines + 0.3} stroke={C.cyan} strokeWidth={5} seed={1628} />
       <Label text="GPU" x={880} y={360} size={TYPE.body} color={C.cyan} start={workspace} />
-      <Label text="workspace" x={880} y={470} size={TYPE.key} color={C.cyan} start={workspace + 0.2} />
+      <Label text="workspace" x={880} y={590} size={TYPE.key} color={C.cyan} start={workspace + 0.2} />
       {Array.from({length: 3}).map((_, i) => (
         <SketchRect key={i} x={690 + i * 120} y={430} w={90} h={80} start={workspace + 0.3 + i * 0.1} dur={0.3} stroke={C.purple} fill={C.well} radius={4} seed={1630 + i} strokeWidth={2.5} />
       ))}

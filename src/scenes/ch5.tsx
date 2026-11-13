@@ -290,7 +290,7 @@ export const S50_OutOfVRAM: React.FC<SceneProps> = ({t0}) => {
   const split = B("work out the split");
   return (
     <>
-      <GPU x={300} y={300} w={480} h={190} start={out} color={C.red} label="VRAM" />
+      <GPU x={300} y={300} w={480} h={190} start={0.1} color={C.red} label="VRAM" />
       <RAMSticks x={1240} y={250} count={5} height={260} start={out + 0.2} color={C.green} />
       <Label text="system RAM" x={1440} y={555} size={TYPE.micro} color={C.green} start={out + 0.4} />
       <Label text="full" x={540} y={540} size={TYPE.big} color={C.red} start={out + 0.3} />

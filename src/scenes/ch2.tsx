@@ -101,10 +101,10 @@ export const S09_VRAM: React.FC<SceneProps> = ({t0}) => {
       <SketchRect x={1090} y={300} w={340} h={320} start={model} dur={0.5} stroke={C.purple} fill={C.panel} radius={6} seed={424} strokeWidth={4} />
       <Label text="125B" x={1260} y={460} size={TYPE.big} color={C.purple} start={model + 0.3} />
       <SketchRect x={1130} y={370} w={260} h={220} start={bigger} dur={0.5} stroke={C.yellow} fill="none" radius={4} seed={425} strokeWidth={3} />
-      <Label text="shrunk" x={1260} y={375} size={TYPE.micro} color={C.yellow} start={bigger + 0.2} />
+      <Label text="shrunk" x={1260} y={345} size={TYPE.micro} color={C.yellow} start={bigger + 0.2} />
       <Arrow x1={1080} y1={470} x2={770} y2={500} start={bigger + 0.4} stroke={C.red} seed={426} />
-      <Label text="still bigger" x={960} y={780} size={TYPE.key} color={C.red} start={bigger + 0.7} />
-      <Label text="than 24 GB" x={960} y={845} size={TYPE.small} color={C.soft} start={bigger + 0.9} />
+      <Label text="still bigger" x={960} y={780} size={TYPE.key} color={C.red} start={bigger + 0.1} />
+      <Label text="than 24 GB" x={960} y={845} size={TYPE.small} color={C.soft} start={bigger + 0.25} />
       <g opacity={t > model ? 1 : 0}>
         <SketchCircle x={750} y={470} d={72} start={model + 0.2} dur={0.3} stroke={C.red} strokeWidth={4} seed={427} />
         <Label text="no" x={750} y={470} size={TYPE.body} color={C.red} start={model + 0.45} />
@@ -150,7 +150,7 @@ export const S11_Fit: React.FC<SceneProps> = ({t0}) => {
   const give = B("or giving up");
   return (
     <>
-      <SketchRect x={590} y={280} w={740} h={480} start={fit} dur={0.5} stroke={C.purple} fill={C.panel} radius={8} seed={441} strokeWidth={4} />
+      <SketchRect x={590} y={280} w={740} h={480} start={0.1} dur={0.5} stroke={C.purple} fill={C.panel} radius={8} seed={441} strokeWidth={4} />
       <Label text="125B" x={690} y={350} size={TYPE.big} color={C.purple} start={fit + 0.2} />
       <SketchRect x={750} y={390} w={420} h={280} start={fit + 0.35} dur={0.5} stroke={C.cyan} fill={C.well} radius={6} seed={442} strokeWidth={4} />
       <Label text="VRAM" x={855} y={470} size={TYPE.body} color={C.cyan} start={fit + 0.5} />
@@ -184,9 +184,9 @@ export const S12_WhatIf: React.FC<SceneProps> = ({t0}) => {
   return (
     <>
       <SketchRect x={420} y={280} w={540} h={560} start={0.2} dur={0.5} stroke={C.cyan} fill={C.panel} radius={18} seed={461} strokeWidth={4} />
-      <Label text="GPU" x={690} y={245} size={TYPE.body} color={C.cyan} start={whatIf + 0.15} />
+      <Label text="GPU" x={690} y={245} size={TYPE.body} color={C.cyan} start={0.5} />
       <SketchRect x={1060} y={280} w={540} h={560} start={0.35} dur={0.5} stroke={C.green} fill={C.panel} radius={18} seed={462} strokeWidth={4} />
-      <Label text="RAM" x={1330} y={245} size={TYPE.body} color={C.green} start={whole + 0.15} />
+      <Label text="RAM" x={1330} y={245} size={TYPE.body} color={C.green} start={0.65} />
       {/* model chunks */}
       {[0, 1].map((i) => (
         <SketchRect key={i} x={490 + i * 220} y={400 + i * 150} w={190} h={130} start={whatIf + 0.3 + i * 0.15} dur={0.35} stroke={C.purple} fill={C.well} radius={5} seed={463 + i} strokeWidth={3} />
@@ -195,7 +195,7 @@ export const S12_WhatIf: React.FC<SceneProps> = ({t0}) => {
         <SketchRect key={`r${i}`} x={1130 + i * 220} y={400 + i * 150} w={190} h={130} start={whole + 0.3 + i * 0.15} dur={0.35} stroke={C.purple} fill={C.well} radius={5} seed={466 + i} strokeWidth={3} />
       ))}
       <Arrow x1={990} y1={530} x2={1035} y2={530} start={whole + 0.6} stroke={C.green} seed={468} />
-      <Label text="some pieces wait in RAM" x={1330} y={680} size={TYPE.micro} color={C.soft} start={whole + 0.8} />
+      <Label text="some pieces wait in RAM" x={1330} y={760} size={TYPE.micro} color={C.soft} start={whole + 0.8} />
       <Label text="not all at once" x={960} y={920} size={TYPE.key} color={C.green} start={once} />
     </>
   );
@@ -341,25 +341,25 @@ export const S17_ThreeIdeas: React.FC<SceneProps> = ({t0}) => {
     <>
       {cards.map((c, i) => (
         <g key={c.n}>
-          <SketchRect x={660} y={c.y} w={600} h={130} start={three + 0.3 + i * 0.35} dur={0.4} stroke={i === 0 ? C.purple : i === 1 ? C.cyan : C.green} fill={C.panel} radius={10} seed={511 + i} strokeWidth={3.5} />
-          <Label text={c.n} x={715} y={c.y + 65} size={TYPE.big} color={C.soft} start={three + 0.4 + i * 0.35} />
+          <SketchRect x={660} y={c.y} w={600} h={130} start={0.05 + i * 0.18} dur={0.4} stroke={i === 0 ? C.purple : i === 1 ? C.cyan : C.green} fill={C.panel} radius={10} seed={511 + i} strokeWidth={3.5} />
+          <Label text={c.n} x={715} y={c.y + 65} size={TYPE.big} color={C.soft} start={0.12 + i * 0.18} />
           {c.icon === "dots" ? (
             <g>
               {Array.from({length: 7}).map((_, k) => (
-                <SketchCircle key={k} x={800 + k * 34} y={c.y + 65} d={18} start={three + 0.5 + i * 0.35 + k * 0.03} dur={0.2} stroke={C.purple} fill={k % 3 === 0 ? C.purple : "none"} seed={520 + k} strokeWidth={2} />
+                <SketchCircle key={k} x={800 + k * 34} y={c.y + 65} d={18} start={0.18 + i * 0.18 + k * 0.02} dur={0.2} stroke={C.purple} fill={k % 3 === 0 ? C.purple : "none"} seed={520 + k} strokeWidth={2} />
               ))}
             </g>
           ) : c.icon === "swap" ? (
             <g>
-              <SketchRect x={790} y={c.y + 35} w={60} h={60} start={three + 0.5 + i * 0.35} dur={0.25} stroke={C.cyan} fill={C.well} seed={530} />
-              <Arrow x1={860} y1={c.y + 65} x2={950} y2={c.y + 65} start={three + 0.6 + i * 0.35} stroke={C.cyan} seed={531} />
-              <SketchRect x={965} y={c.y + 35} w={60} h={60} start={three + 0.7 + i * 0.35} dur={0.25} stroke={C.cyan} fill={C.well} seed={532} />
+              <SketchRect x={790} y={c.y + 35} w={60} h={60} start={0.18 + i * 0.18} dur={0.25} stroke={C.cyan} fill={C.well} seed={530} />
+              <Arrow x1={860} y1={c.y + 65} x2={950} y2={c.y + 65} start={0.28 + i * 0.18} stroke={C.cyan} seed={531} />
+              <SketchRect x={965} y={c.y + 35} w={60} h={60} start={0.38 + i * 0.18} dur={0.25} stroke={C.cyan} fill={C.well} seed={532} />
             </g>
           ) : (
             <g>
-              <SketchRect x={790} y={c.y + 25} w={80} h={80} start={three + 0.5 + i * 0.35} dur={0.25} stroke={C.green} fill={C.well} seed={533} />
-              <Arrow x1={880} y1={c.y + 65} x2={940} y2={c.y + 65} start={three + 0.6 + i * 0.35} stroke={C.green} seed={534} />
-              <SketchRect x={955} y={c.y + 40} w={50} h={50} start={three + 0.7 + i * 0.35} dur={0.25} stroke={C.green} fill={C.well} seed={535} />
+              <SketchRect x={790} y={c.y + 25} w={80} h={80} start={0.18 + i * 0.18} dur={0.25} stroke={C.green} fill={C.well} seed={533} />
+              <Arrow x1={880} y1={c.y + 65} x2={940} y2={c.y + 65} start={0.28 + i * 0.18} stroke={C.green} seed={534} />
+              <SketchRect x={955} y={c.y + 40} w={50} h={50} start={0.38 + i * 0.18} dur={0.25} stroke={C.green} fill={C.well} seed={535} />
             </g>
           )}
         </g>
